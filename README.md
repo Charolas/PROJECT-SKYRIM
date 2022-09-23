@@ -1,4 +1,7 @@
 # PROJECT-SKYRIM
+
+https://discord.gg/WgWxKwhN
+
 This is the GITHUB Repository for PROJECT: SKYRIM wabbajack modlist.
 
 PROJECT: SKYRIM is the ultimate modding goal to achieve Skyrim's greatness as if it were released today, the all-you-need modlist to fulfill your adventurer spirit and achieve chim as no other could. PROJECT: SKYRIM comes with a fully automated package to install 1700 mods, overhauling its systems, quests, NPCs, visuals, objectives, and world spaces, leaving no corner untouched. It's the closest you'll get to TESVI today. 
