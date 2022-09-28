@@ -99,7 +99,7 @@ Inside the game procedure:
 
 3 - After that, I recommend cleaning the clutter on your inventory, simply read the enslaved wenches, use the additem menu to receive the additem menus and get rid of everything else
 
-4 - Then, choose your alternate start from the mara statue,  after spawning in its location, open the esc menu, and then go to the MCM tab, look for "MCM Recorder", click it and find "After alternate start", click that to begin the second procedure, close all menus and you'll be prompted with a text, click on "run recording", and wait for a while
+4 - Then, choose your alternate start by exploring the realm,  after spawning in its location, open the esc menu, and then go to the MCM tab, look for "MCM Recorder", click it and find "After alternate start", click that to begin the second procedure, close all menus and you'll be prompted with a text, click on "run recording", and wait for a while
 
 5 - Then, open the MCM menu again, look for "Wet Function Redux SE", click on that, click on the Targets menu, on the top right click on the selection of your character, and then hit "START EFFECT", close all menus
 
