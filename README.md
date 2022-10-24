@@ -6,7 +6,7 @@ This is the GITHUB Repository for PROJECT: SKYRIM wabbajack modlist.
 
 PROJECT: SKYRIM is the ultimate modding goal to achieve Skyrim's greatness as if it were released today, the all-you-need modlist to fulfill your adventurer spirit and achieve chim as no other could. PROJECT: SKYRIM comes with a fully automated package to install 1700 mods, overhauling its systems, quests, NPCs, visuals, objectives, and world spaces, leaving no corner untouched. It's the closest you'll get to TESVI today. 
 
-Features
+# Features
 
 Modern Combat overhauled:
 Valhalla Combat
@@ -69,6 +69,8 @@ a non-gsync monitor (it's old as fuck I'm sorry)
 The only spec that I'll recommend having better than mine is a graphics card, anything from a GTX 1080/RTX 3050 to a RTX 3090 will be able to run this way better, I am pretty sure that RTX 3070TI will run this at 60 FPS  on exteriors without too much drop (if any) on heavy areas. 
 Installation steps
 
+# How To Install
+
 1 -  Download Wabbajack.exe from it's website and put it in C:\Wabbajack (recommended)
 
 2 - Download my Project Skyrim.rar to a folder on C:\Project Skyrim Files (preferably the latest version unless told to avoid it)
@@ -93,6 +95,8 @@ Known installer issues: sometimes mods that are off nexus might get broken on th
 NOTE: the ENB files have been optimized for max performance, I'll upload different presets in a few hours to suit everyone's tastes and hardwares (as well as inis for the game itself, the default inis are bethini medium preset with some custom optimizations)
 Inside the game procedure:
 
+# Inside The Game
+
 1 - After hitting on a new game and passing through the RaceMenu tab, the mods will start to load and configure itself, don't worry, this process is automatic and won't take long
 
 2 - I recommend waiting a little until a pink bar appears on your hud, then press "-" on your numerical keys (the right part of the keyboard) and then press 9 on your standard keys (the middle part of the keyboard). This will make both the bar disappear and disable the poser framework for screenshots 
@@ -108,10 +112,3 @@ Known game issues:
 
 Shadow of Skyrim refuses to start sometimes, but can be fixed by trying again
 There is a floating dagger on riverwood that should be attached to a tree that got removed due to Nature of The Wild Lands mod, I'll fix it in a later update by adding an ESL patch to it
-
--[ababuda](#project-skyrim)
-
-# Cu do meu pai
-
-ababbdasldjh
-
