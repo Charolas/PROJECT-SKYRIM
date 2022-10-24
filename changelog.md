@@ -319,6 +319,7 @@
 - SSE FPS Stabilizer
 - Snowy Surfaces Sound Collision and Aesthetics
 - Downgraded Improved Camera
+- Donwgraded Maximum Carnage 7.0
 
 
 ## 0.5.0.2
