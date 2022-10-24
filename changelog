@@ -1,24 +1,47 @@
-changelog 0.5.0.2
+# Changelog
 
-- readded poserhotkeys plus sse
-- switched valhalla combat stun to off (elden rim compatibility) advice given by beachsideyo
+## 0.6.0
+
+### Added
+
+- Poser Hotkeys Plus SSE
+- Halo's Poser
+- Kinoko Poser
+- Fluffy Fox poser
+
+### Fixes and Tweaks
+
+- Switched Valhalla Combat stun setting to off (Elden Rim compatibility) advice given by beachsideyo
 
 
-changelog 0.5.0.1
+## 0.5.0.1
 
--removed SPID bikinification (for NPCs)
--added snores of skyrim
--added mihail new chicken rextexture
--added TW3 horse steps sounds to cover missing from IHSS
--updated IED
--added cloaks and capes HDT-SMP
+### Added
+
+- Snores of skyrim
+- Mihail new chicken rextexture
+- TW3 horse steps sounds to cover missing from IHSS
+- Cloaks and capes HDT-SMP
+- Lux Via - Cathedral Mountain Flowers
+
+### Updated
+- IED
+- Devour
+- USMP 
+- Onxy Lancer armor
+- Unnoficial EFPS patches
+- IA 3ba RmF
+
+### Removed
+
+- Shadow Boost
+- TAA Flicker Fixer
+
+### Fixes and Tweaks
+
 -forceadded presets from sithlord
 -fixed windyridge
--removed shadow boost and TAA flicker fixer
--updated devour
 -redid some ini changes on SkyrimSouls RE, sseengine fixes (alongside its update)
--updated USMP 
--updated Onxy Lancer armor
--updated Unnoficial EFPS patches
--added lux via - cathedral mountain flowers
--updated IA 3ba RmF
+
+
+
