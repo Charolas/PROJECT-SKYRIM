@@ -109,5 +109,5 @@ Known game issues:
 Shadow of Skyrim refuses to start sometimes, but can be fixed by trying again
 There is a floating dagger on riverwood that should be attached to a tree that got removed due to Nature of The Wild Lands mod, I'll fix it in a later update by adding an ESL patch to it
 
+[ababuda](#project skyrim)
 
-abudaba
