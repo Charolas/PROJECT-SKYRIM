@@ -71,29 +71,45 @@ Installation steps
 
 # How To Install
 
-1 -  Download Wabbajack.exe from it's website and put it in C:\Wabbajack (recommended)
+This is a precise and easy-to-install tutorial about the mod list Project Skyrim. We aim to streamline the process and help you to remove any doubts about the installation!
 
-2 - Download my Project Skyrim.rar to a folder on C:\Project Skyrim Files (preferably the latest version unless told to avoid it)
+As well as in text-form, we have videos to help with directions as well.
 
-3 - Extract my Project Skyrim.rar
+Minimum Hardware/Software Requirements: 
 
-4 - Run Wabbajack and click on the gear icon on the top right and look to the left panel to log in into your accounts
+Ryzen 5 3600 or Similar
+Nvidia GTX 1080 or Similar
+16GB RAM DRR4
+~290GB for Install 
+~190GB for Download
 
-5 - Click on Install from Disk and choose the wabbajack file that you've extracted from Project Skyrim.rar
+Loverslab Account
+Vector plexus Account
+Nexus Account (Premium recommended)
+Wabbajack: https://www.wabbajack.org/
 
-6 - On installation location, choose a new folder on your C:, i.e: C:\Project Skyrim
+Skyrim Special Edition on Steam
 
-7 - On downloads location, choose a new folder to download the mods and files, this folder can be deleted later to save space, however, I do recommend you to choose a folder that is on another drive, and yes, it can be a HDD because this is only for providing sources to the installation
+"Note: Loverslab requires a VPN for some users, Asian countries cannot access Loverslab (Japan, Thailand etc.)
 
-8 - Click on the "play" button and wait
+### WARNING: Before you start downloading Project Skyrim via Wabbajack, TURN OFF your antivirus to avoid any problems during mod list installation. You can turn on your antivirus have you are done with Wabbajack. 
 
-9 - There will be a few "manual" downloads, wabbajack will prompt you to click to download a certain mod, there are around 14 mods that need this process, however there are two mods specifically which need you to scroll down to find certain attachments, don't worry they aren't hard to find, but in the prompt there will be a "please hit CTRL F", I didn't knew it but CTRL F doesn't work on the Wabbajack in-built browser, so just scroll down, I'm sorry.
+1 - Start with a fresh install of Skyrim Special Edition or Anniversary Edition, ideally from Steam. (If you already have a modded Skyrim profile in MO2, you will be fine. Project Skyrim will install a new MO2 for you.)
+    Installing on an SSD is recommended but an HDD will work as well.
 
-10 - After the prompts for the manual downloads are over, just wait, the average install  time is around 6+ hours, it really depends on your internet connection and your hardware 
-Charolas — Hoje às 04:45
-Known installer issues: sometimes mods that are off nexus might get broken on the installation, this happened on older versions, I am unsure if it will happen in this recent versions, if there are any issues as extraction errors, don't worry, you'll simply need to download the file manually and replace it in the Wabbajack downloads folder that you've set so it can continue the procedure, feel free to say something in the help-and-support channel that I'll be there to guide you through this process, note that this only happens with non-nexus downloads, so if it happens it will be 15 files at max.
-NOTE: the ENB files have been optimized for max performance, I'll upload different presets in a few hours to suit everyone's tastes and hardwares (as well as inis for the game itself, the default inis are bethini medium preset with some custom optimizations)
-Inside the game procedure:
+2 - Download Project Skyrim and the INI files here: https://www.nexusmods.com/skyrimspecialedition/mods/76466/?tab=description
+Nexus Mods :: Skyrim Special Edition
+
+3 - Create three new folders in your drive; "Project Skyrim" | "Wabbajack" | "Wabbajack Downloads" like so:
+
+![unknown (1)](https://user-images.githubusercontent.com/116535023/197645646-cdc7d058-43c0-403f-80cb-038ea317f0cb.png)
+
+Open the downloaded Project Skyrim.rar file; you can use a program like 7zip ( https://www.7-zip.org/download.html )
+
+Copy the files inside to your "Wabbajack" folder.
+
+Also copy the Wabbajack files to your folder "Wabbajack", it should include Wabbajack.exe and wabbajack-cli.bat
+
 
 # Inside The Game
 
