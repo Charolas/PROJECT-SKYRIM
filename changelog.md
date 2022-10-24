@@ -282,6 +282,7 @@
 - Unnoficial eFPS Patches
 - Payload Interpreter
 - Yes Im sure
+- enbseries
 
 ### Removed
 
@@ -317,6 +318,7 @@
 - Enemy Variation Wenches Leveled Lists
 - SSE FPS Stabilizer
 - Snowy Surfaces Sound Collision and Aesthetics
+- Downgraded Improved Camera
 
 
 ## 0.5.0.2
