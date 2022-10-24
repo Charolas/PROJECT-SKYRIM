@@ -1,6 +1,12 @@
-# Changelog
+# Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.6.0](#060) - `10/24/2022`
+- #### [0.5.0.2](#0502) - `10/6/2022`
+- #### [0.5.0.1](#0501) - `10/4/2022`
+#
 
-## 0.6.0
+# 0.6.0 - A New Journey
+
+- #### Save Compatible : No
 
 ### Added
 
@@ -322,7 +328,7 @@
 - Donwgraded Maximum Carnage 7.0
 
 
-## 0.5.0.2
+# 0.5.0.2
 
 ### Added
 
@@ -336,7 +342,7 @@
 - Switched Valhalla Combat stun setting to off (Elden Rim compatibility) advice given by beachsideyo
 
 
-## 0.5.0.1
+# 0.5.0.1
 
 ### Added
 
