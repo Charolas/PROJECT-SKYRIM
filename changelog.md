@@ -133,7 +133,7 @@
 - Equippable Underwear for NPCS - Himbo refit
 - Afterlife Resurrected
 - Armor Rating Rescaled SKSE Remake
-- - Pride of Skyrim AIO
+- Pride of Skyrim AIO
 - A Rose in the Snow
 - M'rissi's Tails of Troubles SE
 - Fluffy M'rissi Replacer
