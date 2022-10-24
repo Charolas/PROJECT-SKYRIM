@@ -1,6 +1,12 @@
-changelog INI
+# INI Changelog
+
+## 1.2
+
+### Removed
+- VSyncPresentInterval (set to 0)
 
 
-1.1 UPDATE
+## 1.1
 
--removed sd3 device from inis.
+### Removed
+- SD3 device from inis.
