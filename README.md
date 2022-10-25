@@ -1,104 +1,57 @@
-# [PROJECT-SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+# PROJECT SKYRIM
+- [PROJECT SKYRIM](#project-skyrim)
+  - [Preamble](#preamble)
+  - [Installation](#installation)
+     - [Pre-Installation](#pre-installation)
+       - [PC Specifications](#pc-specifications) 
+       - [Websites & Programs](#websites--programs)
+     - [Wabbajack Installation](#wabbajack-installation)
+  - [Inside The Game](#inside-the-game)
+  - [Noteworthy Mods](#noteworthy-mods)
+      - [Combat Overhauls](#combat-overhauls)
+      - [Playstyle Overhauls](#playstyle-overhauls)
+      - [Immersive & Survival Overhauls](immersive-survival-overhauls)
+      - [Quests](#quests)
+### [Discord](https://discord.gg/WgWxKwhN) | [Download](url)
+# Preamble
 
-https://discord.gg/WgWxKwhN
+**PROJECT SKYRIM** is the ultimate modding goal to achieve Skyrim's greatness as if it were released today, the all-you-need modlist to fulfill your adventurer spirit and achieve chim as no other could. 
 
-This is the GITHUB Repository for PROJECT: SKYRIM wabbajack modlist.
+Comes with a fully automated package to install 1700 mods, overhauling its systems, quests, NPCs, visuals, objectives, and world spaces, leaving no corner untouched. It's the closest you'll get to TESVI today. 
 
-PROJECT: SKYRIM is the ultimate modding goal to achieve Skyrim's greatness as if it were released today, the all-you-need modlist to fulfill your adventurer spirit and achieve chim as no other could. PROJECT: SKYRIM comes with a fully automated package to install 1700 mods, overhauling its systems, quests, NPCs, visuals, objectives, and world spaces, leaving no corner untouched. It's the closest you'll get to TESVI today. 
+# Installation
+This is a precise and easy-to-install tutorial about the mod list Project Skyrim. We aim to streamline the process and help you to remove any doubts about the installation.
+## Pre-Installation
 
-# Features
+### PC Specifications
 
-Modern Combat overhauled:
-Valhalla Combat
-Chocolate Poise
-MCO/ADXP + SCAR
-Elden Rim AIO (with Elden Rim Power)
-Combat AI
-Elden Counter / Elden Parry
+- Ryzen 5 3600
+- Nvidia GTX 1080
+- 16GB RAM DRR4
+- 290GB for Install 
+- 190GB for Download
 
-System's overhauls to achieve balance and diversity in playstyle:
-Ordinator
- Mysticism
-Sacrilege 
-Growl
-Thaumaturgy
-Apothecary
-Wintersun 
-Skyrim Classes
-Morningstar
-Mundus Stones
+### Websites & Programs
+- [Loverslab Account](https://www.loverslab.com/)
+- [Vector plexus Account](https://vectorplexis.com/)
+- [Nexus Account (Premium recommended)](https://www.nexusmods.com/)
+- [Wabbajack](https://www.wabbajack.org/)
+- [Skyrim Special Edition (Steam)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)
 
-Immersion Overhauls and survival features:
-Sunhelm / Campsite / Honed Metal / Sidequests of Skyrim
-Bandit dialogue expansion / More to say / Misc Dialogue Edits / RDO / GDO / Immersive Speach Dialogues
-JS Misplaced Septims / JS Tripwires / JS Rugs, etc.
-Immersive Interactions / Eating Animations / Animated Poison/Potions / Gesture Animation Remix / NPCs Animation 
-Moon And Stars / Splashes of Storms / Rainbows / Shooting Stars / Storm Lightning
+### <sub>**Loverslab requires a VPN for some users, some countries cannot access Loverslab (Japan, Thailand etc.)**</sub>
 
-Quests
-All of the "Quest Expansion" Package alongside with some "Good Guys" and the famous alternatives like "Save the Ice Runner" and "Adoption Without Murder"
-Legacy of the Dragonborn SSE
-VIGILANT / UNSLAAD / GLENMORIL
-Beyond Skyrim: BRUMA
-The Wheels of Lull
-Identity Crisis
-The Tale of Tsatampra Xiros
+### Clean Skyrim
+Start with a fresh install of [Skyrim Special Edition or Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition). You should also clean up the Skyrim Special Edition folder in Documents/My Games/ by deleting its contents. Installing on an SSD is recommended but an HDD will work as well.
 
-And much more!
+### Download & INIs
+[Download Project Skyrim and the INI files here](https://www.nexusmods.com/skyrimspecialedition/mods/76466/?tab=description)
 
-To anyone having issues downloading PROJECT SKYRIM wabbajack latest install or anyone who simply doesn't know how to do it, don't worry, it's quite easy to do so, first you'll need:
-
--an original steam copy of skyrim special edition (it doesn't matter where you installed it, as long as it is in your PC)
-
--at least 270 GB of free SSD space (yeah a lot, I know, but it is worth it)
--at least 180 GB of free HDD space for the downloads
-
--a nexus account (premium recommended, although optional)
--a loverslab account
--a vector plexus account (vector plexus is also known as vector plexis, the site changed it's domain)
-
-these are MY specs:
-
-Ryzen 5 5600X
-16GB DDR4 3000Mhz
-NVIDIA GTX 1650
-SSD NVME 480GB
-a budget motherboard
-a non-gsync monitor (it's old as fuck I'm sorry)
-
-The only spec that I'll recommend having better than mine is a graphics card, anything from a GTX 1080/RTX 3050 to a RTX 3090 will be able to run this way better, I am pretty sure that RTX 3070TI will run this at 60 FPS  on exteriors without too much drop (if any) on heavy areas. 
-Installation steps
-
-# How To Install
-
-This is a precise and easy-to-install tutorial about the mod list Project Skyrim. We aim to streamline the process and help you to remove any doubts about the installation!
-
-As well as in text-form, we have videos to help with directions as well.
-
-Minimum Hardware/Software Requirements: 
-
-Ryzen 5 3600 or Similar
-Nvidia GTX 1080 or Similar
-16GB RAM DRR4
-~290GB for Install 
-~190GB for Download
-
-Loverslab Account
-Vector plexus Account
-Nexus Account (Premium recommended)
-Wabbajack: https://www.wabbajack.org/
-
-Skyrim Special Edition on Steam
-
-"Note: Loverslab requires a VPN for some users, Asian countries cannot access Loverslab (Japan, Thailand etc.)
-
+# Wabbajack Installation
 ### WARNING: Before you start downloading Project Skyrim via Wabbajack, TURN OFF your antivirus to avoid any problems during mod list installation. You can turn on your antivirus have you are done with Wabbajack. 
 
-1 - Start with a fresh install of Skyrim Special Edition or Anniversary Edition, ideally from Steam. (If you already have a modded Skyrim profile in MO2, you will be fine. Project Skyrim will install a new MO2 for you.)
-    Installing on an SSD is recommended but an HDD will work as well.
 
-2 - Download Project Skyrim and the INI files here: https://www.nexusmods.com/skyrimspecialedition/mods/76466/?tab=description
-Nexus Mods :: Skyrim Special Edition
+
+
 
 3 - Create three new folders in your drive; "Project Skyrim" | "Wabbajack" | "Wabbajack Downloads" like so:
 
@@ -184,3 +137,62 @@ Follow these instructions whenever you start a new playthrough:
      Wait until the recording finishes and confirm the pop up.
 
    Open MCM / mod Configuration again, scroll down to Shadows of Skyrim (Optional), click it. Then click on general, and then on enable. Confirm the pop up to close and wait.
+
+
+
+# Noteworthy Mods
+
+### Combat Overhauls
+- Valhalla Combat
+- Chocolate Poise
+- MCO/ADXP + SCAR
+- Elden Rim AIO (with Elden Rim Power)
+- Combat AI
+- Elden Counter / Elden Parry
+
+### Playstyle Overhauls
+- Ordinator
+- Mysticism
+- Sacrilege 
+- Growl
+- Thaumaturgy
+- Apothecary
+ Wintersun 
+- Skyrim Classes
+- Morningstar
+- Mundus Stones
+
+### Immersive & Survival Overhauls
+- Sunhelm
+- Campsite
+- Honed Metal
+- Sidequests of Skyrim
+- Bandit dialogue expansion  
+- More to say
+- Misc Dialogue Edits
+- RDO
+- GDO
+- Immersive Speach Dialogues
+- JS Misplaced Septims
+- JS Tripwires
+- JS Rugs, etc.
+- Immersive Interactions
+- Eating Animations
+- Animated Poison/Potions
+- Gesture Animation Remix
+- NPCs Animation 
+- Moon And Stars
+- Splashes of Storms
+- Rainbows
+- Shooting Stars
+- Storm Lightning
+
+
+### Quests
+- Legacy of the Dragonborn SSE
+- VIGILANT / UNSLAAD / GLENMORIL
+- Beyond Skyrim: BRUMA
+- The Wheels of Lull
+- Identity Crisis
+- The Tale of Tsatampra Xiros
+- All of the "Quest Expansion" Package alongside with some "Good Guys" and the famous alternatives like "Save the Ice Runner" and "Adoption Without Murder"
