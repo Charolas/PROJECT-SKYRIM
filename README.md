@@ -12,7 +12,7 @@
       - [Playstyle Overhauls](#playstyle-overhauls)
       - [Immersive & Survival Overhauls](immersive-survival-overhauls)
       - [Quests](#quests)
-### [Discord](https://discord.gg/WgWxKwhN) | [Download](url)
+### [Discord](https://discord.gg/qEfeWVjDgJ) | [Download](url)
 # Preamble
 
 **PROJECT SKYRIM** is the ultimate modding goal to achieve Skyrim's greatness as if it were released today, the all-you-need modlist to fulfill your adventurer spirit and achieve chim as no other could. 
