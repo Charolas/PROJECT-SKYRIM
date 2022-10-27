@@ -1,5 +1,6 @@
 # PROJECT SKYRIM
-# ![image](https://user-images.githubusercontent.com/27007797/198345189-f5a13427-e3e6-4ee3-b1e7-7199f75b19e3.png)
+# ![image](https://user-images.githubusercontent.com/27007797/198384791-fa458418-3449-48f2-8bf2-6c40ee191ed5.png)
+
 ---
 
 <h3 align="center">
@@ -18,7 +19,7 @@
   - [Installation](#installation)
      - [Pre-Installation](#pre-installation)
        - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
-       - [Installing Microsoft .NET 5.0]()
+       - [Installing Microsoft .NET 5.0](installing-microsoft-net-50)
        - [Websites & Programs](#websites--programs)
        - [Clean Skyrim](#clean-skyrim)
        - [Download & INIs](#download--inis)
@@ -80,6 +81,8 @@ I doubt you need to do this since you likely already have this installed. The pa
 ### Installing Microsoft .NET 5.0
 
 Please ensure you have .NET v5.0 installed (**EVEN IF YOU HAVE .NET 6.0 INSTALLED**). The game will not launch if you do not have it installed. Download the **desktop app x64 AND console app x64 installers** from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
+
+
 <a href="https://dotnet.microsoft.com/download/dotnet/5.0/runtime"><img alt="Microsoft" src="https://user-images.githubusercontent.com/27007797/198383090-15ce8391-fbc0-49a9-acb8-94b36ce3a811.png" width="555" height="294"></a>
 
 
