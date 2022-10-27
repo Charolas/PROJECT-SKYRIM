@@ -3,9 +3,9 @@
 
 - [PROJECT SKYRIM](#project-skyrim)
   - [Preamble](#preamble)
-  - [System Requirements](#system-requirements) 
-          - [Minimum Specs](#minimum-specs)
-          - [Recommended Specs](#recommended-specs)
+  - [System Requirements](#system-requirements)
+    - [Minimum Specs](#minimum-specs)
+    - [Recommended Specs](#recommended-specs)
   - [Installation](#installation)
      - [Pre-Installation](#pre-installation)
        - [Installing Microsoft Visual](url)
@@ -70,7 +70,7 @@ This is a precise and easy-to-install tutorial about the mod list Project Skyrim
 - [Vector plexus Account](https://vectorplexis.com/)
 - [Nexus Account (Premium recommended)](https://www.nexusmods.com/)
 - [Wabbajack](https://www.wabbajack.org/)
-- [Skyrim Special Edition (Steam)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)
+- [Skyrim Special Edition (Steam)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) **we only use the free content, it will downgrade for you automatically if you have other versions including AE.**
 
 ### <sub>**Loverslab requires a VPN for some users, some countries cannot access Loverslab (Japan, Thailand etc.)**</sub>
 
