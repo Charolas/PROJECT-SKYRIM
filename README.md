@@ -8,7 +8,8 @@
     - [Recommended Specs](#recommended-specs)
   - [Installation](#installation)
      - [Pre-Installation](#pre-installation)
-       - [Installing Microsoft Visual](url)
+       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
+       - [Installing Microsoft .NET 5.0]()
        - [Websites & Programs](#websites--programs)
        - [Clean Skyrim](#clean-skyrim)
        - [Download & INIs](#download--inis)
@@ -64,6 +65,9 @@ With the performance mode options being available, exact minimum requirements is
 # Installation
 This is a precise and easy-to-install tutorial about the mod list Project Skyrim. We aim to streamline the process and help you to remove any doubts about the installation.
 ## Pre-Installation
+### Installing Microsoft Visual C++ Redistributable Package
+
+I doubt you need to do this since you likely already have this installed. The package is required for MO2, and you can download it from **[Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)**. Download the x64 version under "Visual Studio 2015, 2017 and 2019". **[Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe)** if you can't find it.
 
 ### Websites & Programs
 - [Loverslab Account](https://www.loverslab.com/)
