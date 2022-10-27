@@ -1,5 +1,14 @@
 # PROJECT SKYRIM
 # ![image](https://user-images.githubusercontent.com/27007797/198345189-f5a13427-e3e6-4ee3-b1e7-7199f75b19e3.png)
+---
+
+<h3 align="center">
+   <a href="https://discord.gg/qEfeWVjDgJ/"><img alt="Discord"src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="50" height="50"></a> ︱
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/76466"><img alt="Nexus" src="https://raw.githubusercontent.com/github/explore/781dbc058383a2ee8259ebbab057292f16172d5e/topics/nexus-mods/nexus-mods.png" width="50" height="50"></a> ︱
+<a href="https://www.patreon.com/projectskyrim?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator"><img alt="Patreon" src="https://decentered.co.uk/wp-content/uploads/2019/12/patreon-logo-png-badge-7.png" width="50" height="50"></a>
+</h3>
+
+---
 
 - [PROJECT SKYRIM](#project-skyrim)
   - [Preamble](#preamble)
@@ -68,7 +77,9 @@ This is a precise and easy-to-install tutorial about the mod list Project Skyrim
 ### Installing Microsoft Visual C++ Redistributable Package
 
 I doubt you need to do this since you likely already have this installed. The package is required for MO2, and you can download it from **[Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)**. Download the x64 version under "Visual Studio 2015, 2017 and 2019". **[Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe)** if you can't find it.
+### Installing Microsoft .NET 5.0
 
+Please ensure you have .NET v5.0 installed (**EVEN IF YOU HAVE .NET 6.0 INSTALLED**). The game will not launch if you do not have it installed. Download the **desktop app x64 AND console app x64 installers** from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 ### Websites & Programs
 - [Loverslab Account](https://www.loverslab.com/)
 - [Vector plexus Account](https://vectorplexis.com/)
