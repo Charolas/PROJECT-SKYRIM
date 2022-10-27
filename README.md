@@ -19,7 +19,7 @@
   - [Installation](#installation)
      - [Pre-Installation](#pre-installation)
        - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
-       - [Installing Microsoft .NET 5.0](installing-microsoft-net-50)
+       - [Installing Microsoft .NET 5.0](#installing-microsoft-net-50)
        - [Websites & Programs](#websites--programs)
        - [Clean Skyrim](#clean-skyrim)
        - [Download & INIs](#download--inis)
@@ -99,6 +99,9 @@ Please ensure you have .NET v5.0 installed (**EVEN IF YOU HAVE .NET 6.0 INSTALLE
 
 ### Clean Skyrim
 Start with a fresh install of [Skyrim Special Edition or Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition). You should also clean up the Skyrim Special Edition folder in Documents/My Games/ by deleting its contents. Installing on an SSD is recommended but an HDD will work as well.
+
+### Start Skyrim
+Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
 
 ### Download & INIs
 [Download Project Skyrim and the INI files here](https://www.nexusmods.com/skyrimspecialedition/mods/76466/?tab=description)
