@@ -77,7 +77,7 @@ With the performance mode options being available, exact minimum requirements is
 - You can change the INI files, specially the resolution, either to cover higher resolutions such as 1440p or to reduce it so that NIS will increase it's performance
 - It's not recommended to play this modlist at 4K due to the lack of mod support to the widescreen fix.
 
-### Pagefile Configuration
+## Pagefile Configuration
   1. Press **Windows + R** on your keyboard
   2. Type **sysdm.cpl ,3**
   3. press **Enter**
@@ -92,7 +92,8 @@ With the performance mode options being available, exact minimum requirements is
   12. Press Yes to restart
   13. Restart your computer.
 <br>
-THIS IS NOT OPTIONAL, YOU CANNOT SKIP THIS STEP EVEN IF YOU HAVE 256 GB OF RAM.
+
+### THIS IS NOT OPTIONAL, YOU CANNOT SKIP THIS STEP EVEN IF YOU HAVE 256 GB OF RAM.
 
 
 # Installation
