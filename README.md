@@ -1,5 +1,5 @@
 # PROJECT SKYRIM
-# https://cdn.discordapp.com/attachments/869076735151443988/1035024490977054730/Project_Skyrim.png
+# ![image](https://user-images.githubusercontent.com/27007797/198385604-5258bfdf-76ec-449d-b196-ad4fffab9410.png)
 
 ---
 
