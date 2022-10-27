@@ -83,11 +83,12 @@ With the performance mode options being available, exact minimum requirements is
   5. Click the **Advanced** tab at the top
   6. at the Virtual memory section press **'Change...'**
   7. Disable **'Automatically manage paging file size for all drives'**
-  8. Set a custom size for the drive Skyrim is installed on with a mininum of at least **20480MB** (40960MB if higher)
-  9. Click Set
-  10. Click apply & OK
-  11. Press Yes to restart
-  12. Restart your computer.
+  8. Click **"Custom size:"**
+  9. Set a custom size for the drive Skyrim is installed on with a mininum of at least **20480MB** (40960MB if higher)
+  10. Click Set
+  11. Click apply & OK
+  12. Press Yes to restart
+  13. Restart your computer.
 <br>
 THIS IS NOT OPTIONAL, YOU CANNOT SKIP THIS STEP EVEN IF YOU HAVE 256 GB OF RAM.
 
