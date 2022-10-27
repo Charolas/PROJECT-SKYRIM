@@ -29,7 +29,7 @@
        - [Set the Game Language to English](#set-the-game-language-to-english)
        - [Download & INIs](#download--inis)
      - [Wabbajack Installation](#wabbajack-installation)
-  - [Inside The Game](#inside-the-game)
+  - [Starting The Game](#starting-the-game)
   - [Noteworthy Mods](#noteworthy-mods)
       - [Combat Overhauls](#combat-overhauls)
       - [Playstyle Overhauls](#playstyle-overhauls)
@@ -213,7 +213,7 @@ Wabbajack does not download meta files (these files give you info about what you
 ![unknown (5)](https://user-images.githubusercontent.com/116535023/197654365-cf1a1737-cd2a-4514-a19b-2dbdffe49bd2.png)
 
 
-# Inside The Game
+# Starting The Game
 
 Follow these instructions whenever you start a new playthrough:
    Create a new game - once you create your character, wait. Once a pop up saying "Start has finished playing" appears, you can close it.
