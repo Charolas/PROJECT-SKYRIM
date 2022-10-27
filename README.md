@@ -80,6 +80,11 @@ I doubt you need to do this since you likely already have this installed. The pa
 ### Installing Microsoft .NET 5.0
 
 Please ensure you have .NET v5.0 installed (**EVEN IF YOU HAVE .NET 6.0 INSTALLED**). The game will not launch if you do not have it installed. Download the **desktop app x64 AND console app x64 installers** from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
+<a href="https://dotnet.microsoft.com/download/dotnet/5.0/runtime"><img alt="Microsoft" src="https://user-images.githubusercontent.com/27007797/198383090-15ce8391-fbc0-49a9-acb8-94b36ce3a811.png" width="555" height="294"></a>
+
+
+
+
 ### Websites & Programs
 - [Loverslab Account](https://www.loverslab.com/)
 - [Vector plexus Account](https://vectorplexis.com/)
