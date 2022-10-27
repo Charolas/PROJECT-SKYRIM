@@ -8,8 +8,10 @@
 <a href="https://www.nexusmods.com/skyrimspecialedition/mods/76466"><img alt="Nexus" src="https://raw.githubusercontent.com/github/explore/781dbc058383a2ee8259ebbab057292f16172d5e/topics/nexus-mods/nexus-mods.png" width="50" height="50"></a> ︱
 <a href="https://www.patreon.com/projectskyrim?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator"><img alt="Patreon" src="https://decentered.co.uk/wp-content/uploads/2019/12/patreon-logo-png-badge-7.png" width="50" height="50"></a>
 </h3>
+<hr>
 
----
+<h4>
+
 
 - [PROJECT SKYRIM](#project-skyrim)
   - [Preamble](#preamble)
@@ -30,6 +32,7 @@
       - [Playstyle Overhauls](#playstyle-overhauls)
       - [Immersive & Survival Overhauls](immersive-survival-overhauls)
       - [Quests](#quests)
+   </h4>
 ### [Discord](https://discord.gg/qEfeWVjDgJ) | [Download](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
 # Preamble
 
