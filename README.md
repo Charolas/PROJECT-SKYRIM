@@ -19,7 +19,7 @@
       - [Playstyle Overhauls](#playstyle-overhauls)
       - [Immersive & Survival Overhauls](immersive-survival-overhauls)
       - [Quests](#quests)
-### [Discord](https://discord.gg/qEfeWVjDgJ) | [Download](url)
+### [Discord](https://discord.gg/qEfeWVjDgJ) | [Download](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
 # Preamble
 
 **PROJECT SKYRIM** is a modlist that is content and gameplay oriented, ***focusing on expansions, overhauls, and healthy adjustments to the systems and features that exist in Skyrim***, while expanding to become the most diverse. It focuses on gameplay, world space add-ons, quests, etc. 
