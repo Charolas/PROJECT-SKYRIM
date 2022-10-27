@@ -7,7 +7,11 @@
      - [Pre-Installation](#pre-installation)
        - [Installing Microsoft Visual](url)
        - [PC Specifications](#pc-specifications) 
+          - [Minimum Specs](#minimum-specs)
+          - [Recommended Specs](#recommended-specs)
        - [Websites & Programs](#websites--programs)
+       - [Clean Skyrim](#clean-skyrim)
+       - [Download & INIs](#download--inis)
      - [Wabbajack Installation](#wabbajack-installation)
   - [Inside The Game](#inside-the-game)
   - [Noteworthy Mods](#noteworthy-mods)
@@ -40,7 +44,7 @@ With the performance mode options being available, exact minimum requirements is
 
 
 
-#### **Maximum Specs**
+#### **Recommended Specs**
 | CPU        | GPU   |  RAM  | Performance|
 | ------------- |:-------------:| :-----:| :-----:|
 | Ryzen 5 5600x      | RTX 3070 TI | 16GB RAM DDR4 | 60 FPS |
