@@ -18,6 +18,7 @@
   - [System Requirements](#system-requirements)
     - [Minimum Specs](#minimum-specs)
     - [Recommended Specs](#recommended-specs)
+    - [Pagefile Configuration](#pagefile-configuration)
   - [Installation](#installation)
      - [Pre-Installation](#pre-installation)
        - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -74,6 +75,22 @@ With the performance mode options being available, exact minimum requirements is
 - You can change the INI files, specially the resolution, either to cover higher resolutions such as 1440p or to reduce it so that NIS will increase it's performance
 - It's not recommended to play this modlist at 4K due to the lack of mod support to the widescreen fix.
 
+### Pagefile Configuration
+  1. Press **Windows + R** on your keyboard
+  2. Type **sysdm.cpl ,3**
+  3. press **Enter**
+  4. Under the Performance section, press **'Settings'**
+  5. Click the **Advanced** tab at the top
+  6. at the Virtual memory section press **'Change...'**
+  7. Disable **'Automatically manage paging file size for all drives'**
+  8. Set a custom size for the drive Skyrim is installed on with a mininum of at least **20480MB** (40960MB if higher)
+  9. Click Set
+  10. Click apply & OK
+  11. Press Yes to restart
+  12. Restart your computer.
+<br>
+THIS IS NOT OPTIONAL, YOU CANNOT SKIP THIS STEP EVEN IF YOU HAVE 256 GB OF RAM.
+
 
 # Installation
 This is a precise and easy-to-install tutorial about the mod list Project Skyrim. We aim to streamline the process and help you to remove any doubts about the installation.
@@ -87,6 +104,7 @@ Please ensure you have .NET v5.0 installed (**EVEN IF YOU HAVE .NET 6.0 INSTALLE
 
 
 <a href="https://dotnet.microsoft.com/download/dotnet/5.0/runtime"><img alt="Microsoft" src="https://user-images.githubusercontent.com/27007797/198383090-15ce8391-fbc0-49a9-acb8-94b36ce3a811.png" width="555" height="294"></a>
+
 
 
 ### Websites & Programs
