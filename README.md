@@ -1,5 +1,5 @@
 # PROJECT SKYRIM
-# ![image](https://user-images.githubusercontent.com/27007797/198385604-5258bfdf-76ec-449d-b196-ad4fffab9410.png)
+![image](https://user-images.githubusercontent.com/27007797/198385604-5258bfdf-76ec-449d-b196-ad4fffab9410.png)
 
 ---
 
@@ -86,14 +86,12 @@ Please ensure you have .NET v5.0 installed (**EVEN IF YOU HAVE .NET 6.0 INSTALLE
 <a href="https://dotnet.microsoft.com/download/dotnet/5.0/runtime"><img alt="Microsoft" src="https://user-images.githubusercontent.com/27007797/198383090-15ce8391-fbc0-49a9-acb8-94b36ce3a811.png" width="555" height="294"></a>
 
 
-
-
 ### Websites & Programs
 - [Loverslab Account](https://www.loverslab.com/)
 - [Vector plexus Account](https://vectorplexis.com/)
 - [Nexus Account (Premium recommended)](https://www.nexusmods.com/)
 - [Wabbajack](https://www.wabbajack.org/)
-- [Skyrim Special Edition (Steam)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) **we only use the free content, it will downgrade for you automatically if you have other versions including AE.**
+- [Skyrim Special Edition (Steam)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) **Wabbajack will downgrade for you automatically (SE/AE)**
 
 ### <sub>**Loverslab requires a VPN for some users, some countries cannot access Loverslab (Japan, Thailand etc.)**</sub>
 
@@ -105,7 +103,7 @@ Start the game and exit once you're in the main menu. This will ensure any setti
 
 ### Download & INIs
 [Download Project Skyrim and the INI files here](https://www.nexusmods.com/skyrimspecialedition/mods/76466/?tab=description)
-
+<br>
 # Wabbajack Installation
 ### WARNING: Before you start downloading Project Skyrim via Wabbajack, TURN OFF your antivirus to avoid any problems during mod list installation. You can turn on your antivirus have you are done with Wabbajack. 
 
