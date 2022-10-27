@@ -144,13 +144,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 [Download Project Skyrim and the INI files here](https://www.nexusmods.com/skyrimspecialedition/mods/76466/?tab=description)
 <br>
 # Wabbajack Installation
-### WARNING: Before you start downloading Project Skyrim via Wabbajack, TURN OFF your antivirus to avoid any problems during mod list installation. You can turn on your antivirus have you are done with Wabbajack. 
-
-
-
-
-
-3 - Create three new folders in your drive; "Project Skyrim" | "Wabbajack" | "Wabbajack Downloads" like so:
+Create three new folders in your drive; "Project Skyrim" | "Wabbajack" | "Wabbajack Downloads" like so:
 
 ![unknown (1)](https://user-images.githubusercontent.com/116535023/197645646-cdc7d058-43c0-403f-80cb-038ea317f0cb.png)
 
