@@ -1,8 +1,11 @@
 # PROJECT SKYRIM
+# ![image](https://user-images.githubusercontent.com/27007797/198345189-f5a13427-e3e6-4ee3-b1e7-7199f75b19e3.png)
+
 - [PROJECT SKYRIM](#project-skyrim)
   - [Preamble](#preamble)
   - [Installation](#installation)
      - [Pre-Installation](#pre-installation)
+       - [Installing Microsoft Visual](url)
        - [PC Specifications](#pc-specifications) 
        - [Websites & Programs](#websites--programs)
      - [Wabbajack Installation](#wabbajack-installation)
@@ -15,9 +18,10 @@
 ### [Discord](https://discord.gg/qEfeWVjDgJ) | [Download](url)
 # Preamble
 
-**PROJECT SKYRIM** is the ultimate modding goal to achieve Skyrim's greatness as if it were released today, the all-you-need modlist to fulfill your adventurer spirit and achieve chim as no other could. 
+**PROJECT SKYRIM** is a modlist that is content and gameplay oriented, ***focusing on expansions, overhauls, and healthy adjustments to the systems and features that exist in Skyrim***, while expanding to become the most diverse. It focuses on gameplay, world space add-ons, quests, etc. 
 
-Comes with a fully automated package to install 1700 mods, overhauling its systems, quests, NPCs, visuals, objectives, and world spaces, leaving no corner untouched. It's the closest you'll get to TESVI today. 
+**PROJECT SKYRIM** also comes with an adult content addon, that is completely unintrusive, which means that nothing will appear on your face without you wishing for it to happen, you can completely ignore any and every **`NSFW feature and play Project Skyrim as if it never had anything of the sorts, I do it myself.`**
+
 
 # Installation
 This is a precise and easy-to-install tutorial about the mod list Project Skyrim. We aim to streamline the process and help you to remove any doubts about the installation.
@@ -25,11 +29,32 @@ This is a precise and easy-to-install tutorial about the mod list Project Skyrim
 
 ### PC Specifications
 
-- Ryzen 5 3600
-- Nvidia GTX 1080
-- 16GB RAM DRR4
+With the performance mode options being available, exact minimum requirements is hard to nail down, you may need to change INI files with lower systems.
+
+
+#### **Minimum Specs**
+| CPU        | GPU   |  RAM  | Performance|
+| ------------- |:-------------:| :-----:| :-----:|
+| Ryzen 5 3600      | Nvidia GTX 1080 | 16GB RAM DDR4 | 40 FPS |
+
+
+
+
+#### **Maximum Specs**
+| CPU        | GPU   |  RAM  | Performance|
+| ------------- |:-------------:| :-----:| :-----:|
+| Ryzen 5 5600x      | RTX 3070 TI | 16GB RAM DDR4 | 60 FPS |
+
+**You also need**
 - 290GB for Install 
 - 190GB for Download
+
+**Notes**
+- There is very low difference between High and High Optimized in terms of visuals, but you can get more FPS. 
+- All inis will change and vary depending on the specific area you are on game due to SKSE Plugins that will cover it for more FPS
+- The recommended INI file is High Optimized
+- You can change the INI files, specially the resolution, either to cover higher resolutions such as 1440p or to reduce it so that NIS will increase it's performance
+- It's not recommended to play this modlist at 4K due to the lack of mod support to the widescreen fix.
 
 ### Websites & Programs
 - [Loverslab Account](https://www.loverslab.com/)
