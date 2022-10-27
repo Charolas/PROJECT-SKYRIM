@@ -10,7 +10,6 @@
 </h3>
 <hr>
 
-<h4>
 
 
 - [PROJECT SKYRIM](#project-skyrim)
@@ -25,6 +24,9 @@
        - [Installing Microsoft .NET 5.0](#installing-microsoft-net-50)
        - [Websites & Programs](#websites--programs)
        - [Clean Skyrim](#clean-skyrim)
+       - [Start Skyrim](#start-skyrim)
+       - [Steam Library](#steam-library)
+       - [Set the Game Language to English](#set-the-game-language-to-english)
        - [Download & INIs](#download--inis)
      - [Wabbajack Installation](#wabbajack-installation)
   - [Inside The Game](#inside-the-game)
@@ -33,7 +35,7 @@
       - [Playstyle Overhauls](#playstyle-overhauls)
       - [Immersive & Survival Overhauls](immersive-survival-overhauls)
       - [Quests](#quests)
-   </h4>
+   
 ### [Discord](https://discord.gg/qEfeWVjDgJ) | [Download](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
 # Preamble
 
@@ -122,6 +124,20 @@ Start with a fresh install of [Skyrim Special Edition or Anniversary Edition](ht
 
 ### Start Skyrim
 Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
+
+
+### Steam Library
+
+If you have your Steam library in Program Files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
+I will not provide support to people with Skyrim in their Program Files folder.
+Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be `C:\SteamLibrary` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
+
+### Set the Game language to English
+
+Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
+
+Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
+
 
 ### Download & INIs
 [Download Project Skyrim and the INI files here](https://www.nexusmods.com/skyrimspecialedition/mods/76466/?tab=description)
