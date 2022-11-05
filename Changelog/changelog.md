@@ -1,8 +1,290 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.6.1}(#011) - `11/5/2022`
 - #### [0.6.0](#060) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
 
+## 0.6.1 - Not save compatible.
+
+# Added
+
+- OCum Ascended
+- OVirginity Reflowered
+- OStim Kaidan Patch
+- Ugly_Zodd Breton Preset
+- Widescreen Fixes (
+- SKYUI Widescreen Fixes
+- TES Loading Screen Widescreen Addon)
+- Main Menu Redone
+- That Night on the Lake
+- Immersive Equipping Animations
+- Read the Room
+- Menu Maid 2 - MCM Manager
+- Northern Roads - Additional Patches
+- NecDaz Feet
+- Depths of the Reach
+- Kapput - Melee Killmove Manager
+- Infinity Dodge DMCO
+- Consistency Fix - Vampire Scouts Only Spawn at Night
+- Reverb Interior Sounds Expansion
+- Phoenix Soul - HDT SMP (3ba)
+- Sprint Draw and Sheath Fixes
+- Simplicity of Settlements - Dragon Bridge  - BOS
+- Northern Roads Patch Collection
+- Behavior Data Injector
+- FYX 3D Whiterun Scaffold
+- Reach Fern Texture Replacer
+- Archery Gameplay Overhaul SE
+- Compatiblity Patch for Archery Gameplay Overhaul and XP32
+- Empyrean Warpaints
+- Freckle Mania 1 and CBBE (2)
+- Immersive Jewelry
+- Immersive Jewelry - JS Circlet Replacer Patch
+- Immersive Jewelry - Wobbly Empire Amulet Fix
+- Patches for Thaumaturgy (Immersive Jewelry)
+- Body Slots  - SkyUI and Immerisve Jewelry Config Patch)
+- dw's Palm and Sole Racemenu Overlays for Dark-Skinned Characters
+- OpenSex Anal Animations Add On
+- Main Menu Randomizer SE
+- Regional Sounds Expansion
+- Disable Turn Animation SE
+- Cathub
+- OAhegao NG
+- Halos Human HDT Tongues
+- For Honor in Skyrim | Gryphon
+- Less Vanilla Trees (33%)
+- Whiterun Navmesh
+- Dominion Armor
+- ESO Cursor
+- The Courer Crew
+- PI-CHO ENB
+- Azurite Weathers
+- For Honor in Skyrim | Centurion
+- SkyUI - Ghost Item Bug Fix
+- FollowerLivePackage SSE
+- Wealthy Marks - A pickpocket mod
+- Smooth Bow animation
+- Killmove Paralysis Prevention
+- Stop on Slash
+- TK Dodge SE/RE
+- Goetia Animations - Sprint
+- Goetia Animations - Male
+- Goetia Animations - Female
+- Imperious Races
+- Imperious - Interesting NPCs Patch
+- Imperious Cleaned Textures
+- Forceful Tongue - Shouts Overhaul
+- Mid Air Shouts - Shout while falling
+- QW's Grass Patch 1 - Veydosebrom Regions - Folkvangr - Cathedral - Depths of Skyrim
+- Caehtdral - 3D Pine Grass Full Coverage
+- Veydosebrom Regions - A skyrim Grass Overhaul - ENB Complex Grass
+- Folkvangr - Grass and Landscape Overhaul
+- Depths of Skyrim - An Underwater Overhaul SSE
+- Goetia Animations - Conditional Shouts
+- Sound Record Distributor
+- Aurora Fix
+- Lucien NPC Overhaul
+- Immersive Armor Himbo Conversion
+- Customize Weapon Speed
+- NPC Mage Balance Fix
+- YS Horns Pack
+- HORNY
+- Angelic Halos and Demonic Horns
+- Horns Aplenty
+- TK Dodge SE Sounds and High Quality
+- HQ Vanilla Tiny Rocks (performance addon)
+- Pelage - Boars and Otters
+- Smart NPC Potions - Enemies use Potions and Poisons
+- Enchantments and Potions Work For NPCS
+- Potions of Obtainable Progress
+- Challenging Spell Leraning Alternate Animation
+- Challengin Spell Learning 
+- Don't Eat Spell Tomes (API)
+- The Dark Arts
+- Armors of the Velothi PT1 and PT2
+- Pause Menu After Load Screens
+- Skyrim Always Active
+- FISSES
+- Refined Water Droplet
+- WetFunctionRedux OStim Patch
+- Apocrypha Sky Fix
+- Demonic Creatures Gorgon Tweak
+- JK's Skyrim - Riften Plaza Height Fix
+- Recursion Monitor
+- Canis Hysteria - The Werewolf Disease
+- Static Skill Leveling
+- RaceMenu Undress
+- Skyrim Unbound
+- Skyrim Paper Map by Caro Tuts for FWMP
+- FYX Water SPlash
+- RASS Shaders and Drop water replacer
+- In Game Patch Creator
+- Skyrim Platform
+- Jaxonz Positioner
+- Shadow of Sunlight
+- For Honor In  Skyrim | Peacekeeper
+- Silverthorn Weaponry
+- Bent Pines II
+- Smart Optimal Salves
+- Custom Difficulty UI
+- RaceMenu Animated Overlays
+- CRB Auri 
+
+- PROJECT Music - Nordic  (
+- Songs to Eat Venison To,
+- Nyghtfall - Dark Fantasy Music,
+- Yggdrasil Music,
+- Boreas Music Redone,
+- Nordenhamr - Viking Music
+- Ragnarok - Viking Battle Music)
+
+
+- Setting Loaders Series (
+- Vayne - Custom Voiced Follower
+- OSmp
+- OCum Ascended
+- Fertility Mode+
+- OBody NG
+- VIGILANT SE
+- Wyrmstooth
+- OVirginity Reflowered
+- Animated Interactions and Idles
+- Wet Function Redux SE
+- OStim - Legacy Settings Loader
+- Faith - Breton Preset
+- Smart Optimal Salves
+- XP32 Maximum Skeleton Special Extended
+- Dirt and Blood Dynamis Visual  effects
+- Enhanced Blood Textures
+- Ordinator
+- Frozen Electrocuted Combustioon
+- Apocalypse - Magic of Skyrim
+- Sidequests of Skyrim
+- Immersive World Encounters FINAL
+- CBBE 3BA 
+- Immersive Interactions
+- Immersive Armors
+- Sacrilege Minimalist Vampires of Skyrim
+- Immersive Wenches
+- Atlas Map Markers
+- The Wheels of Lull
+- ClockWork
+- Legacy of the Dragonborn
+- Afterlife Resurrected
+- Animated Ingredients
+- Animated Poisons
+- Animated Potions
+- Wintersun
+- Violens
+- Timing is Everything
+- Thieves guild Requirements
+- Taunt Your Enemies
+- Take a Peek
+- SImple Offence Supression
+- RASS
+- QuickLoot EE
+- Morning Fogs
+- EVG Conditional Idles
+- A Matter of Time)
+
+
+- Controller Support (
+- Elden Equip
+- Controller Gamemap)
+
+- SkyShards Optional Package (
+- SkyShards
+- SkyShards FLM Animation
+- SkyShards ENB Light Animation)
+
+
+# Updated
+
+- Icy Mesh Remaster - Ice Glaciers and LOD
+- OpenSex 
+- OStim NG 
+- Dear Diary Dark Mode - SkyUI Menus Replacer SE
+- Eating Animations and Sounds - Sunhelm Patch
+- Eating Animations and Sounds
+- Civil War Lines Expansion
+- Animated Interactions and Idles
+- Unofficial eFPS Patches
+- ENB Light Inverntory Fix (ELIF)
+- Stagger Direction Fix - SSE
+- Navigator - Navmesh Fixes
+- VIGILANT - NPC Overhaul
+- Gesture Animation Remix 
+- lilebonymace's patches and xEdit Scripts
+- Khajiit Has Wares
+- Water for ENB
+- Excitable Subs for OStim
+- Eating Animations - MY HD version SE
+- Diziet's Player Home Bath 
+- VIGILANT and GlenMoril - Book Covers
+- DynDOLOD 3
+- DynDOLOD Resources SE
+- Smooth Moveset
+- Smooth Weapon Jump Animation
+- Smooth Random Jump Animation - Reworked
+- Beyond Skyrim - Bruma SE
+- Assorted Mesh Fixes
+- BNP Male and Female Skin
+- Water effects Brightness and reflections Fix
+- MCM Helper
+- College of Winterhold - Quest Expansion
+- Your Own Thoughts
+- SmoothCam
+- NPCs Names Distributor
+- Helena the High Sorceress
+- Fuz Ro D-oh
+- Northern Roads
+- kryptopyr's Patch Hub
+- AI Overhaul SSE - Patch Hub (RDO)
+- Remiel-Custom Voiced Dwemer and Specialist
+- LOTD Patches
+- IWant Widgets
+- amidianBorn Book of Silence
+- happy Little shrubs
+- Landscape and Water Fixes
+- OpenSex Compatiblity
+
+
+# Fixes and Tweaks
+
+- Fixed Autumnwatch Lodge
+- Fixed Stonehole Mine
+- Fixed Windhelm Entrance
+- Fixed Markarth Outskirts objects
+- Fixed Riverwood sign and whiterun signs positions
+- Fixed blocking config
+- Removed Dual Wield Spamming jump
+- Removed weird bashes from NPCs
+- Downgraded Elden Rim - Weapon Arts
+- Switched version of HD LOD'S Textures SE
+- Added Imperious metric units
+- Waterplants remove tamriellic grass
+- Ivarstead Sign Fix
+- Solitude fix
+- Fixed Solitude Crash
+- improved companions quest
+
+
+# Removed
+
+- JK Parallax Meshes
+- OCum
+- OVirginity
+- Nature of the Wildlands (temp)
+- Enhanced Landscapes (temp)
+- Dual Wield Blocking
+- Rudy ENB
+- Pristine Vanilla Movement
+- Realm of Lorkhan
+- Morningstar
+- Tamriellic Grass
+- Bow Rapid Combo
+- Pause menu unscripted
+- Evangeline
 
 ## 0.6.0 - A New Journey
 
