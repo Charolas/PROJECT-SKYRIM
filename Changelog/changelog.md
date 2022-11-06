@@ -8,6 +8,7 @@
 
 # Added
 
+- Lightining the 7000 Steps
 - OCum Ascended
 - OVirginity Reflowered
 - OStim Kaidan Patch
@@ -129,6 +130,7 @@
 - RaceMenu Animated Overlays
 - CRB Auri 
 - COMBAT AI
+- ENB Complex Grass
 
 - PROJECT Music - Nordic  (
 - Songs to Eat Venison To,
@@ -185,7 +187,8 @@
 - QuickLoot EE
 - Morning Fogs
 - EVG Conditional Idles
-- A Matter of Time)
+- A Matter of Time
+- Set of Skills)
 
 
 - Controller Support (
@@ -201,6 +204,7 @@
 # Updated
 
 - Icy Mesh Remaster - Ice Glaciers and LOD
+- The White Phial
 - OpenSex 
 - OStim NG 
 - Dear Diary Dark Mode - SkyUI Menus Replacer SE
