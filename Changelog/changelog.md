@@ -128,6 +128,7 @@
 - Custom Difficulty UI
 - RaceMenu Animated Overlays
 - CRB Auri 
+- COMBAT AI
 
 - PROJECT Music - Nordic  (
 - Songs to Eat Venison To,
@@ -284,6 +285,7 @@
 - Bow Rapid Combo
 - Pause menu unscripted
 - Evangeline
+- Modern Combat AI
 
 ## 0.6.0 - A New Journey
 
