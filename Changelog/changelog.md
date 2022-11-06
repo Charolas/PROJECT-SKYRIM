@@ -34,8 +34,7 @@
 - Behavior Data Injector
 - FYX 3D Whiterun Scaffold
 - Reach Fern Texture Replacer
-- Archery Gameplay Overhaul SE
-- Compatiblity Patch for Archery Gameplay Overhaul and XP32
+- Bow Rapid Combo / Bow Charge Plus
 - Empyrean Warpaints
 - Freckle Mania 1 and CBBE (2)
 - Immersive Jewelry
