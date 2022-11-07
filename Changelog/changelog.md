@@ -4,6 +4,37 @@
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
 
+## 0.6.1.1 - Save compatible.
+
+# Added
+
+- Animals Swim
+- Golden Saint Armory Revamped Retexture
+- shield fix (dominion armor)
+- shadowmourne
+- coco goddess of war v2
+
+# Updated
+
+- Regional Sounds Expansion
+- Sound Record Distributor
+- OpenSex Anal Animations
+- The White Phial - Tweaks and Enhancements
+- Sprint Draw and Sheath Fixes
+- Dominion Armor
+- Eating Animations and Sounds (with Precision Patch)
+- Immersive Strong Companions
+- enbseries
+- Darkstorm
+- water for enb 
+- immersive armors retexture and mesh fixes
+- the night of the lake ostim 
+
+# Fixes and Tweaks
+
+- fixed enbseries failing to download
+
+ 
 ## 0.6.1 - Not save compatible.
 
 # Added
