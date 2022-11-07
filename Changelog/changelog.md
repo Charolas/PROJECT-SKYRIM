@@ -275,6 +275,7 @@
 
 # Removed
 
+- Enemy Variation Wenches
 - JK Parallax Meshes
 - OCum
 - OVirginity
