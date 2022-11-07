@@ -35,6 +35,10 @@
 
 - fixed enbseries failing to download
 
+# Removed 
+
+- Ultimate Shouts  (not intentional)
+
  
 ## 0.6.1 - Not save compatible.
 
