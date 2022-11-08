@@ -1,9 +1,55 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.6.1.2](#011---save-compatible) - `11/8/2022`
 - #### [0.6.1.1](#0611---save-compatible) - `11/7/2022`
 - #### [0.6.1](#061---not-save-compatible) - `11/7/2022`
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+
+
+## 0.6.1.2 - Save compatible.
+
+# Added 
+
+- Windhelm Bridge Staris
+- God of War - Font Overhaul Patch
+- Galuna Smoothcam Preset
+- revenant's Sword | Dragonbane Only
+- OAhegao NG Fix
+- Slowsprint Bug Fix
+- Papyrus Tweak NG
+
+- settings loader series (
+- dmco loader
+- diziet's
+- immersive creatures)
+
+# Updated
+
+- Audio Overhaul for Skyrim
+- Regional Sounds Expansion
+- Kaputt
+- Darkstorm
+- lilebonymace patches
+- That Night on the Lake
+- Opensex Compatiblity
+- Eating Animations and Sounds - Sunhelm Patch
+
+# Fixes and Tweaks
+
+- Fixed dark arts not recognizing first necromancy act
+- attempt fix on katana keywords for animations
+- fix on UI bugs with dear diary
+- fix to overhaul UI with nordic + untarnished
+- attempt fix on bodyslide and invisible bodies
+- attempt fix on slow sprint sheath bug 
+- attempt fix on wabbajack file size
+- fix on 2H battleaxe animations
+- fix on god of war fonts being squares
+- fixed unintentional health regen on warrior stone
+
+
 
 ## 0.6.1.1 - Save compatible.
 
