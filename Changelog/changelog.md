@@ -1,5 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
-- #### [0.6.1.2](#011---save-compatible) - `11/8/2022`
+- #### [0.6.1.2](#0612---save-compatible)) - `11/8/2022`
 - #### [0.6.1.1](#0611---save-compatible) - `11/7/2022`
 - #### [0.6.1](#061---not-save-compatible) - `11/7/2022`
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
