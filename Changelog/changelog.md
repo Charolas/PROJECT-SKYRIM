@@ -64,7 +64,7 @@ Remember to tweak Surival Control Panel "Level up after sleep" function to "Alwa
 - removed double patch for clockwork
 - removed outdated broken patch for children outfits
 - Shadow of Skyrim weird animation after death
-
+- Fixed Nordic...ish - A TrueHUD preset based on Nordic UI not appearing
 
 
 # Removed
