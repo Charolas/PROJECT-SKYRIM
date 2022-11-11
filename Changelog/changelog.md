@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.6.1.3](#0613---save-compatible) - `11/10/2022`
 - #### [0.6.1.2](#0612---save-compatible) - `11/8/2022`
 - #### [0.6.1.1](#0611---save-compatible) - `11/7/2022`
 - #### [0.6.1](#061---not-save-compatible) - `11/7/2022`
@@ -6,7 +7,9 @@
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
 
-## changelog 0.6.1.3 
+## changelog 0.6.1.3 - Save Compatible. 
+
+Remember to tweak Surival Control Panel "Level up after sleep" function to "Always disabled" mode.
 
 # Added
 
