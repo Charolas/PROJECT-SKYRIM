@@ -60,6 +60,7 @@
 - Fixed MM prompt
 - removed double patch for clockwork
 - removed outdated broken patch for children outfits
+- Shadow of Skyrim weird animation after death
 
 
 
