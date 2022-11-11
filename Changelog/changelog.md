@@ -6,6 +6,67 @@
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
 
+## changelog 0.6.1.3 
+
+# Added
+
+- POISE
+- POISEBREAKER
+- Poise compatibility races
+- zxlice backstab (only backstab)
+- main menu smoke remove (mesh)
+- Yiska the Death Knight
+- Sunhelm Delay (MaskedRPGFan)
+- PAN Shield Sisters (Aela Only)
+- Birds and Flocks
+- Sunhelm Settings Loaders
+- Maximum Carnage Settings Loader
+- Survival Control Panel
+- Skylar Character Preset
+- MHIYH prompt fix
+- Smart Optimal Salves all potions patches
+- Tiny Patch Hub
+- no more laser printed book
+- ayame (gale) preset
+
+
+
+# Updated
+
+- Serana Dialogue Addon
+- SDA Patch Hub
+- Water for ENB 
+- Immersively Strong Warrior NPCs
+- Dirt and Blood - Immersive Addons
+- Unbound Reborn
+- Immersive Equipping Animations
+- Immersive Sounds Compendium - Sounds Records Distributor
+- Audio Overhaul of Skyrim
+- Werewolf Revert Effect Animations
+- bits and pieces child skin (renewal)
+- galuna smoothcam preset
+- northern roads patch collection
+- dirt and blood immersive addons
+
+
+
+# Fixes and Tweaks
+
+- removed bow rapid combo JUMP ATTACK ONLY (the rest is fine)
+- activated POISE compatibility for valhalla combat
+- fixed maps for bruma, wyrmstooth and skuldafn
+- changed quaterstaff, greatsword attack speed
+- RAID Change
+- Fixed MM prompt
+- removed double patch for clockwork
+- removed outdated broken patch for children outfits
+
+
+
+# Removed
+
+- main menu and loading smoke remover for ENB
+- my lovely aela
 
 
 ## 0.6.1.2 - Save compatible.
