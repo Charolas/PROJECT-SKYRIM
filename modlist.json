@@ -1,1 +1,49 @@
-
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "PROJECT Skyrim",
+    "description": "PROJECT SKYRIM is a modlist that is content and gameplay oriented, focusing on expansions, overhauls, and healthy adjustments to the systems and features that exist in Skyrim, while expanding to become the most diverse. It focuses on gameplay, world space add-ons, quests, etc.",
+    "author": "PROJECT TEAM",
+    "maintainers": [
+      "github/Charolas"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "ADXP | MCO",
+      "Balanced",
+      "Legacy of the Dragonborn",
+      "Quests", 
+      "Shadow of Skyrim",
+      "Enaisimonrim",
+      "Lore-friendly",
+      "Dark Fantasy",
+      "Nordic",
+      "Immersion",
+      "OStim",
+      "Survival",
+      "Roleplaying",
+      "Beta"
+    ],
+    "nsfw": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://i.imgur.com/dMRTkXA.png",
+      "readme": "https://github.com/Charolas/PROJECT-SKYRIM/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "machineURL",
+      "discordURL": "https://discord.gg/NQS2vWRVET"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "0.6.1.4"
+  }
+]
