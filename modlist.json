@@ -29,7 +29,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://authored-files.wabbajack.org/Project_Skyrim.png_0ca7ecea-b744-4f86-b60c-c9755d5d92d6",
+      "image": "https://raw.githubusercontent.com/Charolas/PROJECT-SKYRIM/459a0cea25778291649ca6eca8bfae7ae460a814/Project_Skyrim.png",
       "readme": "https://raw.githubusercontent.com/Charolas/PROJECT-SKYRIM/main/README.md",
       "download": "https://authored-files.wabbajack.org/Project%20Skyrim%200.6.1.4.7z_7404b33e-4de8-4cb9-b168-c7f6fec84f8c",
       "machineURL": "DaddySheogorath12",
@@ -42,7 +42,7 @@
       "NumberOfArchives":2653,
       "SizeOfArchives":215314128092,
       "NumberOfInstalledFiles":291663,
-      "SizeOfInstalledFiles":299056280429}
+      "SizeOfInstalledFiles":299056280429
     },
     "version": "0.6.1.4"
   }
