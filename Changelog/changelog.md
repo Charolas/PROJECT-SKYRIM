@@ -9,7 +9,7 @@
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
 
-## changelog 0.6.1.5 - Save Compatible.
+## 0.6.1.5 - Save Compatible.
 
 # Added
 
@@ -30,7 +30,7 @@
 
 
 
-## changelog 0.6.1.4 - Save Compatible. 
+## 0.6.1.4 - Save Compatible. 
 
 # Added
 
@@ -83,7 +83,7 @@
 - locked chests have keys position
 
 
-## changelog 0.6.1.3 - Save Compatible. 
+## 0.6.1.3 - Save Compatible. 
 
 Remember to tweak Surival Control Panel "Level up after sleep" function to "Always disabled" mode.
 
