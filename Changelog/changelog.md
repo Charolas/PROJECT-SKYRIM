@@ -1,11 +1,65 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
-- #### [0.6.1.3](#0613---11102022) - `11/10/2022`
+- #### [0.6.1.4](#0614---save-compatible) - `11/13/2022`
+- #### [0.6.1.3](#0613---save-compatible) - `11/10/2022`
 - #### [0.6.1.2](#0612---save-compatible) - `11/8/2022`
 - #### [0.6.1.1](#0611---save-compatible) - `11/7/2022`
 - #### [0.6.1](#061---not-save-compatible) - `11/7/2022`
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## changelog 0.6.1.4 - Save Compatible. 
+
+# Added
+
+- NPC Tempering
+- Settings for Combat Music
+- for honor valkyrie
+- survival control panel settings loader
+- random barrel
+- FYX Row Boat
+- Dead Shrub Be Gone (BOS)
+- DMCO Hide Magic Effect Menu
+- Sharog the Battlemage
+- Expression Pack (Sswaye's OAhegao/OStim)
+
+
+
+# Updated
+
+- Smooth Moveset
+- Swiftly Order Squad
+- Khajiit Has Wares
+- BeastHBB Patches
+- Project Jay Khajar RDO Patch
+- The Eyes of Beauty AI remastered
+- sunhelm settings loader
+- northern roads patch compendium
+- Windhelm Bridge Stairs
+- DYNDOLOD 3
+- Happy Little Logs
+- Werewolf Revert Effect
+- Keyword Item Distributor
+- BTPS
+- Eating Animations Fishing Patch
+- Birds and Flocks SE
+- Remiel 
+- Equus Tweaks
+- Sound Record Distributor
+- Mysticism Magic Overhaul
+- ISC SRD
+
+# Removed
+
+- for honor centurion
+
+
+# Fixes and Tweaks
+
+- Solstheim Map
+- removed bow rapid combo S + RC
+- locked chests have keys position
+
 
 ## changelog 0.6.1.3 - Save Compatible. 
 
