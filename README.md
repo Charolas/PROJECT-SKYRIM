@@ -216,16 +216,19 @@ Wabbajack does not download meta files (these files give you info about what you
 # Starting The Game
 
 Follow these instructions whenever you start a new playthrough:
-   Create a new game - once you create your character, wait. Once a pop up saying "Start has finished playing" appears, you can close it.
+   Load the save game provided in PROJECT SKYRIM nexus website, in that save game will be every configured mod that you need, so you won't need to do anything other than loading it.
+   
+   To start the game, open your MCM menu and go into the first mod 00.Skyrim Unbound, there you can configure everything you need for your journey, and then in the first page of it, press "begin adventure", that will spawn you in a room for character creation, after creating your character press enter (or select the "continue" option in the message box), this will spawn you in the world 
 
-   Press 9 on the number row at the top of your keyboard to get rid of the Fertility bar.
+   OR
+
+   Simply press enter to have everything random and automatically enter the character creation room.
+
+   When prompted with Fertility Mode, enable it and press 9 on the number row at the top of your keyboard to get rid of the Fertility bar.
 
    Open MCM / Mod Configuration and scroll down to WetFunction Redux, click it, click Targets, then select your character as the target on the right side.
-
+ 
    Click start effect. Close the menu, all the way back to the game.
-
-   Open MCM / Mod Configuration again, scroll down to MCM Recorder and click it. Click on the "After Alternate Start" recording option. Confirm the pop up and close the menu all the way to the game again. A new pop up should appear, select "Run This Recording"
-     Wait until the recording finishes and confirm the pop up.
 
    Open MCM / mod Configuration again, scroll down to Shadows of Skyrim (Optional), click it. Then click on general, and then on enable. Confirm the pop up to close and wait.
 
