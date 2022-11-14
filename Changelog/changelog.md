@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.6.1.6](#0616---save-compatible) - `11/14/2022`
 - #### [0.6.1.5](#0615---save-compatible) - `11/13/2022`
 - #### [0.6.1.4](#0614---save-compatible) - `11/13/2022`
 - #### [0.6.1.3](#0613---save-compatible) - `11/10/2022`
@@ -8,6 +9,46 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.6.1.6 - Save Compatible
+
+# Added 
+
+- Challenging Spell Learning - Settings Loader Series
+- Curated Bosses for TRUE HUD
+- Rudy Smoke Fix
+- Wintersun Skillrate Alternative
+- Better High Hells Sound FX
+- Read the Room - Settings Loader Series
+- Configurable Commentary Slider - Settings Loader Series
+- Skeleton HD Replacer - Undeath Ascension Lite Patch
+
+# Updated
+
+- Kapput
+- OpenSex Anal Animations
+- Ordinator Reworked
+- That Night on the Lake
+- Infinity Dodge
+- No more glitchy textures (wither horses expansion)
+- VIGILANT SE
+- VIGILANT English Addon
+- Skyrim Unbound Reborn
+- Static mesh Improved Mod Improvement
+- WeldingMans Smelter
+- EVG Animated Traversal
+- Papyrus Tweaks NG
+- SDA Patch Hub (OpenSex)
+- Improved Follower Dialogue Lydia
+- Riften Architectural Details
+- Heels Sound 1.5 (SSE)
+- Particle Patch for ENB 
+- Target Focus
+- Skyrim got talent - player reaction
+
+# Fixes and Tweaks
+
+- Fixed Solitude Crash
 
 ## 0.6.1.5 - Save Compatible.
 
