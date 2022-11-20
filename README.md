@@ -45,6 +45,8 @@
 
 **`Which means that nothing will appear on your face without you wishing for it to happen, you can completely ignore.`**
 
+**`You still need to download mods from Loverlabs for installation process`**
+
 
 
 
