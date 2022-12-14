@@ -185,6 +185,7 @@ Wabbajack will let you know which mods have issues in the log at the bottom left
 
 Our community has compiled a list of certain mods that give our users trouble and have them within the links below.
 Attempt the first link and if there are still any fails or missing files, try using files in the second.
+
 https://mega.nz/folder/GJlikaaK#32hVjzlHyaQWk7xYnjb7Rg 
 https://mega.nz/folder/TbRRhSYQ#qQLHnpMEY8goog3Rgrd6aw
 
