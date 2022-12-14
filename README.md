@@ -180,20 +180,14 @@ If there is an error or it closes, you won't need to re-download mods you have a
  
 ********VIDEO***********
 
-6 - When Wabbajack is done downloading the Project Skyrim modlist, there will be some missing mods, giving you an error. 
-Go to 📚︱important-links on discord aand download the mods you are missing or have issues with.
+6 - When Wabbajack is done downloading the Project Skyrim modlist, there may be some missing mods, giving you an error.
+Wabbajack will let you know which mods have issues in the log at the bottom left.
 
-Wabbajack will also let you know which mods have issues in the log at the bottom left.
+We have compiled a list of certain mods that give our users trouble and have them within the link below.
+https://mega.nz/folder/TbRRhSYQ#qQLHnpMEY8goog3Rgrd6aw
+Simply download any that you had an issue with and move them to the Wabbajack download directory and re-attempt installation.
 
-There are two mo2-plugins that will have to be downloaded manually:
-The first is downloaded from: https://github.com/LostDragonist/MO2-Plugins/archive/refs/heads/master.zip
-
-The second one is downloaded at: https://github.com/deorder/mo2-plugins/archive/refs/heads/master.zip
-    You will have to rename this file to "mo2-plugins-master deorder"
-Any files you have manually downloaded will have to go into the "Wabbajack Downloads" folder.
-
-If you do get an error for Skyrim 2k, here is the link:
-https://drive.google.com/file/d/1qj6LQR-bsNkUG8LJ0UPT8Yzbih2fW6b7/view?usp=sharing
+If you are still having issues, feel free to hit up our support channel in the discord server.
 
 7 - Once you have finished installing the modlist without errors, you can open your "Project Skyrim" folder, and create a shortcut for Mod Organizer.
 
