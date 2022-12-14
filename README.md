@@ -187,9 +187,13 @@ Our community has compiled a list of certain mods that give our users trouble an
 
 Attempt the first link and if there are still any fails or missing files, try using files in the second.
 
+For ENB series fails, you may need the version in the third link.
+
 https://mega.nz/folder/GJlikaaK#32hVjzlHyaQWk7xYnjb7Rg
  
 https://mega.nz/folder/TbRRhSYQ#qQLHnpMEY8goog3Rgrd6aw
+
+https://cdn.discordapp.com/attachments/1006677323338231889/1042584876198678549/enbseries_skyrimse_v0477_d26249d19428145edbc69fa85ad77970ffc12a725f923e37b8a9d71774ca5703_.zip
 
 Simply download any that you had an issue with and move them to the Wabbajack download directory and re-attempt installation.
 
