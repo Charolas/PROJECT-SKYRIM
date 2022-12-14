@@ -185,6 +185,7 @@ Wabbajack will let you know which mods have issues in the log at the bottom left
 
 We have compiled a list of certain mods that give our users trouble and have them within the link below.
 https://mega.nz/folder/TbRRhSYQ#qQLHnpMEY8goog3Rgrd6aw
+
 Simply download any that you had an issue with and move them to the Wabbajack download directory and re-attempt installation.
 
 If you are still having issues, feel free to hit up our support channel in the discord server.
