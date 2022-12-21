@@ -111,7 +111,9 @@ Please ensure you have .NET v5.0 installed (**EVEN IF YOU HAVE .NET 6.0 INSTALLE
 
 <a href="https://dotnet.microsoft.com/download/dotnet/5.0/runtime"><img alt="Microsoft" src="https://user-images.githubusercontent.com/27007797/198383090-15ce8391-fbc0-49a9-acb8-94b36ce3a811.png" width="555" height="294"></a>
 
+### Install Creation Kit
 
+To provide the best experience on installation, please install creation kit from your steam into your Skyrim installation (from steam), it's simply as downloading a DLC, just search it in the store and download it.
 
 ### Websites & Programs
 - [Loverslab Account](https://www.loverslab.com/)
@@ -222,20 +224,17 @@ Wabbajack does not download meta files (these files give you info about what you
 # Starting The Game
 
 Follow these instructions whenever you start a new playthrough:
-   Load the save game provided in PROJECT SKYRIM nexus website, in that save game will be every configured mod that you need, so you won't need to do anything other than loading it.
+   
+   Start a new game, and wait around 3-5 minutes (depending on your specs and FPS) to allow the scripts to load, if you don't do this, things might break due to lack of time to configure itself, THIS IS VERY IMPORTANT, DON'T SKIP THE WAITING TIME, then proceed as usual.
    
    To start the game, open your MCM menu and go into the first mod 00.Skyrim Unbound, there you can configure everything you need for your journey, and then in the first page of it, press "begin adventure", that will spawn you in a room for character creation, after creating your character press enter (or select the "continue" option in the message box), this will spawn you in the world 
 
    OR
 
    Simply press enter to have everything random and automatically enter the character creation room.
-
-   When prompted with Fertility Mode, enable it and press 9 on the number row at the top of your keyboard to get rid of the Fertility bar.
-
-   Open MCM / Mod Configuration and scroll down to WetFunction Redux, click it, click Targets, then select your character as the target on the right side.
- 
-   Click start effect. Close the menu, all the way back to the game.
-
+   
+   Open MCM / mod Configuration again, scroll down to My home is your home (MYHYH), open the menu and tick "Configuration Book".
+   
    Open MCM / mod Configuration again, scroll down to Shadows of Skyrim (Optional), click it. Then click on general, and then on enable. Confirm the pop up to close and wait.
 
 
