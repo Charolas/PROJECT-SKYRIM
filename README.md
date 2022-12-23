@@ -205,7 +205,7 @@ If you are still having issues, feel free to hit up our support channel in the d
 
 8 - You are now on the final steps!
 
-    Open your folders like so, "Project Skyrim ((Version))" -> "profiles" -> "Project Skyrim" 
+    Open your folders like so, "Project Skyrim ((Version))" -> "profiles" -> "Default" 
     The directory address should look like in the image below:
 
 ![unknown (4)](https://user-images.githubusercontent.com/116535023/197654286-85c3f5f4-63e3-4ede-adb3-080ce06e48c1.png)
