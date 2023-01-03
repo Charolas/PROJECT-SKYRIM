@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.7.0](#070---not-save-compatible) - `01/03/2023`
 - #### [0.6.1.6](#0616---save-compatible) - `11/14/2022`
 - #### [0.6.1.5](#0615---save-compatible) - `11/13/2022`
 - #### [0.6.1.4](#0614---save-compatible) - `11/13/2022`
@@ -9,6 +10,167 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.7.0 REV2 - NOT Save Compatible
+
+Current Load Order: https://loadorderlibrary.com/lists/project-skyrim-07-rev2
+
+## DISCLAIMER
+
+First, I am sorry, I cannot provide the whole changelog from 0.6 to 0.7, because I would be writing almost the whole list in a changelog, and that's too time consuming, and still wouldn't be accurate due to the data lost that I had to suffer while rebuilding the list to make 0.7, so I will be uploading a load order library and here will be the changelog of revision (alongside some notes of 0.7 overhaul that I still can share accurately).
+
+0.7 - Overhaul comments.
+
+# Performance and Graphics
+
+The implementation of most thigns went great, these include:
+
+- a whole overhaul  of graphics, literally, 90% of the visual mods either changed or were mixed in a different way
+- weather changed, a PI-CHO ENB version was made for us on request
+- nature, exteriors received a massive overhaul, including area, grass and plants, while keeping better performance when compared to older versions
+
+What we didn't do:
+
+- NPC BSA implementation: this didn't happen because the compatiblity is incredible hard to manage, some NPCS break and the player breaks (khajiit invisible body)
+
+
+# Gameplay
+
+This received a LOT of changes, and still is being worked on, Gale has been actively testing new setups of enemies overhauls to increase the variety (which might be one of the biggest varieties out there right now), both on humanoid NPCs and monsters. These is what went out great:
+
+- Area Overhaul including NPC and enemy tweaks
+- NSFW Integration, there is a litte bit more, some were cut in the revision.
+- Fixed a lot of bugs due to gameplay, even more in revision.
+- Precision bugs were fixed.
+- Much more variety of perks and enemies.
+
+What was cut from the initial idea:
+
+- Unleveled: it limits the player too much, we are testing dynamic leveled zones, but in general, the leveled zones are great now being managed by OWL into a scaling, great and most importantly free world.
+
+# Gear
+
+Received a completely overhual, barely can connect to older versions, made by Luna's modlist mostly.
+
+- There is a lot of new weapons, too much to count, good luck into trying to get them all, the variety and quality are in both extremely top tier spots.
+- Armors were cut and remade into higher quality and more according to the theme, there are still skimpy outfits, but their integration was made more balanced.
+- NPCs outfits were remade with that. 
+
+TLDR: a lot of stuff were added seamlessly, enjoy
+
+# Music
+
+PROJECT Music has been done, it might receive changes later, but I reached a really good spot with it, it blends in great while having the gradient I wanted between nordic and soule.
+
+now for the actual changelog
+
+## 0.7.0 - REV2 - NOT Save Compatible
+
+# Added
+
+- Let your Hair down
+- Your own thoughts - Patch Hub
+- Fashions cleaned textures
+- Forsworn Fashions
+- Steel Fashions
+- Unholy tattos
+- Aszurite Eyes
+- Sakora Make Over
+- OMerchants
+- HDT SMP Force Fields
+- Cabbage MOD
+- Elden Catalyst
+- Nyr Luxury 3BA Preset
+- Dovahnique's Diverse Deadly Nightshade
+- Smooches of Skyrim
+- Suvdivide and Smooth
+- Constructible Object Custom Keyword
+- HD Reworked Tree Bark
+- Location Aware Container Loot
+- slightly better rock cairns
+- Drago foot ostim addon
+- billy furniture patck
+- simply armor 
+- opensex addon hub
+- small nordic tent replacer
+- oromance plus
+- oprostitution
+- martha follower
+- wetfunction redux (yay)
+- npcs aint hachihikos
+- ahsbound
+- EBD (synthebd)
+- my minimalist autosave
+- disable autosave
+- FREA REPLACER
+- lod unloading bug fix
+- convenient soul carin
+- sowable of skyrim
+- dragons claw auto unlock
+- attaack speed to daamge
+- project ja khajay npc 
+- daegon
+- kainda 2
+- 
+
+(OPTIONAL PACKAGE)
+- Solana Succubus Presets
+- Soul of a Succubus
+- Race Compatibility (SDA)
+- A succubus tale
+- succubus meridian
+- praedyth horns for succubus race
+- succubus race
+
+
+
+# Update
+
+- Camera Noise
+- Hand Nails ZMD
+- Unbound Rebord
+- Particle Patch
+- Forceful Tongue
+- Read the Room
+- Security Overhaul SKSE
+- Base Object Swapper
+- Dynamic Animation Casting NG
+- That Night on the Lake
+- TESL Loading Screens
+- Untarnished UI
+
+
+# Removed
+
+- Removed Igath 
+- removed western watchtower accidentaly extra mod
+- removed more bandit camps 
+- removed potato mods
+- realistic armor
+
+# Fixes and Tweaks
+
+- Fixed Ivarstead 7000 steps crash
+- Fixed arcadia blue face, danica hair texture, khajiit player body
+- Fixed scimitar animation conditions
+- fixed gisli hair
+- fixed dovapotter priority
+- fixed drifter arm 
+- fixed crash mortal jarl house
+- fixed quest crash helgi and laelette, and missing coffin
+- saint and seducers outfit attempt fix
+- fixed water for enb load order
+- made a small patch for ryn's farm and rift rest overhaul
+- compressed textures
+- fixed instruments with jayserpa and munkee help 
+- tweaked health regen
+- tweaked load order for undeath and winking skeever
+- fixed smuggerls den crash
+- compressed textures :)
+- mujointfix crash
+- realistic armor crash
+- fire low fps
+- 
 
 ## 0.6.1.6 - Save Compatible
 
