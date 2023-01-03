@@ -1,5 +1,6 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
-- #### [0.7.0](#070---not-save-compatible) - `01/03/2023`
+- #### [0.7.0REV3](#070---save-compatible) - `01/03/2023`
+- #### [0.7.0REV2](#070---not-save-compatible) - `01/03/2023`
 - #### [0.6.1.6](#0616---save-compatible) - `11/14/2022`
 - #### [0.6.1.5](#0615---save-compatible) - `11/13/2022`
 - #### [0.6.1.4](#0614---save-compatible) - `11/13/2022`
@@ -10,6 +11,21 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+
+## 0.7.0 REV3 - Save Compatible
+
+# Fixes and Tweaks
+
+- Fixed weird compression on animated enchantments
+- Fixed autosave configuration
+- Tweaked SSE FPS Stabilizer to avoid stutters on lower end machines
+
+# Removed
+
+- MuJointFix "fixed" version (that wasn't fixed apparently, will report to the author)
+
+
 
 ## 0.7.0 REV2 - NOT Save Compatible
 
