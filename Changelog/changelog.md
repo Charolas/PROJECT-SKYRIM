@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.7.0REV5](#070---save-compatible) - `01/04/2023`
 - #### [0.7.0REV4](#070---save-compatible-but-not-recommended) - `01/04/2023`
 - #### [0.7.0REV3](#070---save-compatible) - `01/03/2023`
 - #### [0.7.0REV2](#070---not-save-compatible) - `01/03/2023`
@@ -12,6 +13,12 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+## 0.7.0 REV5 - Save Compatible - Small hotfix
+
+# Fixes and Tweaks
+
+- ReFixed loading screen textures that broke during compilation.
+
 
 ## 0.7.0 REV4 - Save Compatible, but recommended to start a new one (fucking charolas right?)
 
