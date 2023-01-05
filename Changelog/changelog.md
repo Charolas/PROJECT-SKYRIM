@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.7.0REV7](#070---save-compatible) - `01/05/2023`
 - #### [0.7.0REV6](#070---save-compatible) - `01/05/2023`
 - #### [0.7.0REV5](#070---save-compatible) - `01/04/2023`
 - #### [0.7.0REV4](#070---save-compatible-but-not-recommended) - `01/04/2023`
@@ -14,6 +15,28 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.7.0 REV7 - Save Compatible
+
+# Added
+
+- Show Player in Menus
+- COMAP
+
+# Updated
+
+- BeastHHBB
+- NITHI NPCS Riften
+- HD Reworked Tree Bark
+- Valhalla Race Execution Patches
+
+# Fixes and Tweaks
+
+- Turned off POISE True Hud bars (in attempt to fix execution from valhalla)
+- Fixed falkreath CTD when opening map
+- Attempt Fix on daedric dagger missing texture
+- Attempt fix on loading screens (yet again)
+
 
 ## 0.7.0 REV6 - Save Compatible - (oh but the 3rd revision in one day? yes)
 
