@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.7.0REV4](#070---save-compatible-but-not-recommended) - `01/04/2023`
 - #### [0.7.0REV3](#070---save-compatible) - `01/03/2023`
 - #### [0.7.0REV2](#070---not-save-compatible) - `01/03/2023`
 - #### [0.6.1.6](#0616---save-compatible) - `11/14/2022`
@@ -11,6 +12,44 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.7.0 REV4 - Save Compatible, but recommended to start a new one (fucking charolas right?)
+
+# Added
+
+- ENB Light Base
+- Smart Optimal Salves - Optimal Potion Hotkey Settings Loader
+- Saints and Seducers - Mysticism Rebalance
+- Fantasy Creature HDT SMP Race Menu Tails
+- Better Occlusion - COTN Falkreath
+- Immersive Wenches - Rewritten Dialogue
+
+# Updated
+
+- Your Own Thoughts - Patch Hub
+- Daedric Armor - My patches se
+- NITHI NPCS Enhancements
+- Dynamic Animation Casting NG
+- Complementary Grass Fixes
+- Dynamic Animation Casting - NG
+- Snowy Surfaces Sound Collision and Aesthetics
+- Fashions of The Banditry Textures
+- Papyrus Tweaks NG
+- Papyrus Extender
+
+# Removed
+
+- SynthEBD (texture mismatch issue)
+- Elden Catalyst
+
+# Fixes and Tweaks
+
+- Fixed ENB Light Square issues
+- Fixed NPC mismatch textures
+- Fixed bound weapon CTD
+- Fixed missing loadscreen textures
+- Readded small grass LODS (super performance version)
+
 
 
 ## 0.7.0 REV3 - Save Compatible
