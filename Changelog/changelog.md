@@ -25,6 +25,7 @@
 # Removed
 
 - Mirai Replacer
+- SSE Parallax Shader Fix
 
 # Fixes and Tweaks
 
