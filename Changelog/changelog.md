@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.7.0REV9](#070---save-compatible) - `01/08/2023`
 - #### [0.7.0REV8](#070---save-compatible) - `01/08/2023`
 - #### [0.7.0REV7](#070---save-compatible) - `01/05/2023`
 - #### [0.7.0REV6](#070---save-compatible) - `01/05/2023`
@@ -16,6 +17,19 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.7.0 REV9 - Save Compatible
+
+# Removed
+
+- Thalmor Dialogue
+- Attack Speed to MCO (ducktape fix, we will modify the mod itself and then later readd)
+
+# Fixes and Tweaks
+
+- Fixed aggressive dialogue on elven races (not a fix, just a removal)
+- Fixed ILS, freeze or crash when infected/or is a vampire.
+
 
 ## 0.7.0 REV8 - Save Compatible
 
