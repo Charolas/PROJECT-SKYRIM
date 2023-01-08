@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.7.0REV8](#070---save-compatible) - `01/08/2023`
 - #### [0.7.0REV7](#070---save-compatible) - `01/05/2023`
 - #### [0.7.0REV6](#070---save-compatible) - `01/05/2023`
 - #### [0.7.0REV5](#070---save-compatible) - `01/04/2023`
@@ -15,6 +16,43 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.7.0 REV8 - Save Compatible
+
+# Added
+
+- WAAT and WACCF
+- Smooth and Goetia magic (I forgot to add those when doing the movesets XD)
+
+# Updated
+
+- Updated Opensex, Opensex anal and Opensex Foot (with addon hub patch)
+- Song of the Green updated
+- Sit on Stuff
+- FLM Patch collection (Rain extinguish fires)
+- DAC NG
+- Daegon and visual replacer
+- The whispering door
+- Frea replacer (anna scandinavian)
+- BeastHHBB
+- Water for Enb patch for markarth outskirts (shades of skyrim
+- Let your Hair down
+
+# Removed
+
+- Daedric Dagger from morrowind (currently needs an esp patch to work without missing textures, unfortunately)
+
+# Fixes and Tweaks
+
+- Fixed Serana appearance
+- Attempt fix on leveled list to avoid OP loot
+- Fixed CTD's on waiting
+- Fixed Valhalla executions, one now must use M3 to execute when the health bar blinks
+- Fixed some textures of Cathedral 3D Mountain Folowers
+- "Fixed" missing items on world/inventory
+- Tweaked settings on Valhalla combat MCM (Stamina Block)
+- Tweaked settings to difficulty manage, make sure to check #Combat Equalization for more info :)
+- Attempt fix on TEWOBA missing arms
 
 ## 0.7.0 REV7 - Save Compatible
 
