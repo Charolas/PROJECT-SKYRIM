@@ -111,9 +111,9 @@ Please ensure you have .NET v5.0 installed (**EVEN IF YOU HAVE .NET 6.0 INSTALLE
 
 <a href="https://dotnet.microsoft.com/download/dotnet/5.0/runtime"><img alt="Microsoft" src="https://user-images.githubusercontent.com/27007797/198383090-15ce8391-fbc0-49a9-acb8-94b36ce3a811.png" width="555" height="294"></a>
 
-### Install Creation Kit
+### Install SSE Creation Kit (Steam)
 
-To provide the best experience on installation, please install creation kit from your steam into your Skyrim installation (from steam), it's simply as downloading a DLC, just search it in the store and download it.
+Please install SSE Creation Kitinto your Skyrim installation (from steam), it's as simply as downloading a DLC, just search it in the steam store and download it.
 
 ### Websites & Programs
 - [Loverslab Account](https://www.loverslab.com/)
