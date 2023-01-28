@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.7.1](#071---not-save-compatible) - `01/28/2023`
 - #### [0.7.0REV9](#070---save-compatible) - `01/08/2023`
 - #### [0.7.0REV8](#070---save-compatible) - `01/08/2023`
 - #### [0.7.0REV7](#070---save-compatible) - `01/05/2023`
@@ -17,6 +18,108 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.7.1 - Not Save Compatible
+
+# Added
+
+- Vanilla SMP Outfits
+- Animated Stalls, Chain, Banner (again)
+- Various scythe weapons and animation
+- Battleaxe animation
+- MoreHud SE
+- MEMOSPHERE (youngscrolls UI mod)
+- Diamond Skin
+- Tempered Skin
+- SD Loading screens
+- Poser Hotkeys
+- NiOverride Pose Adjustments
+- Neko Poser
+- Racemenu Poser
+- Parallax and Complex Parallax to almost every texture (no performance cost, optimized with my whole soul those ones)
+- Fertility Mode + (new LO to avoid bodyslide issues)
+- Fertility Adventures
+- ICOW + JK college of winterhold combo
+- Added more ways to kill grelod lol
+- Scion and Manbeast
+- VAE 2
+- Yvengar bodypaint
+- Horse management/inventory/tame/claim system (press b)
+- Mihail Consistency Fixes
+- Missives
+- Some Optimized scripts here and there
+- Creature Animations for MCO
+- Campfire (and sunhelm custom skill)
+- Some armor mods
+- mandragora statues that weren't added before
+- some miscellaneous shrines/statues
+- Tavern Games
+- Better Spell Cost Reduction (no more 100% cost reduction lol)
+- No Animal Loot
+- Cult of the World Eater
+- PROJECT MUSHROOMS
+- Clous over the Cloud District
+- Colorful Map
+- Night Mother (dead)
+- Lyru's Tattoo
+- Critter Spawn Congestion Fix
+- Auto Parallax
+
+
+# Removed
+
+- Bits and Pieces
+- TESL Loading Screens
+- OMerchants and its dialogue
+- Eye Mesh Fix
+- Irrelevant mods that didn't work properly (aka some OStim stuff that didn't work)
+- Campsite
+- Blended Skills op perks lol
+- Cheesemod for everyone
+- Some miscellaneous animation mods
+- Some OStim animation addons
+- Big booba statues (PSBoss)
+
+
+# Updated
+
+NOTE: I always update on the list every mod that received update between versions, I will only highlight important updates from now on
+
+- SCAR
+- dibella's blessing and project cougar
+- Sacrilege and Growl (to avoid script lag on feeding)
+- Auri
+- Katana
+- Papyrus Tweaks NG
+- Mysticism
+- Embers XD
+
+
+# Fixes and Tweaks
+
+- Fixed loading screens
+- Applied Spell Tutor Settings
+- Fixed Vanilla Power Attacks intruding combos
+- Fixed glacier cracks appearing out of nowhere
+- Fixed NPCs going unarmed mid fight
+- Fixed armors going purple textures
+- Removed cap for FPS and refresh rate
+- Fixed maps going purple
+- Changed battleaxe animation
+- Body Physics
+- Yet Another Damage with new settings
+- ESL a bunch of mods
+- Smaller bugs fixed
+- Color mismatch on body texture
+- Fixed Katana crash
+- Fixed killcams on monsters crashing
+- Improved texture quality on armors that still use vanilla meshes
+- Fixed some enb lights
+- Dragons shouldn't freeze your game anymore :D
+- Tweaks to statues
+- Fur Garments are now SPID (avoid bald NPCs)
+- NFF is now optional
+
 
 ## 0.7.0 REV9 - Save Compatible
 
