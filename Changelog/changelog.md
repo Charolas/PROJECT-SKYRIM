@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.7.2](#072---save-compatible) - `29/01/2023`
 - #### [0.7.1](#071---not-save-compatible) - `01/28/2023`
 - #### [0.7.0REV9](#070---save-compatible) - `01/08/2023`
 - #### [0.7.0REV8](#070---save-compatible) - `01/08/2023`
@@ -18,6 +19,34 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.7.2 - Save Compatible
+
+# Added
+
+- Elsopa Potions Redone
+- Elsopa Potions Redone Patches
+- lusty vampire bodyslide (weird name i know)
+- project cougar anise
+
+# Removed
+
+- Rustic animated potions
+
+# Updates
+
+- OStim
+- OpenSex
+- Opensex Anal Addon
+
+
+# Fixes and Tweaks
+
+- Fixed purple map
+- Fixed purple textures on male bodyslides
+- Fixed Presets not showing up (thanks munkee and sorry piki)
+
+
 
 ## 0.7.1 - Not Save Compatible
 
