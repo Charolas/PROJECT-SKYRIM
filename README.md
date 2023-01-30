@@ -69,7 +69,7 @@ With the performance mode options being available, exact minimum requirements is
 | Ryzen 5 5600x      | RTX 3070 TI | 16GB RAM DDR4 | 60 FPS |
 
 **You also need**
-- 290GB for Install 
+- 340GB for Install 
 - 190GB for Download
 
 **Notes**
