@@ -295,3 +295,7 @@ Follow these instructions whenever you start a new playthrough:
 - Identity Crisis
 - The Tale of Tsatampra Xiros
 - All of the "Quest Expansion" Package alongside with some "Good Guys" and the famous alternatives like "Save the Ice Runner" and "Adoption Without Murder"
+
+
+
+If anything happens to Charolas and he cannot continue PROJECT Skyrim, anyone is free to continue as long as they contact the team (or the team can continue if they wish to do so), any remaining funds that Charolas did not redeemed can be shared between the team members.
