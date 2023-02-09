@@ -1,5 +1,6 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
-- #### [0.7.2](#072---save-compatible) - `29/01/2023`
+- #### [0.7.3](#073---not-save-compatible) - `02/08/2023`
+- #### [0.7.2](#072---save-compatible) - `01/29/2023`
 - #### [0.7.1](#071---not-save-compatible) - `01/28/2023`
 - #### [0.7.0REV9](#070---save-compatible) - `01/08/2023`
 - #### [0.7.0REV8](#070---save-compatible) - `01/08/2023`
@@ -19,6 +20,56 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.7.3 - Not Save Compatible
+
+
+# Added
+
+- LOTD Optimized textures
+- Body Slots
+- League of assasins armor
+- melodic b armor
+- mythic dawn armor
+- tribal combatants overlay
+- abyss
+- natura
+- MYIYH 2plus settings loader
+- college of winterhold reimagined (to try to fix the crash)
+- AI Body Clean
+- New Creature Animations
+- Colovian Prince Set
+- Chicks
+- queen marika dress
+- attack mco fury knight patch (again yes)
+
+# Updated
+
+- Water for ENB
+- Elden Equip
+- XPMSE Optimized scripts
+- Smooth Moveset
+- footpritns and addons
+- headhunter (and missives addons)
+- unbound reborn
+- Open sex and addons
+- every other mod lol
+
+# Fixes and Tweaks
+
+- Fixed armor crash when checking vendor (due to lvl list conflict)
+- Attempt fix at winterhold crashes
+- Fixed autumnwatch lodge
+- Fixed Standing stone inside floor
+- Tweaked multiple values of: stamina, damage, levels and stun
+- Removed some op spells on certain draugrs
+- Saint and Seducers quest
+- NPC faces (should now be all modified, no more vanilla faces :D, they were not intentional)
+- fixed navmesh around towns to avoid followers getting stuck
+- tweaked the LO a bit to avoid AI bugs
+- changed AI of combat
+- fixed CTDs when eating or drinking certain foods
+- fixed stutters when in combat (due to blood lol)
 
 ## 0.7.2 - Save Compatible
 
