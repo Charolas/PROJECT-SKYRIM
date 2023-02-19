@@ -75,7 +75,6 @@ With the performance mode options being available, exact minimum requirements is
 **Notes**
 - There is very low difference between High and High Optimized in terms of visuals, but you can get more FPS. 
 - All inis will change and vary depending on the specific area you are on game due to SKSE Plugins that will cover it for more FPS
-- The recommended INI file is High Optimized
 - You can change the INI files, specially the resolution, either to cover higher resolutions such as 1440p or to reduce it so that NIS will increase it's performance
 - It's not recommended to play this modlist at 4K due to the lack of mod support to the widescreen fix.
 
