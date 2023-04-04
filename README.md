@@ -43,7 +43,7 @@
 
 **PROJECT SKYRIM** also comes with an adult content addon, that is completely unintrusive.
 
-**`Which means that nothing will appear on your face without you wishing for it to happen, you can completely ignore. However since containing, you must be of legal age to play PROJECT Skyrim, that is 18 in some countries and 21 in others, is up to you to know your country age requirements.`**
+**`Which means that nothing will appear on your face without you wishing for it to happen, you can completely ignore, however, you must be of legal age to play PROJECT Skyrim, that is 18 in some countries and 21 in others, is up to you to know your country age requirements.`**
 
 **`You still need to download mods from Loverlabs for installation process`**
 
