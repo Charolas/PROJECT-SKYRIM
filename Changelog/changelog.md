@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.7.7](#077---save-compatible) - `04/12/2023`
 - #### [0.7.6](#076---not-save-compatible) - `04/06/2023`
 - #### [0.7.3](#073---not-save-compatible) - `02/08/2023`
 - #### [0.7.2](#072---save-compatible) - `01/29/2023`
@@ -23,104 +24,165 @@
 - #### [0.5.0.1](#0501) - `10/4/2022`
 
 
+## 0.7.7 - Save Compatible - Hotfixes and Tweaks
+
+# Added
+
+-	flies around corpses
+-	folded rag diversication
+-	the white phial - my version
+-	dismember chaurus
+-	ERM - Dyndolod Addon
+-	shile dsisters
+-	skooma crafting
+-	immersive winterold jail
+-	unmarked locations pack - sovngarde
+-	ULPS - happy little trees patch
+-	infanty armor himbo
+-	randomized one handed block and idle animations
+-	vampire eye fix
+-	sonderbains chavelier - randomized one handed block animatios
+-	smooth random equip - my dar contiisons se
+-	indecent exposure - immersive naked reacdtions
+-	OVenom
+
+
+# Removed
+
+- OStrap (misaligned everything)
+- clean auto saver reloader
+- HLT ivy on trees
+
+
+
+# Updated
+
+-	timing is everything
+-	obi's vampire clothing
+-	flames of coldharbour
+-	flatr world map framework
+-	elsopa potiron redone
+-	dynamic impact
+-	aniamted whistling
+-	SPID
+-	icy mesh remaster
+-	mrissi is more aware
+-	opensex ng
+-	natural waterfalls - majstic mountain
+-	improved table transitions
+-	modern female sitting animations
+-	dynamic female wall leaning
+-	ERM - parallax
+-	project ja khajay
+-	susanna the sacrifice aio
+-	mrissi quest tweaks
+-	USMP
+
+
+# Fixes and tweaks
+
+LOD fix (for real this time)
+
+
 ## 0.7.6 - Not Save Compatible - Multiple Fixes, QOL additions, graphics update, etc.
 
-updated every single mod - downgraded smoothweapon (thought it was the culprit, I was wrong, have other suspects in mind)
+# Updated every single mod - downgraded smoothweapon (thought it was the culprit, I was wrong, have other suspects in mind)
 
-tweaked visuals a bit - added new complex parallax textures to some parts of skyrim (forts mountains)
+# Tweaked visuals a bit - added new complex parallax textures to some parts of skyrim (forts mountains)
 
-GG HH fixed stairs
-natural waterfalls
-ERM
-COTN Performane Fix
-Cannibalism Expanded
-Elsopa - Potions Redone - Patches Xtudo
-glass armor retexture
-TB better needle
-dynamic key action framework
-true prone
-added pikii presets
-updated vigialnt
-better pelts and hides
-raven armor
-optimized further every pfuscher parallax texture
-updated ostim and its addons
-added all vanilla-centric spell mods from the guy who made natura (abyss blood something fires of coldharbour - to NPCS and serana sometimes)
-added lesbian content to ostim (a bit more) moonlove making
-added script otpimizaiton
-ash and blood
-lod model library
-skyland parallax
-solsthein broken pines fix
-fixed jk ragged flagon
-added combath pathing revolutino
-improved camera
-expressive remiel
-improved camera ostim config
-open your mouth (sus name)
-comprehensive first person anmiation overhaul
-updated skyrim extended cut 
-OSA for ostim was updated
-fixed maps i guess
-EVG conmditionals extended
-skytties STANDALONE
-NPC water ai FIX
-fixed limit for NPCS AI
-added bodyslide presets
-clouds all over yes
-archery
-better (debatable) undies
-motionless rocks 
-quiet muffle 
-more daedric shrines in the world
-injtuitive dragon ride
-block poison
-gemstons remade
-clean up the physics
-sprint sneak movement
-improved table transitions
-Modern female sitting anmiatnions
-baba yaga updated
-ROM updated
-added new alternative to sacrifice necromancy (blood on the ice and the solstheim girl)
-soul cairn script tweks for perforamnce
-light and shade
-farlmes (still farlmussy sometimes)
-nebarra 
-cotn optimized meshes total
-void salts yes
-simple snow improvements
-dragon weapons and armors
-ebony weapons and armors
-daedric weapons and armors
-ECPLW particdle lights for windows
-fixes collections
-native editor id fix
-fluffy housecatsw
-locational encounter zones
-female player animations 
-slightly better evil rock cairns
-jewerly collection
-obscure college
-bibliophile arcaneum
-choose your own arch mage
-zim deremora
-misc college of winterhold tweaks
-finding velehk sain
-himbo PAU
-werewolf behavior
-skyshards offer skills
-dark mage of pelegia
-mythic dawn armor
-3ba colovian prince
-optimized textures
-removed problematic mods
-skooma on skyrim
-some extra armors from obi
-ultra trees
-mco universal
-one click power attack ng optional
-some tweaks to OStim
+- GG HH fixed stairs
+- natural waterfalls
+- ERM
+- COTN Performane Fix
+- Cannibalism Expanded
+- Elsopa - Potions Redone - Patches Xtudo
+- glass armor retexture
+- TB better needle
+-	dynamic key action framework
+-	true prone
+-	added pikii presets
+-	updated vigialnt
+-	better pelts and hides
+-	raven armor
+-	optimized further every pfuscher parallax texture
+-	updated ostim and its addons
+-	added all vanilla-centric spell mods from the guy who made natura (abyss blood something fires of coldharbour - to NPCS and serana sometimes)
+-	added lesbian content to ostim (a bit more) moonlove making
+-	added script otpimizaiton
+-	ash and blood
+-	lod model library
+-	skyland parallax
+-	solsthein broken pines fix
+-	fixed jk ragged flagon
+-	added combath pathing revolutino
+-	improved camera
+-	expressive remiel
+-	improved camera ostim config
+-	open your mouth (sus name)
+-	comprehensive first person anmiation overhaul
+-	updated skyrim extended cut 
+-	OSA for ostim was updated
+-	fixed maps i guess
+-	EVG conmditionals extended
+-	skytties STANDALONE
+-	NPC water ai FIX
+-	fixed limit for NPCS AI
+-	added bodyslide presets
+-	clouds all over yes
+-	archery
+-	better (debatable) undies
+-	motionless rocks 
+-	quiet muffle 
+-	more daedric shrines in the world
+-	injtuitive dragon ride
+-	block poison
+-	gemstons remade
+-	clean up the physics
+-	sprint sneak movement
+-	improved table transitions
+-	Modern female sitting anmiatnions
+-	baba yaga updated
+-	ROM updated
+-	added new alternative to sacrifice necromancy (blood on the ice and the solstheim girl)
+-	soul cairn script tweks for perforamnce
+-	light and shade
+-	farlmes (still farlmussy sometimes)
+-	nebarra 
+-	cotn optimized meshes total
+-	void salts yes
+-	simple snow improvements
+-	dragon weapons and armors
+-	ebony weapons and armors
+-	daedric weapons and armors
+-	ECPLW particdle lights for windows
+-	fixes collections
+-	native editor id fix
+-	fluffy housecatsw
+-	locational encounter zones
+-	female player animations 
+-	slightly better evil rock cairns
+-	jewerly collection
+-	obscure college
+-	bibliophile arcaneum
+-	choose your own arch mage
+-	zim deremora
+-	misc college of winterhold tweaks
+-	finding velehk sain
+-	himbo PAU
+-	werewolf behavior
+-	skyshards offer skills
+-	dark mage of pelegia
+-	mythic dawn armor
+-	3ba colovian prince
+-	optimized textures
+-	removed problematic mods
+-	skooma on skyrim
+-	some extra armors from obi
+-	ultra trees
+-	mco universal
+-	one click power attack ng optional
+-	some tweaks to OStim
+
 
 ## 0.7.3 - Not Save Compatible
 
