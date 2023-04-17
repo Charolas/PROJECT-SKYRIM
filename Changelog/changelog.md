@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.7.8](#078---save-compatible-recommended-new-save) - `04/16/2023`
 - #### [0.7.7](#077---save-compatible) - `04/12/2023`
 - #### [0.7.6](#076---not-save-compatible) - `04/06/2023`
 - #### [0.7.3](#073---not-save-compatible) - `02/08/2023`
@@ -22,6 +23,81 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+
+## 0.7.8 - Save Compatible - RECOMMENDED New Save to see all features.
+
+# Added
+
+- lydia remake HDT
+- spaghetti's remaining cities (except for COTN ones)
+- dead and daedric guardians
+- 3D NPC ai overhaul patch
+- thunder thighs
+- 2b gothy dwemere version
+- thicc and strong
+- RMB SPIDified (Sons of Skyrim, GAR, RA, New Legion)
+- dangerous bandit hounds
+- dragons use thu'um
+- the tinraa body
+- elewin jewerly
+- ayled stone piercings
+- sharkish piercings
+- detailed NPCS for all piercings
+- even more brows hph
+- sprigaans 2k
+- MAXIMUM CARNAGE FULL PATCHED
+- maximum skeletons with a tweak
+- GG thiesves guild
+- JK ragged flagon
+- dismember mudcrabs
+- OCW LOOT REBALNCE
+- Bloodyspell succubus armor 
+- particle lights for shellbug
+- lute breast clipping fix
+- cbbe hand mesh edit 
+- immersive boss overhaul
+- environs - riften waterhouse
+- coco luscious lady
+- px2 himbo preset
+
+
+
+# Updated
+
+- rogues n raiders
+- dragon war overhaul
+- happy little logs
+- npc animation remix
+- immersive folded hands
+- CPFAO crossbow
+- rnr ADDONS
+- casting bar
+- expressive remiel
+- unplayable faction armors
+- flames of coldharbour
+- formlist manipulator
+- KID
+- improved follower dialogue lydia
+
+
+# Removed
+
+- opulent thieves guild
+- some cities conflicting with spaghetti's (note: spaghetti's is more compatible, and FPS friendly than most city/town overhauls out there)
+
+
+# Fixes and Tweaks
+
+- bodyslide weird hands and hoods (and other stuff)
+- rearranged base armors to make use of vanilla retextures + avoid naked people around by reducing direct record conflicts through the usage of SPID (RMB SPIDified)
+- lydia appearance (also verified other appearances and fixed those as well, such as whiterun NPCs)
+- werewolf missing aela invisible
+- redid conditions for:  rapier, katana, quaterstaff and other weapons for MCO to avoid mismatched animations
+- read the room and let your hair down are being transfered to the optional cathegory
+
+
+
 
 
 ## 0.7.7 - Save Compatible - Hotfixes and Tweaks
