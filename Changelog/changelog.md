@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.7.9](#079---save-compatible) - `17/04/2023` - new date format
 - #### [0.7.8](#078---save-compatible-recommended-new-save) - `04/16/2023`
 - #### [0.7.7](#077---save-compatible) - `04/12/2023`
 - #### [0.7.6](#076---not-save-compatible) - `04/06/2023`
@@ -23,6 +24,22 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.7.9 - Save Compatible - Fixing stuff that were forgotten to be tweaked back.
+
+# Added
+
+- mirai bodyslides 3BA
+
+# Updated
+
+- DLC2script fix
+- Abyss
+
+# Fixes and Tweaks
+
+- fixed SSE Display Tweaks ini
+- fixed TK dodge ini
 
 
 ## 0.7.8 - Save Compatible - RECOMMENDED New Save to see all features.
