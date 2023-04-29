@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.7.9.1}(#0791---save-compatible) - `29/04/2023
 - #### [0.7.9](#079---save-compatible) - `17/04/2023` - new date format
 - #### [0.7.8](#078---save-compatible-recommended-new-save) - `04/16/2023`
 - #### [0.7.7](#077---save-compatible) - `04/12/2023`
@@ -24,6 +25,65 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.7.9.1 - Save Compatible 
+
+# Added
+
+- Athlantean Snow TExture
+- ZMergeMapper
+- 3 New CBBE Armors
+- OLovers
+- Watchers
+- Senka's Body
+- The Welkynar Knight
+- Lydia HDT remake
+- Mirai Bodyslide Fix
+- Stone athronach retex for natura
+- The elegance beauty
+- Leather armor Retexture
+- Apachi Divine 3BA
+- 2B outfits and spid script
+- forgot spell
+- Undead summons tweaked
+- Bow Rapid Combo V3
+- SKYUI Weapons pack with B.O.O.B.I.E.S
+
+# Updated
+
+- OpenSex
+- ORomance
+- FSMP
+- SPID
+- paulicus poison
+- drops
+- LOD Library
+
+
+# Removed
+
+- Undies
+- Snow Parallax texture (got replaced by another, better texture)
+- Some animations that were T-Posing and making male npcs use female only animations
+
+
+# Fixes and Tweaks
+
+- Maximum Carnage script 
+- Fixed Katana conditions
+- Switched Hotkeys for CBBE 3BA / Collision Reset / OStim, they won't overlap anymore
+- Physics tweak to make high refresh rate available 
+- Physics update to make performance much better for CPU bound systems
+- mirai bodyslide fix
+- BURPST Natura and Mysticism Fix (poison spray, deadly poison spray, bug spray)
+- Fixed missing bodies
+- Fixed Missing wrists
+- Fixed underwear not being applied correctly
+- Fixed underwear replacing main clothing
+- Fixed OStim Crashing when starting a scene
+- Attempt fix at loot crash
+- Fixed NPCs faces to avoid them returning to vanilla, some still do, but they are rare.
+
 
 ## 0.7.9 - Save Compatible - Fixing stuff that were forgotten to be tweaked back.
 
