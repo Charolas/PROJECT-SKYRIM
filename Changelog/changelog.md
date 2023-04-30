@@ -1,6 +1,6 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
-- #### [0.7.9.2](#0792---save-compatible) - `29/04/2023
-- #### [0.7.9.1](#0791---save-compatible) - `29/04/2023
+- #### [0.7.9.2](#0792---save-compatible) - `29/04/2023`
+- #### [0.7.9.1](#0791---save-compatible) - `29/04/2023`
 - #### [0.7.9](#079---save-compatible) - `17/04/2023` - new date format
 - #### [0.7.8](#078---save-compatible-recommended-new-save) - `04/16/2023`
 - #### [0.7.7](#077---save-compatible) - `04/12/2023`
