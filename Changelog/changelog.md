@@ -1,5 +1,6 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
-- #### [0.7.9.1}(#0791---save-compatible) - `29/04/2023
+- #### [0.7.9.2](#0792---save-compatible) - `29/04/2023
+- #### [0.7.9.1](#0791---save-compatible) - `29/04/2023
 - #### [0.7.9](#079---save-compatible) - `17/04/2023` - new date format
 - #### [0.7.8](#078---save-compatible-recommended-new-save) - `04/16/2023`
 - #### [0.7.7](#077---save-compatible) - `04/12/2023`
@@ -25,6 +26,12 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.7.9.2 - save compatible (hotfix)
+
+Fixed CBBE hands and feet
+Updated enbseries
+
 
 ## 0.7.9.1 - Save Compatible 
 
