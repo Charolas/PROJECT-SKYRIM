@@ -73,10 +73,9 @@ With the performance mode options being available, exact minimum requirements is
 - 190GB for Download
 
 **Notes**
-- There is very low difference between High and High Optimized in terms of visuals, but you can get more FPS. 
+- There is very low difference between High and Medium in terms of visuals, but you can get more FPS. 
 - All inis will change and vary depending on the specific area you are on game due to SKSE Plugins that will cover it for more FPS
-- You can change the INI files, specially the resolution, either to cover higher resolutions such as 1440p or to reduce it so that NIS will increase it's performance
-- It's not recommended to play this modlist at 4K due to the lack of mod support to the widescreen fix.
+- You can change the resolution in the SkyrimPrefs.ini (make sure to use the ini used by the Mod Organizer that is installed during the Wabajack installation. It should be located at ProjectSkyrim\profiles\Default). If you need more frames you can always decrease the resolution, it will be scaled up to fullscreen by default.
 
 ## Pagefile Configuration
   1. Press **Windows + R** on your keyboard
@@ -100,19 +99,20 @@ With the performance mode options being available, exact minimum requirements is
 # Installation
 This is a precise and easy-to-install tutorial about the mod list Project Skyrim. We aim to streamline the process and help you to remove any doubts about the installation.
 ## Pre-Installation
-### Installing Microsoft Visual C++ Redistributable Package
+
+### **Install SSE Creation Kit (Steam)**
+
+Please install SSE Creation Kit into your Skyrim installation (from steam), it's as simply as downloading a DLC, just search it in your steam library and download it.
+
+### **Installing Microsoft Visual C++ Redistributable Package**
 
 I doubt you need to do this since you likely already have this installed. The package is required for MO2, and you can download it from **[Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)**. Download the x64 version under "Visual Studio 2015, 2017 and 2019". **[Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe)** if you can't find it.
-### Installing Microsoft .NET 5.0
+### **Installing Microsoft .NET 5.0**
 
 Please ensure you have .NET v5.0 installed (**EVEN IF YOU HAVE .NET 6.0 INSTALLED**). The game will not launch if you do not have it installed. Download the **desktop app x64 AND console app x64 installers** from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 
 
 <a href="https://dotnet.microsoft.com/download/dotnet/5.0/runtime"><img alt="Microsoft" src="https://user-images.githubusercontent.com/27007797/198383090-15ce8391-fbc0-49a9-acb8-94b36ce3a811.png" width="555" height="294"></a>
-
-### Install SSE Creation Kit (Steam)
-
-Please install SSE Creation Kitinto your Skyrim installation (from steam), it's as simply as downloading a DLC, just search it in the steam store and download it.
 
 ### Websites & Programs
 - [Loverslab Account](https://www.loverslab.com/)
@@ -147,75 +147,70 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 [Download Project Skyrim and the INI files here](https://www.nexusmods.com/skyrimspecialedition/mods/76466/?tab=description)
 <br>
 # Wabbajack Installation
-Create three new folders in your drive; "Project Skyrim" | "Wabbajack" | "Wabbajack Downloads" like so:
+
+Make sure you have performed all steps listed under Pre-Installation before continuing with the installation.
+
+1. Create three new folders in your drive: "Project Skyrim", "Wabbajack" and "Wabbajack Downloads" like so:
 
 ![unknown (1)](https://user-images.githubusercontent.com/116535023/197645646-cdc7d058-43c0-403f-80cb-038ea317f0cb.png)
 
-Open the downloaded Project Skyrim.rar file; you can use a program like 7zip ( https://www.7-zip.org/download.html )
+2. Open the downloaded Project Skyrim.rar file. To do that you can use a program like 7zip (https://www.7-zip.org/download.html). Extract the files inside to your "Wabbajack" folder.
 
-Copy the files inside to your "Wabbajack" folder.
+3. Copy the Wabbajack files (https://github.com/wabbajack-tools/wabbajack/releases) to your folder "Wabbajack", it should include Wabbajack.exe and wabbajack-cli.bat
 
-Also copy the Wabbajack files to your folder "Wabbajack", it should include Wabbajack.exe and wabbajack-cli.bat
+4. Open Wabbajack.exe in your "Wabbajack" folder. 
+   - a) Click the cog/settings button at the top right, and login to your three accounts on Lovers Lab, Nexus Mods, and Vector Plexus. Do NOT skip this mini-step.
 
-********VIDEO***********
-
-in the video, the folder "project" should be "Project Skyrim" or however you named your installation folder.
-
-4 - Once you have completed Step 3, open Wabbajack.exe in your "Wabbajack" folder. 
-
-a. Click the cog/settings button at the top right, and login to your three accounts on Lovers Lab, Nexus Mods, and Vector Plexus. Do NOT skip this mini-step.
-
-b. Click "Install From Disk" and go to your "Wabbajack" folder, select the "Project Skyrim.wabbajack" file.
+   - b) Click "Install From Disk" and go to your "Wabbajack" folder, select the "Project Skyrim.wabbajack" file.
 
    Set your paths like so:
 
 ![unknown (2)](https://user-images.githubusercontent.com/116535023/197653641-485bf04f-a8e1-48b1-853f-367baa510366.png)
 
-5 - Some mods will have to be downloaded manually. It will pop up a window with the site to download the mod from. At the top, it will tell you which file exactly to download.
+5. Some mods will have to be downloaded manually. It will pop up a window with the site to download the mod from. At the top, it will tell you which file exactly to download.
 
-If you have downloaded the wrong one it will let you know at the end. Don't panic. 
+   If you have downloaded the wrong one it will let you know at the end. Don't panic. 
 
-If there is an error or it closes, you won't need to re-download mods you have already downloaded.
+   If there is an error or it closes, you won't need to re-download mods you have already downloaded.
 
 ![unknown (3)](https://user-images.githubusercontent.com/116535023/197653934-0827c09e-a077-4d3d-b94d-a39a3a6c9004.png)
  
-********VIDEO***********
 
-6 - When Wabbajack is done downloading the Project Skyrim modlist, there may be some missing mods, giving you an error.
+6. When Wabbajack is done downloading the Project Skyrim modlist, there may be some missing mods, giving you an error.
 Wabbajack will let you know which mods have issues in the log at the bottom left.
 
-Our community has compiled a list of certain mods that give our users trouble and have them within the links below.
+   Our community has compiled a list of certain mods that give our users trouble and have them within the links below.
 
-Attempt the first link and if there are still any fails or missing files, try using files in the second.
+   Attempt the first link and if there are still any fails or missing files, try using files in the second.
 
-For ENB series fails, you may need the version in the third link.
+   For ENB series fails, you may need the version in the third link.
 
-https://mega.nz/folder/GJlikaaK#32hVjzlHyaQWk7xYnjb7Rg
+   https://mega.nz/folder/GJlikaaK#32hVjzlHyaQWk7xYnjb7Rg
  
-https://mega.nz/folder/TbRRhSYQ#qQLHnpMEY8goog3Rgrd6aw
+   https://mega.nz/folder/TbRRhSYQ#qQLHnpMEY8goog3Rgrd6aw
 
-https://cdn.discordapp.com/attachments/1006677323338231889/1042584876198678549/enbseries_skyrimse_v0477_d26249d19428145edbc69fa85ad77970ffc12a725f923e37b8a9d71774ca5703_.zip
+   https://cdn.discordapp.com/attachments/1006677323338231889/1042584876198678549/enbseries_skyrimse_v0477_d26249d19428145edbc69fa85ad77970ffc12a725f923e37b8a9d71774ca5703_.zip
 
-Simply download any that you had an issue with and move them to the Wabbajack download directory and re-attempt installation.
+   Simply download any that you had an issue with and move them to the Wabbajack download directory and re-attempt installation.
 
-If you are still having issues, feel free to hit up our support channel in the discord server.
+   If you are still having issues, feel free to hit up our support channel in the discord server.
 
-7 - Once you have finished installing the modlist without errors, you can open your "Project Skyrim" folder, and create a shortcut for Mod Organizer.
+7. Once you have finished installing the modlist without errors, you can open your "Project Skyrim" folder, and create a shortcut for Mod Organizer.
 
-8 - You are now on the final steps!
+8. You are now on the final steps!
 
-    Open your folders like so, "Project Skyrim ((Version))" -> "profiles" -> "Default" 
-    The directory address should look like in the image below:
+   Open your folders like so, "Project Skyrim" -> "profiles" -> "Default" 
+   The directory address should look like in the image below:
+
+   Open the INI files .RAR file you downloaded, and copy the files inside it into the folder. Overwrite the existing files.
 
 ![unknown (4)](https://user-images.githubusercontent.com/116535023/197654286-85c3f5f4-63e3-4ede-adb3-080ce06e48c1.png)
 
-Open the INI files .RAR file you downloaded, and copy the files inside it into the folder.
+9. You can now launch Project Skyrim from Mod Organizer by clicking the "Run" button at the top right. Make sure "SKSE" is selected. The first boot might take a while to get going, so be patient.
 
-9 -  You can now launch Project Skyrim from Mod Organizer by clicking the "Run" button at the top right. Make sure you have "SKSE" selected. The first boot might take a while to get going, so be patient.
+   If your downloads tab in MO2 looks like this, do not be alarmed.
 
-If your downloads tab in MO2 looks like this, do not be alarmed.
-
-Wabbajack does not download meta files (these files give you info about what you did to the mod). MO2 generates default meta files for each mod and looks at it. But yes, everything is fine.
+   Wabbajack does not download meta files (these files give you info about what you did to the mod). MO2 generates default meta files for each mod and looks at it. But yes, everything is fine.
 
 ![unknown (5)](https://user-images.githubusercontent.com/116535023/197654365-cf1a1737-cd2a-4514-a19b-2dbdffe49bd2.png)
 
