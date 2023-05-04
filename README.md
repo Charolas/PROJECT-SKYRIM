@@ -73,10 +73,9 @@ With the performance mode options being available, exact minimum requirements is
 - 190GB for Download
 
 **Notes**
-- There is very low difference between High and High Optimized in terms of visuals, but you can get more FPS. 
+- There is very low difference between High and Medium in terms of visuals, but you can get more FPS. 
 - All inis will change and vary depending on the specific area you are on game due to SKSE Plugins that will cover it for more FPS
-- You can change the INI files, specially the resolution, either to cover higher resolutions such as 1440p or to reduce it so that NIS will increase it's performance
-- It's not recommended to play this modlist at 4K due to the lack of mod support to the widescreen fix.
+- You can change the resolution in the SkyrimPrefs.ini (make sure to use the ini used by the Mod Organizer that is installed during the Wabajack installation. It should be located at ProjectSkyrim\profiles\Default). If you need more frames you can always decrease the resolution, it will be scaled up to fullscreen by default.
 
 ## Pagefile Configuration
   1. Press **Windows + R** on your keyboard
