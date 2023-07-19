@@ -233,62 +233,7 @@ Follow these instructions whenever you start a new playthrough:
 
 
 
-# Noteworthy Mods
-
-### Combat Overhauls
-- Valhalla Combat
-- Chocolate Poise
-- MCO/ADXP + SCAR
-- Elden Rim AIO (with Elden Rim Power)
-- Combat AI
-- Elden Counter / Elden Parry
-
-### Playstyle Overhauls
-- Ordinator
-- Mysticism
-- Sacrilege 
-- Growl
-- Thaumaturgy
-- Apothecary
- Wintersun 
-- Skyrim Classes
-- Morningstar
-- Mundus Stones
-
-### Immersive & Survival Overhauls
-- Sunhelm
-- Campsite
-- Honed Metal
-- Sidequests of Skyrim
-- Bandit dialogue expansion  
-- More to say
-- Misc Dialogue Edits
-- RDO
-- GDO
-- Immersive Speach Dialogues
-- JS Misplaced Septims
-- JS Tripwires
-- JS Rugs, etc.
-- Immersive Interactions
-- Eating Animations
-- Animated Poison/Potions
-- Gesture Animation Remix
-- NPCs Animation 
-- Moon And Stars
-- Splashes of Storms
-- Rainbows
-- Shooting Stars
-- Storm Lightning
-
-
-### Quests
-- Legacy of the Dragonborn SSE
-- VIGILANT / UNSLAAD / GLENMORIL
-- Beyond Skyrim: BRUMA
-- The Wheels of Lull
-- Identity Crisis
-- The Tale of Tsatampra Xiros
-- All of the "Quest Expansion" Package alongside with some "Good Guys" and the famous alternatives like "Save the Ice Runner" and "Adoption Without Murder"
+# For content and the "about" section of PROJECT Skyrim" Please refer to the Nexus page. https://www.nexusmods.com/skyrimspecialedition/mods/76466
 
 
 
