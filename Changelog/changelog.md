@@ -33,6 +33,8 @@
 
 Some items are in both "Added" and "Removed" because they are either different versions or edited versions by me.
 
+All mods are up-to-date, unless there is a specific need that disallows updates.
+
 # Added 
 
 - (SJG) Quick Light Patch (based upon in game Torch values for light settings)
