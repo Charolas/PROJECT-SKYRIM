@@ -31,6 +31,8 @@
 
 ## 0.8.0 - Not Save Compatible (First Version)
 
+Some items are in both "Added" and "Removed" because they are either different versions or edited versions by me.
+
 # Added 
 
 - (SJG) Quick Light Patch (based upon in game Torch values for light settings)
