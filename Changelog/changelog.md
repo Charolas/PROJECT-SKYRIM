@@ -724,6 +724,7 @@ All mods are up-to-date, unless there is a specific need that disallows updates.
 - OBody NG - Cleavage Configurations
 - OBody NG Configuration Files
 - OCum Ascended - Cum and Orgasm Mechanics for OStim - Settings Loader
+- Optimised scripts for Read the Room
 - OSmp - Automatic SMP physics toggle for OStim
 - OStim Lovers
 - OStim NPCs - NPC Sex Lives Improved
