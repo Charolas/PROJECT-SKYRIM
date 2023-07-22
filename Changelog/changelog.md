@@ -1843,6 +1843,7 @@ All mods are up-to-date, unless there is a specific need that disallows updates.
 - kaosBody - The Diabolical - A 3BA BodySlide Preset
 - kaosBody - The Eidolon - A 3BAv BodySlide Preset
 - xStrawberryEclair's Anna - FREA
+- Your Own Thoughts
 
 # Fixes and Tweaks
 
