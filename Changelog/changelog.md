@@ -469,7 +469,6 @@ All mods are up-to-date, unless there is a specific need that disallows updates.
 - IA Asdasfa - LOTD Patch
 - IA Collection-IW Solitude Poster Removal Patch
 - IFrame Generator RE
-- IWantWidgets NG (updated version but another mod)
 - INIGO 2.4C UPDATE ESP FILE
 - ISC - Triumvirate Patch
 - IURS - Interesting (Useless) Relationships and Quest Comments
