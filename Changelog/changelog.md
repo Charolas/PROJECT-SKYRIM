@@ -282,6 +282,7 @@ All mods are up-to-date, unless there is a specific need that disallows updates.
 - Dwemer Pipework Reworked
 - Dwemer Tonal Weaponry - AIO
 - Dwemer Tonal Weaponry - Weapon Art
+- Dynamic Activation Key (with MCM Addon by MaskedRPGFan the hottest man on earth)
 - Dynamic Armor Variants
 - Dynamic Armor Variants for Skyrim 1.5
 - Dynamic Bow Animation
@@ -468,6 +469,7 @@ All mods are up-to-date, unless there is a specific need that disallows updates.
 - IA Asdasfa - LOTD Patch
 - IA Collection-IW Solitude Poster Removal Patch
 - IFrame Generator RE
+- IWantWidgets NG (updated version but another mod)
 - INIGO 2.4C UPDATE ESP FILE
 - ISC - Triumvirate Patch
 - IURS - Interesting (Useless) Relationships and Quest Comments
