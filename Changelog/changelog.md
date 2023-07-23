@@ -487,6 +487,7 @@ All mods are up-to-date, unless there is a specific need that disallows updates.
 - Immersive Display Overhaul
 - Immersive Hunting Overhaul
 - Immersive Interactions FormList Manipulator patch (FLM)
+- Immersive Interactions for Cannibals
 - Immersive Performance for Ordinator
 - Immersive Persuasion
 - Immersive Persuasion - Patches
@@ -608,6 +609,7 @@ All mods are up-to-date, unless there is a specific need that disallows updates.
 - Maximum Destruction - Settings Loader
 - Maximum Skeletons D-Won Edition
 - Media Keys Fix SKSE
+- Memorable Dragons
 - Menu Maid 2 - MCM manager
 - MergeMapper
 - Mihail's Hanging Dead Chickens (BOS Version)
@@ -881,6 +883,7 @@ All mods are up-to-date, unless there is a specific need that disallows updates.
 - Script Override for PapyrusUtil SOS and Female Pubics mod
 - Seamless Varied Feminine Idles OAR
 - Secunda - Princess of Daggerfall - Custom Voiced Follower
+- Select One Skip
 - Sharkish Piercings - BHUNP and 3BA Body Piercings
 - Ships On The Horizon
 - Shooting Stars SE - Settings Loader
@@ -927,10 +930,22 @@ All mods are up-to-date, unless there is a specific need that disallows updates.
 - SmoothCam - Soft Preset
 - Snazzy Interiors - Whiterun House Battle-Born
 - Snazzy Interiors - Whiterun House Gray-Mane
+- Snazzy Interiors - Riften Snow-Shod Manor
+- Snazzy Interiors - House of Clan Shatter-Shield
+- Snazzy Interiors - Riften Black Brior Manor
+- Snazzy Interiors - House of Clan Cruel-Sea
+- Snazzy Interiors - Markarth Treasure House
+- Snazzy Interiors - Solitude Bryling's House
+- Snazzy Interiors - Markarth Guard Tower
+- Snazzy Interiors - Markarth Nepo's House
+- Snazzy Interiors - Solitude Erikur's House
+- Snazzy Interiors - Windhelm Blacksmith
+- Snazzy Interiors - Patch Collection
 - Snowy Statics Consistency
 - Snowy Tree Swapper - Base Object Swapper
 - SoS Uncloaked
 - Soaking Wet - Character Wetness Effect
+- Social NPCs
 - Soft Shadows
 - Sonderbain's Chevalier - Randomized One Handed Block Animations
 - Sonders Keyword Distribution Resources
