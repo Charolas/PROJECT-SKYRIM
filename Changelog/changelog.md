@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.8.1](#081---recommended-new-save) - `05/09/2023`
 - #### [0.8.0](#080---not-save-compatible) - `28/07/2023`
 - #### [0.7.9.2](#0792---save-compatible) - `29/04/2023`
 - #### [0.7.9.1](#0791---save-compatible) - `29/04/2023`
@@ -28,16 +29,401 @@
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
 
+## 0.8.1 - New Save Recommended 
+
+Various fixes I did require a new game to be fully working, I do recommend a new save to also enjoy some new systems that were added, a massive amount of fixes were made for this version to fix most of the issues that existed in the previous version.
+
+# Fixes and Tweaks
+
+- Added missing textures and meshes to fix some placements or purple items.
+- Fixed specific crashes and freezes related to both scripts and grass.
+- Attempt fix to random crashes and freezes
+- Fixed some missing in-side meshes of some inns
+- Fixed some balancing features of the game
+- Fixed a lot of miscellaneous bugs
+
+# Added 
+
+- 1st person hands fix for Obi's 2B Officer Uniform
+- 3BA 3BBB CBPC Realistic Firm Breasts Butt Belly and Thighs (3BA RFBBBT)
+- Abyssal Tides Magic
+- Abyssal Wind Magic
+- Adventurer Armor - 3BA Conversion
+- Aetherius - A Race Overhaul
+- Aetherius - NPC Spell Absorption Addon
+- An Evening With Angi
+- Animated Armoury - Reliquary of Myth Patch
+- Aura's Inventory Tweaks
+- Bears of the North - Vanilla Size Patch
+- Becky Dragon Fall Fixed
+- Better Court Wizards
+- Better SkyUI Config - Reading Fix
+- Blackreach Railroad - The Blackest Reaches Patch
+- Buy and Sell Torches - bug fix
+- Caught Red Handed - Quest Expansion - OStim Patch
+- Coldharbour Executioner Armor - SMP - 3BA
+- Configurable Notification Messages
+- Container Item Distributor
+- Cow Replacer- Mihail Monsters and Animals (SE-AE version)
+- Crash Logger SSE AE VR - PDB support 1597
+- Creep Cluster Collision Fixes
+- DVA - Dynamic Vampire Appearance
+- Darkside's SkyHavenTemple Patch
+- Dead bears of the north
+- Dear Diary Dark Mode Bars for OStim
+- Demon Slayer Armor Mashup
+- Demon Slayer Armor Mashup LUX ESL
+- Devour - Sensual Vampire Feeding for OStim
+- Diverse Catches - Base Object Swapper
+- Drago's Enchant Those Potions for OStim Standalone
+- Drago's Love Those Neighbours for OStim Standalone
+- Dragons Use Thu'um - Patch for Deadly Dragons
+- Dynamic Activation Key
+- Dynamic Activation Key - Addons Collection
+- Dynamic Activation Key - MCM
+- Dynamic Female Weather Idles
+- ELLE - Ginnungagap 3BA-BHUNP
+- ELLE - Love Potion 3BA - BHUNP
+- ENB Dynamic Cubemaps
+- ENB Extender for Skyrim
+- ESO The Breton Knight HDT-SMP
+- Eating Animations and Sounds - NPC Follower - Patch
+- ElSopa - Shields Redone - Part I
+- Environs - Abandoned Abodes
+- Environs - Abandoned Abodes - Patches
+- Excitable Subs for OStim
+- FWMP Addons
+- FYX - Water Mesh Optimization
+- Failed Pickpocket Gains XP Redux
+- Farm Tools - Weapon Pack
+- Farm Tools Weapon Pack - Distributed
+- Fencing In The Dark for OStim Standalone
+- Ferrum Nibenis
+- Ferrum Nibenis - 3BA Conversion
+- Fists of Fury - Skyrim
+- Fists of Fury - Skyrim - Brawl Lines Expansion
+- Fists of Fury - Skyrim - Lux patch
+- Fists of Fury - Skyrim - Northern Roads Patch
+- Follower Distance Tweaks - Gore - Vigilant
+- Forsworn Armors and Weapons Retexture SE
+- G.I.R.T.H. - Gildergreen Is Really Thicc HD
+- GORE - USSEP Patch
+- Gore x Vigilant
+- Grief
+- Guards and Stormcloaks Armors Retexture SE
+- Higher Poly Vanilla Eldergleam Roots
+- Immersive Death Cycle
+- Immersive Death Cycle - Undead FX
+- Immersive Interactions for Cannibals
+- Immersive Wenches for OStim REDUX
+- Improved Camera OStim Standalone Configuration
+- Improved Idle Laydown Animations
+- Instantly Skip Dialogue NG
+- Irisuke - The Reaper Of Souls (Project Skyrim) Dunmer Female Preset
+- Item Property Manipulator - IPM
+- Items Stolen Bug Fix
+- JS Common Cages SE
+- Jets Resources
+- Kaidan - Immersive Features
+- Kaidan 2 Extended Edition Addon New dialogue and quest commentary plus new features
+- Kaidan 2 OStim Open Animations Sex Patch for OStim Standalone
+- Kanjs - Spellbreaker Animated
+- Kellan Armor - 3BA Conversion
+- Kellan HDT-SMP Armor
+- KiLoader for Skyrim
+- Kill Camera Misalignment Fix
+- Know Your Enemy 2 - Unofficial Monster Patches
+- KreatE
+- Leather Armors Retexture CBBE 3BA Bodyslide Patch
+- Legacy of the Dragonborn - Hall of Forgotten - Delayed
+- Let's Make Out in Skyrim
+- Leveling Freedom - Configure your XP Curve - Gentler Smoother Steeper or Flat - Settings Loader
+- Leviathan Animations II - Greatsword Sneak Locomotion And Attacks
+- Lively's Patches for Cheesemod for EVERYONE
+- Lively's Patches for Remiel and her Add-Ons
+- Locked Empty Container Activate Text Fix
+- Lovemaking Compendium for OStim Standalone
+- Madmen - A Forsworn Overhaul
+- Madmen - A Forsworn Overhaul - Patches
+- Madmen Addons
+- Mania Mushroom Retextured (Saints and Seducers CC)
+- Maximum Carnage - 3BA Patch
+- Maximum Carnage - HIMBOPatch
+- Maximum Carnage for SkySA and MCO
+- Memorable Dragons
+- Mighty Memorable Dragons
+- Mikan Eyes - Enhanced
+- Mists of Tamriel - Skies Above
+- Mists of Tamriel for Obsidian Weathers
+- Modern Stagger Lock
+- More Cow Variants - My optimized textures SE
+- More Cow Variants- Mihail Monsters and Animals (SE-AE)
+- Morthal Barrow
+- Morthal Barrow - Atlas Map Markers
+- Morthal Barrow - Dragon Cult
+- N.U.D.E. powered by Underwear.dll
+- NPC Underwear Distribution Engine (NUDE)
+- NPC Underwear Distribution Engine (NUDE) - Keyword Fix
+- Narrative Gameplay Consistent Dialogue Tweaks - Caught Red Handed
+- Night-blooming Violets for OStim Standalone
+- Nordic Ruins Rubble Pile - Mesh Improvement
+- Northern Roads - Obsidian Mountain Fogs
+- Nox Dominium
+- Nox Dominium - Vendor Patch
+- OApproach - OStim NG addon
+- OBody NG
+- OBody NG - Cleavage Configurations
+- OBody NG Configuration Files
+- OComfort - OStim Lovers Comfort
+- OCum Ascended
+- OHeels
+- OProstitution
+- ORomance
+- ORomance Plus
+- ORomance Plus Opensex Patch
+- OSA
+- OStim Lovers
+- OStim NPCs - NPC Sex Lives Improved
+- OStim Standalone - Advanced Adult Animation Framework
+- OStim Standalone - Extended Futanari Animation Support
+- OTrainers - OStim trainers with benefits
+- OVenom
+- OVirginity Reflowered
+- OVirginity Reflowered JSON Configuration File - Somewhat Immersive
+- Obi's Nocturnal Noir Outfit 3BA BHUNP 2K
+- Obi's Rogue Outfit 2K 3BA
+- Obsidian Mountain Fogs
+- Obsidian Weathers and Seasons
+- Open Animation Replacer - IED Conditions
+- Open Animations Romance and Erotica
+- Organic Player Animations (OAR)
+- Paired Animation Improvements
+- Practice Dummies - DTA Patch
+- Pubes Forever SSE
+- Quel'Delar SE
+- Racial Abilities - I4 icons
+- Raven Armor - 3BA and HIMBO Conversion
+- Re-Weighter
+- Realistic Paper Parchment and Scroll Texture
+- Remove bright eyes from skeletons and draugr
+- S.M.C. - SKYRIM MOTION CONTROL
+- SHINI Physics Config
+- SPIDER - Spell Perk Item Distributor Easy Resource
+- Sandwiches of Skyrim
+- Sandwiches of Skyrim - Mari Patch
+- Savage Cannibalism
+- Scene Tweak - College of Winterhold Non-Novice spells
+- Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
+- Seamless Varied Masculine Idles OAR
+- Select One Skip - Hold Key to Skip Quantity Menu
+- Shadows of the Guild
+- Simple Hunting Overhaul
+- Skies Above - Saints and Seducers Extended Cut
+- Skies Above Weathers and ENB
+- Skill Based Dynamic Animations
+- SkyClimb
+- SkyClimb - No ENB Light Marker
+- SkyClimb - Settings Loader
+- Skyrim Landscape and Water Fixes Landscape Texture Seam Fix
+- Skyrim is Cold
+- Snazzy Interiors - Markarth Guard Tower
+- Snazzy Interiors - Markarth Nepos' House
+- Snazzy Interiors - Markarth Treasury House
+- Snazzy Interiors - Riften Black-Briar Manor
+- Snazzy Interiors - Riften Snow-Shod Manor
+- Snazzy Interiors - Solitude Bryling's House
+- Snazzy Interiors - Solitude Erikur's House
+- Snazzy Interiors - Windhelm Blacksmith
+- Snazzy Interiors - Windhelm House of Clan Cruel-Sea
+- Snazzy Interiors - Windhelm House of Clan Shattershield
+- Snazzy Interiors Patch Collection
+- Social NPCs
+- Somewhere in Between - 3BA Armor compilation replacer
+- Song of the Green - OStim Patch
+- Sonic Magic
+- Southfringe Sanctum Crash Fix
+- Spaghetti's Faction Halls - Dark Brotherhood
+- Spaghetti's Towns AIO - Interesting NPCs Patch
+- Spell Organizer - Hide Remove Delete Erase Forget Spells
+- Spirit Witch Outfit
+- Static Swaps Variety - Practice Dummies
+- Stuck on Screen Load Door Prompt Fix
+- Switch Camera During Dialogue
+- That Night on the Lake
+- That Night on the Lake - OStim
+- The Hinterland Ranger - (CBBE - 3BA - HIMBO) - (SMP Tunic)
+- The Hinterland Ranger - HDT-SMP
+- Thieves Guild Armors Retexture SE
+- Traveler's Armor Pack - 3BA Conversion
+- Underwear - CBBE
+- Underwear.dll
+- Unique Eastmarch Windhelm Bridges - Base Object Swapper
+- Unique Markarth Doors - Security Overhaul SKSE - Base Object Swapper
+- Valhalla Combat - Backstab Bug Fix
+- Vampire Armor Expansion
+- Vampire Armor Expansion - Temper Fix
+- Vampire Armors and Weapons Retexture SE
+- Vampire Clothing Expansion
+- Vanilla Script (micro)Optimization 1.16a - Adoption Bug Fix
+- Weapon Speed - IPM
+- Weapon Styles - DrawSheathe Animations for IED
+- Werewolf Totem Skull Replacer
+- Wheeler - Quick Action Wheel Of Skyrim
+- Wheeler - Untarnished UI Edit
+- Whelp to Warrior - HIMBO Bodyslide Preset
+- Whiterun Imperial Camp Fixes
+- Windhelm Entrance Offset Fix - Base Object Swapper
+- Wing Fixes
+- Witchy - World of Warcraft Accessories
+- Worn Undead
+- [Ashtoreth] Ahlanna Armor
+- [Ashtoreth] Dragon Skin
+- [Ashtoreth] Elven Sentinel Armor
+- [Ashtoreth] Monster Hunter Armor
+- [Ashtoreth] NieR Automata
+- [Ashtoreth] Succubus
+- [Ashtoreth] Tbleague Dawn
+- [COCO] COCO Mysterious Mage
+- [COCO] Gothic Babe
+- [COCO] Joan Of Arc
+- [COCO] RONIN
+- [Sahurows] Casca Armor Set
+- dMenu
+- opleaseletmego ng
+- slightly Better Scrolls
+- xavbio's meshes for 3BA
+
+# Removed 
+
+- 3BA Options
+- A.S.S. (A Food and Potions Addon for B.O.O.B.I.E.S.)
+- An Evening With Angi
+- ArteFakes - Unique Artifacts Replacer
+- ArteFakes - Unique Artifacts Replacer - LOTD
+- ArteFakes - Unique Artifacts Replacer - ROM
+- ArteFakes - Unique Artifacts Replacer - USSEP
+- Assorted Animation Fixes
+- BWB-HSF-Kaidan-2-Extended-Edition-8.3.0
+- BWB-Kaidan-2-Lux-Patch
+- BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1
+- Billy Lesbian 3P animation pack for OStim NG
+- Billy Threesome animation pack for OStim NG
+- Billyy Animations Pack Ostim Port
+- Billyy Furniture Pack for OStim NG
+- Billyy Group Animations OStim Port
+- Billyy Group animation pack for OStim NG - Extended Version
+- Blackreach Railroad Patch
+- Bone Colossi and Gravelords- Mihail Monsters and Animals (SE-AE version) (''undead'')
+- Caught Red Handed - Quest Expansion - OStim Patch
+- Conditional Expressions - Subtle Face Animations
+- Conditional Expressions - Subtle Face Animations - Settings Loader
+- Conditional Expressions Extended
+- Conditional Stamina Costs - In Combat Sprinting
+- DLC2AudioRepeaterActivator01Script Tweak
+- DLC2MiraakScript Fix
+- DLC2PillarBuilderActorScript Tweak
+- DLC2TribalWerebearScript Fix
+- DLC2dunFrostmoonTriggerScript Optimization
+- DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+- DLC2dunSeekerInvisScript Fix
+- Dear Diary Dark Mode Bars for OStim
+- Devour - Sensual Vampire Feeding for OStim
+- Drago ETP Animation Addon - Opensex Addon Hub Patch
+- Drago Foot Add On - Anal Animation Add on Patch
+- Drago Foot Animation Add on - Opensex Addon Hub Patch
+- Drago Foot Animation Add on for Opensex
+- Drago's Love Those Neighbours
+- Drago's Patch
+- Elden Parry
+- Elden Parry - Vanilla Sounds
+- Enemy Magelock - NPC Magic Casting Commitment
+- Excitable Subs for OStim
+- Feet Animation pack for OStim NG
+- Fencing In The Dark for OStim NG
+- Flat Map Markers SSE
+- Forget Spell
+- Hand placed enemies - Light (Populated spawns and dungeons)
+- Happy Little Trees - DLC Trees (Base Object Swapper)
+- Immersive Display Overhaul
+- Immersive Wenches for OStim REDUX
+- Improved Camera OStim NG configuration
+- Kaidan-2-and-Inigo-Banter-Patch-v6.3
+- Kaidan-3DNPC-Patch
+- Kaidan-Immersive-Features-Ostim-V9.3.0
+- Kaidan-LOTD-Commentary
+- KreatE
+- Legacy - A Race Overhaul
+- Lesbian Animation pack for OStim NG
+- Leveling Freedom - Configure your XP Curve - Gentler Smoother Steeper or Flat - Settings Loader
+- MQ105SprintTriggerScript Fix
+- Mists of Tamriel - Skies Above
+- Modern Stagger Lock
+- ModiLogist Underwear
+- Moon Lovemaking Compendium for OStim NG
+- Narrative Gameplay Consistent Dialogue Tweaks - Ca
+- Nibbles Animation pack for OStim NG
+- Night-blooming Violets for OStim NG
+- OApproach - OStim NG addon
+- OB scripts Fix
+- OBody NG
+- OBody NG - Cleavage Configurations
+- OBody NG Configuration Files
+- OComfort - OStim Lovers Comfort
+- OCum Ascended
+- OHeels
+- OProstitution
+- ORomance
+- ORomance Plus
+- ORomance Plus Opensex Patch
+- OSA
+- OSex L'amour Rose Animation Pack
+- OStim Feet Animation Pack
+- OStim Lovers
+- OStim NG - OSA Overhaul and API Next Gen
+- OStim NPCs - NPC Sex Lives Improved
+- OStim Pace Keeper
+- OTrainers - OStim trainers with benefits
+- OVenom
+- OVirginity Reflowered
+- OVirginity Reflowered JSON Configuration File - Somewhat Immersive
+- Obsidian Mountain Fogs
+- Old Blood
+- Open Animations Romance and Erotica (former OpenSex)
+- OpenSex Addon Hub
+- OpenSex Anal Animations Add on
+- OpenSex Compatibility Patch - Addon Hub version
+- Particle Lights For ENB SE - Undead Creatures
+- Phenomenally Enriched and Nuanced Ingredients for SkyUI
+- Precision Elden Parry Compatibility toml
+- Pubes Forever SSE
+- Racial Abilities - I4 Icons for Legacy and Lost Races of Aetherius
+- Showing off Stuff - Put random things on plaques - fish paintings doodads
+- Skies Above - Saints and Seducers Extended Cut
+- Skies Above Weathers and ENB
+- Skyrim Search SE - Simply find your missing followers
+- Snowy Tree Swapper - Base Object Swapper
+- Song of the Green - OStim Patch
+- Soul Cairn Script Tweaks
+- Sovngarde - A Nordic Font
+- That Night on the Lake
+- That Night on the Lake - OStim
+- Wait Your Turn a la SOT patch only
+- Water for ENB - Fantasy Paper Maps
+- Whiterun House Battle-Born - Lux Patch
+- Whiterun House Gray-Mane - Lux Patch
+- YOT - Your Own Thoughts SE
+- YOUR OWN THOUGHTS - PATCH HUB
+- dunFolgunthurBossBattle Script Fix
 
 ## 0.8.0 - Not Save Compatible (First Version)
 
 Some items are in both "Added" and "Removed" because they are either different versions or edited versions by me.
 
-All mods are up-to-date, unless there is a specific need that disallows updates.
+All mods are up-to-date unless there is a specific need that disallows updates.
 
 # Added 
 
-- (SJG) Quick Light Patch (based upon in game Torch values for light settings)
+- (SJG) Quick Light Patch (based upon in-game Torch values for light settings)
 - 3BA 3BBB CBBE SSE Bodyslide Preset - Temptations
 - 3BA Options
 - 3D mushrooms
