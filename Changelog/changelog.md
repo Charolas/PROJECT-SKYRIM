@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.8.1.1](#0811---recommended-new-save) - `04/10/2023`
 - #### [0.8.1](#081---recommended-new-save) - `05/09/2023`
 - #### [0.8.0](#080---not-save-compatible) - `28/07/2023`
 - #### [0.7.9.2](#0792---save-compatible) - `29/04/2023`
@@ -28,6 +29,224 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.8.1.1 - New Save Recommended
+
+The main goal of this update is to fix crashes, freezes, and instabilities that occurred in previous versions, and to refine systems such as attack speed, movement speed, and some animations. A little bit of miscellaneous addons were added as well, some content that was out of character was removed and various conflicts in the leveled lists were fixed.
+
+# Fixed and Tweaks
+
+- Fixed Leveled List conflicts of SIC, SMB, etc.
+- Adjusted configs of SMC for a more adequate movement speed momentum.
+- Removed content that did not belong there within the theme.
+- Fixed some terrain issues, textures, and meshes.
+- Improved the stability of content rendering.
+- Improved disk usage for less stuttering.
+- Removed a lot of content from the leveled list additions to prevent quests from breaking or intrusive items from appearing.
+
+# Added 
+
+- ADO - Adamant Patch
+- ADO - DragonsUseThuum Patch
+- ADO - Ordinator Patch
+- ADO - Stormcrown Patch
+- ADO - Vokrii Patch
+- Additional Dremora Faces - Mysticism Patch
+- Additional Dremora Faces - Mysticism Zims Patch
+- Additional Dremora Faces - Zim Dremora patch
+- Additional Dremora faces
+- Ancient Argonian Armor - My patches SE
+- Ancient Argonian Armor SE
+- Andrealphus Disarming Overhaul
+- Andrealphus' Exploit Fixes
+- Anubs Animation Ostim Standalone port
+- Apothecary - Saints and Seducers
+- Ass-ertive Cbbe 3ba Bodyslide Preset
+- Attacko's Daedra 2
+- Backpack Repositioner
+- Beldam's Weave 2K 3BA
+- Beldam's Weave 2K 3BA - ESL
+- Billyy Table Pack for OStim Standalone
+- Body Highlight Tattoos
+- DLC2TelvanniRoot mesh fixes
+- Daughters of Dimitrescu Outfit - CBBE 3BA - TBD - BHUNP
+- Desecration - DnD Guardians Synergy Patch Plus
+- Diana The Dragon Ascendant (Project Skyrim) Dark Elf Female Preset
+- Disk Cache Enabler
+- Diverse Firewood - Base Object Swapper
+- Diverse Firewood - Base Object Swapper - Dynamic Things Alternative Patch
+- Dragon Priest Retexture SE
+- Dragon and Tiger Emperor Armor
+- Dremora Lines Expansion
+- Dynamic Block Hit
+- EVG Animated Traversal - Stamina Cost Addon
+- Easy Mannequin Usage (Dynamic Activation Key)
+- FIXED Highpoly Nordic Metal Grate
+- FYX - Hrothgar Steps Collisions
+- FYX - Imperial Doors Collisions
+- FYX - Nordic Doors and Traps Collisions
+- Failed Pickpocket Gains XP Redux
+- Falmer Huts - Animated
+- Follower Distance Tweaks - Katana
+- Follower Distance Tweaks - Taliesin
+- Follower Distance Tweaks - Xelzaz
+- Followers Salute Casually (OAR)
+- GORE - Miscellaneous Patches
+- GORE - USSEP Patch
+- Goam's Elven Ears - BnP Skin
+- Gods And Worship - Stormcrown patch
+- Gore - Vigilant - COTN Dawnstar Patch
+- Gore - Vigilant - USSEP Patch
+- Helmet Toggle 2
+- Iden-Titties Cbbe 3ba Bodyslide Preset
+- Immersive Carcass Carrying
+- Immersive Hunting Animations
+- Immersive OStim Scene Starter - Let's Make Love
+- Impactful Blocking
+- Imperial Tents - Animated
+- Improved Camera OStim SA configuration
+- Imps and Homonculus - My optimized textures SE
+- Imps and Homonculus- Mihail Monsters and Animals (SE-AE version)
+- Inquisition
+- Kaidan - Auri Patch
+- Kaidan - Extended Edition
+- Kaidan - High Priority Patches
+- Kaidan - Water
+- Kaidan 2 - Extended Edition - Addons
+- Kanjs - Bee and Honey - 1K up to 8K
+- Kanjs - Lunar Guard and Haldberd Fix
+- Klara The Atronachborn (Project Skyrim) Breton Female Preset
+- LLF Particle Lights instead of Fake Glow
+- Lawless Patch - LO Fix
+- Let's Make Out in Skyrim
+- Lost Heritage - Bloodborne Inspired Quest
+- Lost Heritage COTN Falkreath Patch
+- Lyra The Vampiric Demon of Chaos (Project Skyrim) Goth Demonic Imperial Female Preset
+- Mary Azura's Twilight (Project Skyrim) Goth Imperial Female Preset
+- MaxsuBlockOverhaul
+- Memento Mori
+- Memorable Bounties - Witcher Inspired Quests
+- Memorable Bounties - Witcher Inspired Quests - COTN Falkreath
+- Memorable Bounties - Witcher Inspired Quests - COTN Winterhold
+- Mihail Hawk - DynDOLOD Desync Birds
+- My Home is Your Home - Blank Name Fix
+- Narrative Gameplay Consistent Dialogue Tweaks - Guard Dialogue Overhaul
+- No Furniture Camera
+- No Opposite Gender Animations NG
+- NordwarUA Armours - ENB Dynamic Cubemaps - Sons of Skyrim etc
+- Northern Roads - El Sopa Resculpted Reach Bridge F
+- OBodies - 3BA Preset Collection
+- OPubes NG - NPC Pubes Distributor
+- ORomance Plus Open Animations Standalone Patch
+- Optimised Scripts for SPERG
+- Optimised Scripts for Vokrii
+- PS08_Fix_2.1.0
+- Paraphernalia - Retractable Bridge Texture Consistency
+- Piercings of the Divines
+- Priscila The Arcane Prodigy (Project Skyrim) Goth Female Imperial Preset
+- RMB SPIDified - Regional Keyword Framework
+- Rally's Market Stalls - Animation Addons
+- ReSqueeze - TAWOBA Blades
+- ReSqueeze - TAWOBA Dragonbone
+- ReSqueeze - TAWOBA Dwarven
+- ReSqueeze - TAWOBA Steel Bikini Top 7
+- Reanimated NPC Animations - Unofficial Addon
+- Rogue's Gallery
+- Runes of Summoning - Decals
+- Sharkish Piercings - Hide and show them using Dynamic Armor Variants
+- ShoutSFX - Shout Sounds Replacer
+- Show Follower Carry Weight
+- Show NPC Disposition Relationship Rank
+- SkyClimb - Invisible Marker
+- Skyrim Motion Controk - My settings
+- Small Nordic Tent- Animated
+- Song of the Green (Auri Follower) - Enhanced Voice - 3DNPCs Banter ESL Patch
+- Song of the Green (Auri Follower) - Enhanced Voice - Inigo Banter ESL Patch
+- Song of the Green Auri Follower 3DNPCs Banter Patch ESLified
+- Song of the Green Auri Follower Inigo Banter Patch ESLified
+- Soul Cairn Landscape Fixes
+- Spaghetti's Faction Halls - Bard's College
+- Spaghetti's Faction Halls - Bard's College - No Window Objects
+- Spaghetti's Faction Halls - High Hrothgar
+- Spaghetti's Faction Halls - Sky Haven Temple
+- Strange Runes Compatibility - KID
+- Sunlight Warrior Armor
+- Tel Mithryn Overhaul - High Poly and Improved Meshes - Parallax Meshes
+- The Big Essentials Cbbe 3ba Bodyslide Preset
+- The Dragon Cult - Expanded
+- The Knight of the Void (Sidekicks of Tamriel - A Fully Custom Voice Acted Follower and Quests)
+- Thicc-alicious - A Curvy 3ba Bodyslide preset
+- Umbral Embrace - A Nocturnal Replacer
+- Valhalla Combat - Parry Sound Fix
+- Vanargand Animations II - Female Idle Walk And Run
+- Vanargand Animations II - Male Idle Walk And Run
+- Vanargand Animations II - Sprint
+- Vanity Mirror 2
+- Weapon switch animation Fix
+- Wing Fixes
+- Witcher Horse Expansion - NFF
+- Witchy - Under the Sea
+- [COCO] Deliciously Bride
+- [COCO] Devil Claw
+- [RMB SPIDified] Realistic Armor - Leveled
+- [RMB SPIDified] Recipes
+- kaosBody - The Bromidic 3BA
+- moreHUD Inventory Edition
+- moreHUD SE
+- moreHUD SE - Legacy Settings Loader
+- northern Roads - Unique Border Gates - LO fix
+
+# Removed
+
+- Animated Small Nordic Tent Replacer
+- Apothecary - Saints and Seducers Patch
+- Attacko's Daedra Collection
+- Bears of the North Patches
+- Bloodmoon - Mysticism Patch
+- Daegon - Apothecary Patch
+- Daegon Kaekiri - Custom Fully Voiced High Elf Follower
+- Failed Pickpocket Gains XP Redux
+- Follower Distance Tweaks - Kaidan (EE)
+- GORE - Miscellaneous Patches
+- GORE - USSEP Patch
+- HG Hairdos
+- Impactful Blocking
+- Improved Camera OStim Standalone Configuration
+- Kaidan - Auri Patch
+- Kaidan - Immersive Features
+- Kaidan 2 Extended Edition Addon New dialogue and quest commentary plus new features
+- Kaidan 2 OStim Open Animations Sex Patch for OStim Standalone
+- Let's Make Out in Skyrim
+- Leviathan Animations II - Sprint
+- Market Stalls Animated
+- Natura - Vanilla Damage Patch
+- Natural Dragon Priest Masks
+- Northern Roads - Obsidian Mountain Fogs
+- ORomance Plus Opensex Patch
+- Paintings for HS interiors
+- Rob's Bug Fixes - COTN Dawnstar
+- Rob's Bug Fixes - COTN Falkreath
+- Rob's Bug Fixes - COTN Morthal
+- Rob's Bug Fixes - COTN Winterhold
+- Rob's Bug Fixes - Fortified Whiterun
+- SIC SE - Add-Ons and Patches
+- SkyClimb - No ENB Light Marker
+- Skyrim Immersive Creatures Special Edition
+- Skyrim Immersive Creatures Special Edition - Fixing Purple Models
+- Skyrim Immersive Creatures Special Edition - Golden Dwemer Pipeworks Redone Patch
+- Skyrim Immersive Creatures Special Edition - Legacy Settings Loader
+- Talkative Dragons - Skyrim Immersive Creatures Patch
+- Vanargand Animations - Female Idle Walk and Run
+- Vanargand Animations - Male Idle Walk and Run
+- Wheeler - Quick Action Wheel Of Skyrim
+- Wheeler - Untarnished UI Edit
+- Wing Fixes
+- dMenu
+- moreHUD Inventory Edition
+- moreHUD SE
+- moreHUD SE - Legacy Settings Loader
+
+
 
 ## 0.8.1 - New Save Recommended 
 
