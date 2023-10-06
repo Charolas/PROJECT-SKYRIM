@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.8.1.2](#0812---save-compatible-BETA) - `06/10/2023`
 - #### [0.8.1.1](#0811---recommended-new-save) - `04/10/2023`
 - #### [0.8.1](#081---recommended-new-save) - `05/09/2023`
 - #### [0.8.0](#080---not-save-compatible) - `28/07/2023`
@@ -29,6 +30,17 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.8.1.2 - Save compatible.
+
+This update is flagged as BETA because it should be save compatible 100%, but one of our testers couldn't load his previously save (I am unsure on how modified was that save)
+
+# Fixed and Tweaks
+
+- Fixed Auri house being blocked
+- Updated DynDOLOD to prevent the house from having mismatched LOD (the house that blocked Auri)
+- Added two mods that were requested by staff.
+
 
 ## 0.8.1.1 - New Save Recommended
 
