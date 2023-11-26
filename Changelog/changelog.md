@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.8.2](#082---not-save-compatible) - `26/11/2023`
 - #### [0.8.1.2](#0812---save-compatible-BETA) - `06/10/2023`
 - #### [0.8.1.1](#0811---recommended-new-save) - `04/10/2023`
 - #### [0.8.1](#081---recommended-new-save) - `05/09/2023`
@@ -30,6 +31,711 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.8.2 - Not Save Compatible.
+
+This update fixes some of the issues found in the last version, mostly related to freezes and crashes when doing time-event actions such as fast traveling and sleeping, I fixed some other issues and added other QoL. We also have a new artifact mod, called Artificer, which should improve creating some fresh air within the game and the artifacts, I will be further tweaking late-game scaling to have a more enjoyable gameplay, and combat has been slightly reworked to be more consistent and enjoyable, avoid exploits from NPC side, etc.
+
+# Added
+
+- (FLM) WorldSpaces Patches for Vigilant
+- A Nirnroot - Particle Light Patch
+- A Patch for Skyrim Realistic Conquering All in One and Cathedral Mountain Flowers
+- Abyss - Custom I4 Icons
+- Acoustic Space Improvement Fixes - Lux Patch
+- Adamant - Apocalypse Patch
+- Additional Dremora Faces
+- Additional Dremora Faces - Apocalypse Patch
+- Additional Dremora Faces - DERP Patch
+- Additional Dremora Faces - VIGILANT Patch
+- Additional Dremora faces - My optimized textures
+- Additional Leito's Animations for Ostim Standalone
+- Alternative freckles for TKAA children
+- Ancient Skeletons- Mihail Monsters and Animals (SE-AE version)
+- Animated Armoury - OAR
+- Animated Coffins
+- Animated Poisons 5 - ElSopa - Potions Redone
+- Anub's animations for Ostim Standalone
+- Apachii Divine Elegance Store - CBBE Hotfix
+- Arcane - Custom I4 Icons
+- Arclight - Custom I4 Icons
+- Arion The Deathly Omen (Project Skyrim) Imperial Male Preset
+- Artfiicer - Animated Armoury
+- Artificer - 4th Unknown Ancient Shroud Replacer
+- Artificer - 4th Unknown Ancient Shroud Replacer LOTD
+- Artificer - AI Overhaul
+- Artificer - AOS
+- Artificer - Ahzidal My Way LOTD Version
+- Artificer - An Artifact Overhaul
+- Artificer - Armor of the Old Gods Alt Retexture
+- Artificer - Aves Forbidden Legends
+- Artificer - Bandit War Expanded - AIO
+- Artificer - Bloodskal Tweaks
+- Artificer - CL's Blade of Woe
+- Artificer - CL's Chillrend
+- Artificer - CL's Ebony Blade
+- Artificer - CL's Nettlebane
+- Artificer - CL's Nettlebane and AOS
+- Artificer - Canis Hyseria
+- Artificer - Change In Management
+- Artificer - Deathbrand My Version
+- Artificer - Dragon Priest Staves
+- Artificer - Guard Dialogue Overhaul
+- Artificer - ISC
+- Artificer - Immersive Jewelry - ISC - LOTD Combo Patch
+- Artificer - Immersive Jewelry - ISC Combo Patch
+- Artificer - Immersive Jewelry - LOTD Combo Patch
+- Artificer - Immersive Jewelry Patch Expanded
+- Artificer - Immersive Jewelry SSE
+- Artificer - Immersive Weapons
+- Artificer - LOTD
+- Artificer - LOTD and AOS
+- Artificer - LOTD and Animated Armoury
+- Artificer - LOTD and Trade and Barter
+- Artificer - Lawless
+- Artificer - Praedy's Staves AIO
+- Artificer - Praedy's Staves AIO and USSEP
+- Artificer - Skyrim Unbound Reborn
+- Artificer - Somewhere In Between
+- Artificer - Sons of Skyrim
+- Artificer - TEEN WOLF - Immersive Jewelry Patch
+- Artificer - The Dragon Cult
+- Artificer - The White Phial - My version
+- Artificer - Trade and Barter
+- Artificer - USSEP
+- Artificer - Undeath Classical Lichdom
+- Artificer - Unplayable Faction Armors
+- Artificer - VAE2
+- Artificer - Xavbio Textures - 3BA
+- Artificer - Xavbio Textures - HIMBO
+- Artificer - Xavbio Textures Addon
+- Artificer - Xavbio Textures Addon CBBE Bodyslide
+- Artificer - Xavbios Old Gods Patch
+- Artificer - Zim's Improved Dremora
+- Artificer - Zim's Improved Dremora and LOTD
+- Artificer - Zim's Improved Dremora and Trade and Barter
+- Artificer - Zim's Improved Dremora, LOTD and Trade and Barter
+- Auto Read Notes
+- BA - Load Order Fix
+- BURP Spell Tomes Patches - LO Fix
+- Beauty Marks 2 - Racemenu Overlays
+- Billyy Wall Pack for OStim Standalone
+- Billyy's animations for Ostim
+- Birds and Flocks - Lux and Lux Orbis Patches
+- Blood and Ash - RSV Exclusions
+- Bloodhaven The Ancient Vampire (Char Grinn) Goth Vampire Female Dark Elf Preset
+- BnP - Child Skin
+- BnP - Eye Overhaul - Additional Dremora Faces
+- BnP - Male Skin
+- BnP - RSV Patch by Owlessa
+- BnP CBBE 2k Wetfunction patch
+- BnP Complexion female update
+- BnP Dremora fix for SOS full replacer
+- BnP RSV sk fix
+- BnP female DVA patch
+- BnP female skin
+- BnP female skin (RSV patch)
+- BnP male DVA patch
+- BnP male skin (RSV patch)
+- BnP missing files and fixes for RSV patch
+- Bow Charge Plus and Bow Rapid Combo V3 Dodge Shot Animation Patch
+- Bow Rapid Combo V3 (1.4) Stamina Cost Patch
+- Calcelmo's Ancient Falmer Tablet 4K 2K
+- Capture Warmer (Dynamic Cubemaps)
+- Carasia's Blood Curse - Two mage armors (3BA Cloth Physics)
+- Cathedral - Improved Mountain LOD and Z Fight Patch (WIP)
+- Chocolate Poise
+- Chocolate Poise - Stoppage of Staggerlock
+- Chocolate Poise Plus - Addons and Rebalancing
+- Cinematic Sprint
+- Cleaned Cheesemod for Everyone
+- Complementary Grass Fixes
+- Comprehensive Attack Speed Patch - SKSE
+- Conditional Expressions - Subtle Face Animations
+- Conditional Expressions Extended
+- Crows and Ravens - COTN Patch
+- Crows and Ravens - My optimized textures SE
+- Crows and Ravens- Mihail Monsters and Animals (SE-AE version)
+- DAV - Load Order Fix
+- DBM - Adamant
+- Dark Elf Lantern ENB Light - Animated Glow
+- Dark Elf Lantern ENB Light - Particle Patch for ENB - Patch
+- Daughters of Malacath - RSV Exclusions
+- Demon Slayer Armor Mashup LUX ESL
+- Desecration - Custom I4 Icons
+- Detailed NPCs - Chain and Shackles - Improvements
+- Dibella's Blessing - RSV Exclusions
+- Diseases - I4 icon
+- Diverse Catches - Base Object Swapper - INI update
+- Diverse Farm Fences - Base Object Swapper
+- Dodgeable Concentration Spells And Dragon Shouts
+- Dovahnique's Diverse Deadly Nightshade - (BOS - ENB Lights)
+- Draugr MCO Animation Collection
+- Draugr Warrior Armor
+- Draugr Warrior Himbo
+- Dremora Combat Dialogue Tweak - Dremora Lines Expansion Patch
+- Ducks and Swans 2
+- Dynamic Animal Variants - Cows Bulls and Calves
+- Dynamic Feminine Female Modesty Animations OAR
+- Dynamic Feminine Female Modesty Animations OAR - Nexus Modesty KID
+- Dynamic Killmove - Pike
+- Dynamic Torch Idle Animations
+- ECPLW (ENB Complex Particle Lights Patches HUB)
+- ECPLW -ENB Complex Particle Lights for Windows-
+- ELLE - Abyss 3BA-BHUNP
+- ELLE - Abyss 3BA-BHUNP - Clothing Patch
+- ELLE - Dark Rebel 3BA-BHUNP
+- ELLE - Dominique 3BA-BHUNP
+- ELLE - Hot Style Kimono 3BA
+- ELLE - October Seer 3BA-BHUNP
+- ELLE ABYSS MIPMAP
+- ENB Lights For Effect Shaders
+- EVG Animated Traversal - Ledge Animation Update
+- Edmond's Nights Taverns and Inns - A Cozy Nightime Enhancement Mod
+- ElSopa - Northern Roads Resculpted
+- ElSopa - Potions Redone - My patches SE - ELIF
+- Elden Lantern
+- Elden Lantern - My patches SE
+- Enter College of Winterhold as Dragonborn - Immersive Fix
+- Environs - Hroggar's House - Patch Collection
+- Environs - Kolskeggr - Patch Collection
+- Environs - Riften Warehouse - Lux Patch
+- Environs Hroggars Load Order Fix 0
+- Eris Tavern Animation Lite (Light and Shade - ezPG)
+- Evil Dead Trees - Dying Trees in Evil Places
+- FSMPM - The FSMP MCM
+- FYX - Sparks of Fire reacts to the Wind
+- Fairy Circles of Skyrim
+- Fast Travel Crash Fix
+- Fists of Fury - Skyrim - Lux patch
+- Flames of Coldharbour - Custom I4 Icons
+- Flawn's Vanilla Argonians Redux - CBBE
+- Follower Distance Tweaks - Kaidan (EE)
+- Fort Takeovers Framework
+- G.I.R.T.H. - Gildergreen Is Really Thicc HD
+- GG's High Hrothgar fixed stairs
+- GORE - COTN Dawnstar Patch
+- GORE - Fishing (CC) Patch
+- GORE - Navigator - Navmesh Fixes Patch
+- GORE - USMP Patch
+- Ghostly Helgi
+- Glorious Gradients
+- God of War - a SmoothCam preset
+- Golden Statue of Mara
+- Gore - Saints and Seducers Extended Cut
+- Greatswords Kill Animations
+- HDT-SMP Yaldabaoth Armor Patch
+- HS Player Homes - Breezehome
+- HSPlayerHomes - Breezehome - LUX
+- Hagraven Houses - Animated
+- Haladoon's Eyes
+- Happy Little Trees Add-On - DynDOLOD 3 - Solstheim 3D LOD Fix
+- High Poly Wyrmstooth
+- Horker by Pfuscher
+- House of Horrors Quest Expansion - Patches
+- I4 - SkyUI Weapons Pack
+- ICN Lite
+- IWant Widgets NG
+- Immersive Shortcuts of Skyrim SE AE
+- Immersive Winterhold Jail - Lux Patch
+- Improved Camera Patch Collection - Sacrosanct
+- J3 Fishnet Fashion 3BA
+- JS Embalming Tools SE
+- JS Solitude Sewer Cover SE
+- JS Unique Utopia Standalone SE - Rings
+- Jk's Pawned Prawn - Riften Docks Overhaul Patch
+- Just Ice Improvements
+- Just Knock - Simply Knock DAK Patch
+- Kaidan - Auri Patch
+- Kaidan - Extended Edition
+- Kaidan - High Priority Patches
+- Kaidan - Water
+- Kaidan 2
+- Kaidan 2 - Autumnwatch Lodge and Dwarven Mail CC Patch
+- Kaidan 2 - Extended Edition - Addons
+- Kanjs - Black Book Animated - up to 8k
+- Kanjs - Mythic Dawn Commentaries Animated
+- Kanjs - Oghma Infinium Animated - up to 4k
+- Kanjs - Strongbox
+- Kanjs - The Aetherium Wars Book Animated
+- Kanjs - The Boethiah's Proving Book Animated
+- Kanjs - The Dreamstride Book
+- Karura's Daedric Princes Refined
+- Katana Weapon Keyword Patch
+- Koemia - Custom Voiced Vampire Follower
+- Koemia - Custom Voiced Vampire Follower - Hotfix
+- Koemia - Custom Voiced Vampire Follower - non-AVX2 DLL
+- KreatE
+- Kynareth - My patches SE by Xtudo - 2K textures
+- Kynareth - My patches SE by Xtudo - Exterior SpagC
+- Kynareth - My patches SE by Xtudo - GodsAndWorship
+- LLF Particle Lights instead of Fake Glow
+- LOTD - The Curators Companion - Addons
+- Landscape and Water Fixes - Patch - WiZkiD ENB Windows
+- Lara The Magicka Unleashed (Char Grinn) Female High Elf Preset
+- Lazy Lux Patches
+- League of Assassins - 3BA BodySlides
+- Legacy of the Dragonborn - Load Order Fix
+- Legacy of the Dragonborn - Ryn's Snazzy Last Vigil - Ebony Warrior Overhaul Patch
+- Legacy of the Dragonborn - Safehouse Desk Fix
+- Legacy of the Dragonborn Patches (Official) - VAE2
+- Leito's animations for Ostim Standalone
+- Lena The Bloody Blade (Project Skyrim) Wood Elf Female Preset
+- Lepidoptera Unchained - USMP
+- Let's Make Love - Lux patch
+- Light Dragonbone Armor
+- Lively Farms
+- Lovely Makeup 2 - Racemenu Overlays
+- Lucan The Undefeated (Project Skyrim) Goth Breton Female Preset
+- Lunaris - Custom I4 Icons
+- Lux
+- Lux - Resources
+- Lux - Riften Docks Overhaul
+- Lux - Via
+- Lux - Via Plugin
+- Lux Base ESP
+- Lux Katana patches
+- Lux Load order fix for LOTD
+- Lux Orbis
+- Lux Orbis - COTN Falkreath - GIRTH Patch
+- Lux Orbis - RTDocks
+- Lux Orbis Base
+- Lux Orbis Misc Patches
+- Lux Variants
+- Lux Variants Base Plugin
+- Lux Via - Embers XD
+- Madmen - Simonrin
+- Male head sk seam fix
+- Malignis Animations - Random Idles Talk Barter
+- Memorable Dragons - Resource
+- Meridia's Order
+- Mighty Dragon Spells Shouts Breath - Memorable Dragons Resource
+- MisterB's Skill Uncapper for Roleplayers
+- Moonlight Tales - Drop The Ring
+- Moonlight Tales - Well Escape Fix
+- Moonlight Tales - Werebear Form Bug Fix Patch
+- Moonlight Tales MCM Updated
+- Moonlight Tales SE - Howl and Revert Form Animation Fix
+- Moonlight Tales Special Edition - Werewolf and Werebear Overhaul
+- MouseCam - My Personal Smoothcam Preset
+- NCK30's Animations for Ostim Standalone
+- NR - Unique Border Gates Fixes
+- Natura - Custom I4 Icons
+- Natural Waterfalls - Dawnguard
+- Natural Waterfalls - Dragonborn
+- Necrom - Custom I4 Icons
+- Necromancer's Amulet
+- Necrotic
+- Necrotic - Custom I4 Icons
+- Neila Dibella's Body (Project Skyrim) Redguard Female Preset
+- Nero The Seductress (Project Skyrim) Goth Dark Elf Female Preset
+- Nero The Seductress (Project Skyrim) Goth Dark Elf Female Preset Vampiric Version
+- Nibbles' animations for Ostim
+- Nightshade Mistress Outfit 2k 3BA BHUNP
+- No Popup for Moonlight Tales
+- No more random Heart Consumed message for Growl and Moonlight Tales
+- Nocturnal Moths
+- Northern Roads - Crates - No Rim Lighting
+- Northern Roads Floating Flora Fixes
+- OBody Next Generation ORefit JSON Master List
+- OComfort - OStim Lovers Comfort
+- OCrime for OStim Standalone
+- OInflation
+- OMerchant Dialogue Tags Patch
+- OMerchants - OStim Standalone
+- OProstitution NG for OStim Standalone
+- OSL Aroused - Arousal Reborn - OStim Standalone
+- OTrainers - OStim Standalone
+- Obi's Crimson Outfit 2K 3BA BHUNP SMP
+- Obi's Mizora Bodysuit 2K 3BA
+- Obi's Tattoos 3BA 4K
+- Obi's Warpaints 2K
+- Obi's Wyrm Slayer Armor 2k 3ba
+- Obscure Magic
+- Open Animation Replacer - Detection Plugin
+- Organic Factions Extension - Patch Collection
+- Ostim Standalone Male Sound Pack Ehehe edition
+- Ostim Standalone Sound Pack
+- PASH - Piercings Auto Hide and Show
+- Pantyhose Stockings Tights - RaceMenu Overlay Textures - CBBE 3BA 3BBB - 4K 2K
+- Particle Lights for ENB - Shellbug
+- Pfuscher UV fixes
+- Plus Combat - A Modern Combat Overhaul
+- Press E to Heal Followers
+- Press E to Heal Followers - NPC Stuck in Bleedout Fix
+- Press E to Heal Gore
+- Producers of Skyrim
+- RSV - Additional Dremora Faces Patch
+- RSV SPID Patches for Consistency
+- RTDocks - Patches
+- Real Clouds SE
+- Realistic Natural Skin Tones
+- Realistic Natural Skin Tones - Aetherius
+- Remove bright eyes from skeletons and draugr
+- Requiem of The Brotherhood - Journeys Chapter 1
+- Rich Skyrim Merchants
+- Riding Animation Overhaul - RAO (OAR - DAR)
+- Riften Docks Overhaul
+- Riften Docks Overhaul - Song of the Green
+- Riften Docks Overhaul - Static Mesh Improvement Mod - SMIM
+- Riften Temple Sconce Fix - Base Object Swapper or Sconce Nif Replacement
+- Rise in the East CTD fix
+- Rock Traps Trigger Fixes
+- Rudy - More dramatic Red Mountain Plume
+- Ryan Reos Battle Bunny Akali - CBBE 3BA
+- Ryn's Snazzy Last Vigil - An Ebony Warrior Overhaul - Lux
+- Ryn's Snazzy Last Vigil - An Ebony Warrior Overhaul - Warrior Overhaul
+- SD's Farmhouse Fences SE
+- SRC - AIO - Landscape and Water Fixes Patch
+- SRC - AIO - Lux Patch
+- SRC - Exclude from Radiant System
+- SRC - Landscape Fixes for Grass Mods Patch
+- SSE Enhanced AI Framework
+- SSE Organic Factions
+- SSE Organic Factions Extension
+- Sacrosanct - Custom I4 Icons
+- Sacrosanct - No Sneak Feed On Followers
+- Sacrosanct - Vampires of Skyrim
+- Sacrosanct and Sacrilege - Remove Auspex Sound
+- Sacrosanct and Sacrilege - Skeleton Replacer HD Patch
+- Sanguinum - Vampire Magic SFX (ALPHA)
+- Scared of Shootings - NPCs react to aiming bows
+- Script Optimization and Fixes Compilation
+- Scuttlers- Mihail Monsters and Animals (SE-AE version) (''eso'')
+- SeranaCureQuestPlus
+- Silent Horizons 2 - Universal Core
+- Simple Fishing Overhaul - Animations and Improved Quest Dialogue
+- Simple Fishing Overhaul - FLM Addon
+- Simple Npc Dodge
+- Simply Knock SE
+- Simply Knock SKSE64 DLL
+- Skeletal Revenants- Mihail Monsters and Animals (SE-AE version) (''undead'')
+- Skyland Bits and Bobs - A Clutter Overhaul
+- Skyland Blacksmith Texture Overhaul
+- Skyland Chests
+- Skyland Windows - A Pane in the Glass
+- Skyrim Motion Controk - My settings
+- Skyrim Objects SMIMed - Warmaiden's Holes
+- Skyrim Organized Sorting - A sorting mod
+- Skyrim Organized Sorting - Apothecary
+- Skyrim Realistic Conquering - All In One
+- Skyrim Realistic Conquering - All In One - Addons
+- Skyrim Realistic Conquering - All In One - Lux Via and Northern Roads Patch
+- Skyrim Skill Uncapper for SE and AE
+- Smoother Paralyze Gradient Texture
+- Snazzy Interiors - Vittoria Vici's House
+- Solitude HD by CleverCharff 4K 2K
+- Song of the Green (Auri Follower) - Enhanced Voice - Kaidan Patch Commentary ESL Patch
+- Song of the Green (Auri Follower) - Enhanced Voice - VIGILANT Commentary ESL Patch
+- Song of the Green Auri Follower VIGILANT Commentary Patch ESLified
+- Song of the Green Auri fancy pod
+- Song of the Green Auri's fancy pod - Lux patch
+- Sons of Nirn - RSV Exclusions
+- Sons of Skyrim - Lux Orbis Patch
+- Sons of Skyrim - More Patches
+- Spell Tomes - I4 icons
+- Spells - Adamant Patch
+- Stalking Lanterns Fix - LotD Lux Orbis
+- Stat Buffs Work On NPCs (NG-Plugin)
+- Statue of Kynareth
+- Statue of Mara
+- Stellaris - Custom I4 Icons
+- Stonefire Set - My optimized textures SE
+- Stonefire Set- Mihail Armors and Clothes (SE-AE version) (''daedric'')
+- Tales of Skyrim - Berserkyr
+- Talkative Hagravens - 2023 Halloween Special (SE-AE version)
+- Tel Mithryn Overhaul - High Poly and Improved Meshes - Parallax Meshes - Lux Orbis Patch
+- Tel Mithryn Overhaul - High Poly and Improved Meshes - Parallax Meshes - Lux Patch
+- Thaumaturgy - USSEP Patch
+- The Chain of Time
+- The White Phial - My version SE by Xtudo - ENB
+- Ultimate Animated Potions NG
+- Ultimate Animated Potions NG - ElSopa - Potions Redone patch
+- Unaggressive Dragon Priests Fix
+- Unique Border Gates Fixes
+- Unique Border Gates Fixes - LOTD
+- Unique Border Gates Fixes - SMIM
+- Unmarked Locations Pack - G I R T H Patch
+- Unmarked Locations Pack - Lux Via Patch
+- Unmarked Locations Pack - Praedy's Soul Cairn - Soul Husks Patch
+- Unmarked Locations Pack - Soul Cairn
+- Unmarked Locations Pack - Soul Cairn - Custom Ruins patch
+- Unofficial Lux Patchhub
+- Unofficial Skyrim Modder's Patch - USMP SE - Hotfix
+- Unrestricted MM Animations - Combo Patch
+- Unrestricted MM Animations - OStim Standalone
+- VIGILANT - NPCs Refined
+- Valyria The Scarlet Priest (Project Skyrim) Goth High Elf Preset
+- Vampire Clothing Expansion - SPID
+- Vampire Robes Better Cleavage 3BA
+- Vanargand Animations II - Unarmed Non Combat Locomotion
+- Various Dialogue Tags
+- Various Dialogue Tags - Immersive Wenches OStim Load Order Fix
+- Visual Animated Enchants 2-023 AKA VAE2
+- Vivid Landscapes - Complex Parallax Occlusion Snow
+- Vulcano - Custom I4 Icons
+- Weapon Armor Attribute Tweaks
+- Whiterun City Stone Walls - Parallax 1k 2k 4k
+- Whiterun Objects SMIMed (and fixes too)
+- Whiterun Objects SMIMed - Dragonsreach Stairs - and some other stairs too
+- Windhelm Bridge Stairs
+- Witchy - Spooky Accessories
+- XPMSSE - Extra Animations
+- XPMSSE - Extra Animations - Dual Wield Fix
+- Yaldabaoth Armor
+- Yaldabaoth Armor - Textures
+- [COCO] Lace Lingerie Pack
+- [COCO] Lolita
+- [COCO] Twilight Sorceress
+- [COCO] Witchiness
+- aljos Apothecary Patches
+- slightly Better Honey in a Jar
+- slightly Better Large Antlers
+
+
+# Removed
+
+- A Nirnroot - Particle Light Patch
+- Acoustic Space Improvement Fixes - Lux Patch
+- Additional Dremora faces
+- Aela Replacer and Kara follower by DD CBBE UNP (ESL)
+- Animated Armoury - Reliquary of Myth Patch
+- Anubs Animation Ostim Standalone port
+- Apothecary-ReliquaryOfMyth
+- Attacks of Opportunity - Situational Combat Advantage
+- Auriel's Weaponry
+- Ave's AIO
+- Ave's Amulet of Arkay
+- Ave's Ancient Earrings
+- Ave's Ancient Jewelry
+- Ave's Bond of Matrimony
+- Ave's Calcelmo's Ring
+- Ave's Circlet of Waterbreathing
+- Ave's College Jewelry Replacer
+- Ave's College Staff of Magelight
+- Ave's Diadem of the Savant
+- Ave's Enchanted Ring
+- Ave's Eye of Sithis
+- Ave's Interesting NPCs Jewelry Replacer
+- Ave's Locket of Saint Jiub
+- Ave's Moon Amulet
+- Ave's Moon-and-Star
+- Ave's Moon-and-Star Jewelry Set
+- Ave's Muiri's Ring
+- Ave's Necklaces
+- Ave's Ring of Bloodlust
+- Ave's Ring of Instinct
+- Ave's Ring of Pure Mixtures
+- Ave's Ring of the Hunt
+- Ave's Ring of the Moon
+- Ave's Saarthal Amulet
+- Ave's Silverblood Family Ring
+- Ave's Skyring
+- Ave's Viola's Gold Ring Replacer
+- Ave's Vittoria's and Asgeir's Wedding Band Replacer
+- Ave's medieval armored Circlets
+- Birds and Flocks - Lux and Lux Orbis Patches
+- Bits and pieces male skin RBT
+- Blackreach Railroad - Dwemer Pipework Reworked Patch
+- Bloodskal Blade - Tweaks and Enhancements - Reliquary of Myth Patch
+- BnP female RSV patch
+- BnP female skin (RBTRSV version)
+- Cathedral - Improved Mountain LOD and Z Fight Patch (WIP)
+- Complementary Grass Fixes
+- Conditional Stamina Costs - SPID
+- Conditional Stamina Costs - SPID - Settings Loader
+- Crafting Menus Decluttered
+- Crows - Optimized Textures
+- Crows- Mihail Monsters and Animals (SE-AE version) (''raven'')
+- DMCO - Settings Loader
+- Dark Elf Lantern ENB Light - Animated Glow
+- Dark Elf Lantern ENB Light - Particle Patch for ENB - Patch
+- Deadlands Xivilais- Mihail Monsters and Animals (SE-AE version)
+- Demon Slayer Armor Mashup LUX ESL
+- Diseases - I4 icon
+- Diverse Firewood - Base Object Swapper
+- Diverse Firewood - Base Object Swapper - Dynamic Things Alternative Patch
+- Dovahnique's Diverse Deadly Nightshade - (BOS - ENB Lights)
+- Dragon.Priest.by.Kajuan
+- Dwemer Pipework Reworked
+- ECPLW (ENB Complex Particle Lights Patches HUB)
+- ECPLW -ENB Complex Particle Lights for Windows-
+- ENB Lights For Effect Shaders
+- Eating Animations and Sounds - Sunhelm Patch
+- ElSopa - Northern Roads Resculpted
+- ElSopa - Potions Redone - My patches SE - ELIF
+- ElSopa Potions Redone - Zxlices Ultimate potion animation patch
+- Environs - Hroggar's House - Patch Collection
+- Environs - Kolskeggr - Patch Collection
+- Environs - Riften Warehouse - Lux Patch
+- Environs Hroggars Load Order Fix 0
+- Evil Dead Trees - Dying Trees in Evil Places
+- Female Hands Redone
+- Fists of Fury - Skyrim - Lux patch
+- Fists of Fury - Skyrim - Northern Roads Patch
+- G.I.R.T.H. - Gildergreen Is Really Thicc HD
+- GG's High Hrothgar fixed stairs
+- GORE - USSEP Patch
+- Glorious Gradients
+- Go To Bed - DAR Sleeping Expanded - PLAYER NPCs
+- Go To Bed - DAR patch
+- Go to bed
+- Go to bed - Patches
+- Go to bed - Settings Loader
+- Goam's Elven Ears - BnP Skin
+- Golden Statue of Mara
+- Gravitas SCAR Combat
+- Gravitas SCAR Combat - AA Patch
+- Gravitas SCAR Combat - MCO
+- Gravitas SCAR Combat - Staggerlock
+- HS Player Homes - Breezehome
+- HSPlayerHomes - Breezehome - LUX
+- Horker by Pfuscher
+- I4 - SkyUI Weapons Pack
+- Immersive Diseases - Sunhelm Patch
+- Immersive Winterhold Jail - Lux Patch
+- Impactful Blocking
+- Improved Camera Patch Collection
+- Imps and Homonculus - My optimized textures SE
+- Imps and Homonculus- Mihail Monsters and Animals (SE-AE version)
+- Items Stolen Bug Fix
+- Jk's Pawned Prawn - Riften Docks Overhaul Patch
+- KabusGourds - Sunhelm Patch
+- Kaidan - Auri Patch
+- Kaidan - Extended Edition
+- Kaidan - High Priority Patches
+- Kaidan - Water
+- Kaidan 2
+- Kaidan 2 - Autumnwatch Lodge and Dwarven Mail CC Patch
+- Kaidan 2 - Extended Edition - Addons
+- Kanjs - Lunar Guard and Haldberd Fix
+- KreatE
+- Kynareth - My patches SE by Xtudo - 2K textures
+- Kynareth - My patches SE by Xtudo - Exterior SpagC
+- Kynareth - My patches SE by Xtudo - GodsAndWorship
+- LLF Particle Lights instead of Fake Glow
+- Landscape and Water Fixes - Patch - WiZkiD ENB Windows
+- Lawbringer
+- Lawbringer - Base
+- Lawbringer - Register and Claiming Fix
+- Lawbringer - Stendarr Rising
+- Lazy Lux Patches
+- League of Assassins 3BA Bodyslides
+- Lux
+- Lux - Resources
+- Lux - Riften Docks Overhaul
+- Lux - Via
+- Lux - Via Plugin
+- Lux Base ESP
+- Lux Load order fix for LOTD
+- Lux Orbis
+- Lux Orbis - RTDocks
+- Lux Orbis - Unique Border Gates
+- Lux Orbis Base
+- Lux Orbis Misc Patches
+- Lux Variants
+- Lux Variants Base Plugin
+- Lux Via - Embers XD
+- MisterB's Skill Uncapper for Roleplayers
+- Mists of Tamriel - Skies Above
+- Modern Stagger Lock
+- Modpocalypse NPCs - Wyrmstooth
+- Molag's Will - A Vampire Custom Tree
+- No Startup Quest XP - Patch for Sunhelm and more
+- Nocturnal Moths
+- Northern Roads - Unique Border Gates
+- Northern Vision - A Smoothcam Preset
+- OApproach - OStim NG addon
+- OBody NG - Cleavage Configurations
+- OComfort - OStim Lovers Comfort
+- OProstitution
+- OSA
+- OStim Standalone - Extended Futanari Animation Support
+- OTrainers - OStim trainers with benefits
+- Obscure College of Winterhold and Sunhelm - Water Source Patch
+- Obsidian Mountain Fogs
+- POISE - Stagger Overhaul SKSE
+- POISE Custom Race Compatibility
+- Particle Lights for ENB - Shellbug
+- Pfuscher UV fixes
+- Piki_SithLord's Power (x2 artifact power very few select are not)
+- Poise Staggerlock Prevention
+- Poisebreaker - A Poise Mod Addon
+- RLE for merge
+- RLE for merge 2
+- RLE for merge 3
+- ROM - VAE2 Patch
+- RSV Exclusion Patches
+- RSV male patch
+- RTDocks - Patches
+- Raven's Gaze - AC-Valhalla inspired smoothcam preset
+- Ravens- Mihail Monsters and Animals (SE-AE version) (''crow'')
+- Real Clouds SE
+- Reliquary of Myth - Artifacts of Skyrim
+- Remove bright eyes from skeletons and draugr
+- Riften Docks Overhaul
+- Riften Docks Overhaul - Song of the Green
+- Riften Docks Overhaul - Static Mesh Improvement Mod - SMIM
+- Riften Temple Sconce Fix - Base Object Swapper or Sconce Nif Replacement
+- Rock Traps Trigger Fixes
+- Rogue Like Encounters SSE
+- Rogue-Like Encounters SSE - Savage North Overhaul
+- Rom Patches
+- Rudy - More dramatic Red Mountain Plume
+- Ryn's Snazzy Last Vigil - An Ebony Warrior Overhaul - Lux
+- Scion - A Vampire Overhaul
+- Scion - Block Poison
+- Skeletal Vampires- Mihail Monsters and Animals (SE-AE version)
+- Skies Above - Saints and Seducers Extended Cut
+- Skies Above Weathers and ENB
+- Skyland Bits and Bobs - A Clutter Overhaul
+- Skyrim Motion Controk - My settings
+- Skyrim Objects SMIMed - Warmaiden's Holes
+- Skyrim Reputation - Scion A Vampire Overhaul Patch
+- Skyrim Skill Uncapper(fixed)
+- SkyrimGuild Creatures - Preview
+- Small Nordic Tent Replacer
+- Solitude HD by CleverCharff 4K 2K
+- Somebody Else's Problem - Ignore the Forsworn Conspiracy
+- Song of the Green Auri fancy pod
+- Song of the Green Auri's fancy pod - Lux patch
+- Spell Tomes - I4 icons
+- Sswaye's OAhegaoNG
+- Stalking Lanterns Fix - LotD Lux Orbis
+- Statue of Kynareth
+- Statue of Mara
+- Subdivide and Smooth - Unique Trees
+- SunHelm Survival
+- SunHelm Survival - Compatibility Patches
+- SunHelm Survival and needs - Settings Loader
+- Sunhelm Addons
+- Sunhelm Potions Patch
+- The Dragon Cult - Priesthood
+- The Dragon Cult - Priesthood for CSF v1 (Skyrim 1.5.97)
+- The White Phial - My version SE by Xtudo - ENB
+- The White Phial - My version SE by Xtudo - Reliquary of Myth patch
+- Unique Border Gates Fixes
+- Unique Border Gates SE
+- Unmarked Locations Pack - Lux Via Patch
+- Unofficial Lux Patchhub
+- VIGILANT - NPC Overhaul
+- VIGILANT - Unplayable Faction Armors and NPC Overhaul PATCH
+- Visual Animated Enchants 2-023 AKA VAE2
+- Weapon Armor Attribute Tweaks
+- White Phial - Tweaks and Enhancements
+- Whiterun Objects SMIMed (and fixes too)
+- Whiterun Objects SMIMed - Dragonsreach Stairs - and some other stairs too
+- Windhelm Bridge Stairs
+- Wyrm Tamer - Lawbringer for Wyrmstooth
+- Zxlice's Ultimate Potion Animation - Alternative slowdown effect Patch
+- [RMB SPIDified] Recipes
+- aljos Apothecary Patches
+- attackorealisticaiedit
+- northern Roads - Unique Border Gates - LO fix
+- opleaseletmego ng
+- zxlice's ultimate potion animation - ZUPA
+
+
 
 ## 0.8.1.2 - Save compatible.
 
