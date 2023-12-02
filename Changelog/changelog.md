@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.8.2BETA5](#082---save-compatible) - `02/12/2023`
 - #### [0.8.2](#082---not-save-compatible) - `26/11/2023`
 - #### [0.8.1.2](#0812---save-compatible-BETA) - `06/10/2023`
 - #### [0.8.1.1](#0811---recommended-new-save) - `04/10/2023`
@@ -31,6 +32,18 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.8.2 BETA 5 - Save Compatible.
+
+- Attempt fix on blue faces and ears.
+- Fixed crash with poison spells.
+- Fixed crash with dragons.
+- Fixed random freeze and crash with UI spinlock widgets.
+- Fixed floating lanterns.
+- Removed two mods that weren't supposed to be there.
+- Updated move sets to avoid T-POSE and combat issues.
+- Fixed some random shit.
+
 
 ## 0.8.2 - Not Save Compatible.
 
