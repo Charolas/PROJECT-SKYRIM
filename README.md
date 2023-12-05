@@ -159,7 +159,7 @@ Make sure you have performed all steps listed under Pre-Installation before cont
 3. Copy the Wabbajack files (https://github.com/wabbajack-tools/wabbajack/releases) to your folder "Wabbajack", it should include Wabbajack.exe and wabbajack-cli.bat
 
 4. Open Wabbajack.exe in your "Wabbajack" folder. 
-   - a) Click the cog/settings button at the top right, and login to your three accounts on Lovers Lab, Nexus Mods, and Vector Plexus. Do NOT skip this mini-step.
+   - a) Click the cog/settings button at the top right, and login to your accounts on Nexus Mods and Vector Plexus. Do NOT skip this mini-step.
 
    - b) Click "Install From Disk" and go to your "Wabbajack" folder, select the "Project Skyrim.wabbajack" file.
 
