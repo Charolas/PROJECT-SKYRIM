@@ -242,7 +242,7 @@ Follow these instructions whenever you start a new playthrough:
    
    Open MCM / mod Configuration again, scroll down to Shadows of Skyrim (Optional), click it. Then click on general, and then on enable. Confirm the pop up to close and wait.
 
-
+**#For more guides in game, like Keybinds and Controller Support, check out on Discord https://discord.com/channels/869058032506667018/1136301387693695038**
 
 # For content and the "about" section of PROJECT Skyrim" Please refer to the Nexus page. https://www.nexusmods.com/skyrimspecialedition/mods/76466
 
