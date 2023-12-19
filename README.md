@@ -69,8 +69,8 @@ With the performance mode options being available, exact minimum requirements is
 | Ryzen 5 5600x      | RTX 3070 TI | 16GB RAM DDR4 | 60 FPS |
 
 **You also need**
-- 340GB for Install 
-- 190GB for Download
+- ~350GB for Install 
+- ~250GB for Download
 
 **Notes**
 - There is very low difference between High and Medium in terms of visuals, but you can get more FPS. 
@@ -115,19 +115,39 @@ Please ensure you have .NET v5.0 installed (**EVEN IF YOU HAVE .NET 6.0 INSTALLE
 <a href="https://dotnet.microsoft.com/download/dotnet/5.0/runtime"><img alt="Microsoft" src="https://user-images.githubusercontent.com/27007797/198383090-15ce8391-fbc0-49a9-acb8-94b36ce3a811.png" width="555" height="294"></a>
 
 ### Websites & Programs
-- [Loverslab Account](https://www.loverslab.com/)
 - [Vector plexus Account](https://vectorplexis.com/)
 - [Nexus Account (Premium recommended)](https://www.nexusmods.com/)
 - [Wabbajack](https://www.wabbajack.org/)
-- [Skyrim Special Edition (Steam)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) **Wabbajack will downgrade for you automatically (SE/AE)**
+- [Skyrim Special Edition (Steam)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)
+- [Skyrim Special Edition: Creation Kit (Steam)](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
+- [Loverslab Account](https://www.loverslab.com/) You nolonger need to login Loverslab in Wabbajack before the installation, Wabbajack will ask you to when needed during installation.
 
-### <sub>**Loverslab requires a VPN for some users, some countries cannot access Loverslab (Japan, Thailand etc.)**</sub>
 
 ### Clean Skyrim
 Start with a fresh install of [Skyrim Special Edition or Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition). You should also clean up the Skyrim Special Edition folder in Documents/My Games/ by deleting its contents. Installing on an SSD is recommended but an HDD will work as well.
 
 ### Start Skyrim
 Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
+
+PS. Skyrim received an update in 5-12-2023, so the latest verion is 1.6.1130 now. Current version of Prokectject(0.8.2) only applied to those have 1.6.640 version(disable Auto-update).
+You will need to downgrade the game to 1.6.640 and SE Creation Kit to 1.6.438 for the installation.
+
+How to Downgrade:
+
+SSE Creation Kit 1.6.438:
+download_depot 1946180 1946182 5099162879680505807
+download_depot 1946180 1946183 1633303557398589581
+
+Skyrim SSE 1.6.640:
+download_depot 489830 489831 3660787314279169352
+download_depot 489830 489832 2756691988703496654
+download_depot 489830 489833 5291801952219815735
+
+1.Open a command window "Run" by pressing «Win + R» and then enter the command: steam://open/console, and then press Enter. This will open the console tab in Steam.
+
+2.The bottom will have a space for you to enter the above codes. Copy the code as written, one line at a time. It will download the files to your "steam/common/content" folder, wherever the Steam manager was installed to (eg. C:\Steam\steamapps\common\content). If you cannot find it, just search for the steam folder: "depot_1946180" and "depot_489830" after the downloads have completed.
+
+3.Replace your "steamapps/commom/Skyrim Special Edition" files (or wherever your Creation Kit/Skyrim files are) with the ones in "depot_1946180" and "Skyrim Special Edition" files with the files in "depot_489830".
 
 
 ### Steam Library
@@ -159,7 +179,7 @@ Make sure you have performed all steps listed under Pre-Installation before cont
 3. Copy the Wabbajack files (https://github.com/wabbajack-tools/wabbajack/releases) to your folder "Wabbajack", it should include Wabbajack.exe and wabbajack-cli.bat
 
 4. Open Wabbajack.exe in your "Wabbajack" folder. 
-   - a) Click the cog/settings button at the top right, and login to your three accounts on Lovers Lab, Nexus Mods, and Vector Plexus. Do NOT skip this mini-step.
+   - a) Click the cog/settings button at the top right, and login to your accounts on Nexus Mods and Vector Plexus. Do NOT skip this mini-step.
 
    - b) Click "Install From Disk" and go to your "Wabbajack" folder, select the "Project Skyrim.wabbajack" file.
 
@@ -180,24 +200,15 @@ Make sure you have performed all steps listed under Pre-Installation before cont
 Wabbajack will let you know which mods have issues in the log at the bottom left.
 
    Our community has compiled a list of certain mods that give our users trouble and have them within the links below.
-
-   Attempt the first link and if there are still any fails or missing files, try using files in the second.
-
-   For ENB series fails, you may need the version in the third link.
-
-   https://mega.nz/folder/GJlikaaK#32hVjzlHyaQWk7xYnjb7Rg
- 
-   https://mega.nz/folder/TbRRhSYQ#qQLHnpMEY8goog3Rgrd6aw
-
-   https://cdn.discordapp.com/attachments/1006677323338231889/1042584876198678549/enbseries_skyrimse_v0477_d26249d19428145edbc69fa85ad77970ffc12a725f923e37b8a9d71774ca5703_.zip
+   Join the Discord and check https://discord.com/channels/869058032506667018/1022340915236446218 for the links
 
    Simply download any that you had an issue with and move them to the Wabbajack download directory and re-attempt installation.
 
    If you are still having issues, feel free to hit up our support channel in the discord server.
 
-7. Once you have finished installing the modlist without errors, you can open your "Project Skyrim" folder, and create a shortcut for Mod Organizer.
+8. Once you have finished installing the modlist without errors, you can open your "Project Skyrim" folder, and create a shortcut for Mod Organizer.
 
-8. You are now on the final steps!
+9. You are now on the final steps!
 
    Open your folders like so, "Project Skyrim" -> "profiles" -> "Default" 
    The directory address should look like in the image below:
@@ -231,7 +242,7 @@ Follow these instructions whenever you start a new playthrough:
    
    Open MCM / mod Configuration again, scroll down to Shadows of Skyrim (Optional), click it. Then click on general, and then on enable. Confirm the pop up to close and wait.
 
-
+**#For more guides in game, like Keybinds and Controller Support, check out on Discord https://discord.com/channels/869058032506667018/1136301387693695038**
 
 # For content and the "about" section of PROJECT Skyrim" Please refer to the Nexus page. https://www.nexusmods.com/skyrimspecialedition/mods/76466
 
