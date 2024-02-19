@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.8.3](#083---not-save-compatible) - `19/02/2024`
 - #### [0.8.2BETA5](#082---save-compatible) - `02/12/2023`
 - #### [0.8.2](#082---not-save-compatible) - `26/11/2023`
 - #### [0.8.1.2](#0812---save-compatible-BETA) - `06/10/2023`
@@ -32,6 +33,730 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.8.3 - Not Save Compatible
+
+- Eslification of various plugins to increase the limit of customization for user.
+- Fixed various issues found during testing phase and before.
+- Increased optimization of VRAM to avoid crashes and freezes on users with less than 6VRAM or 16RAM.
+- Not all mods are updated, I had IRL problems that made me go away from nexus for a while, sorry. Slowly I will update them all and check all the new mods that launched during my absence.
+
+# Added
+
+- (SMP) Corsair Reckoner - 4K 2K 1K ESPFE
+- (Unofficial) Visual Animated Enchants(VAE 1 and 2) best of both Ultimate Patch - SkyPatched
+- 3BA 3BBB CBPC Realistic Firm Breasts Butt Belly and Thighs (3BA RFBBBT)
+- 3BA Vanilla Clothes and Armor
+- 4thUnknown_-_Ancient_Shrouded_Armor_Replacer_-_Fix
+- ADXP_I_MCO_ER_Katana_SCAR_For_PS
+- About Roggvir - Modpocalypse patch
+- Additional Dremora Faces - VNR Patch
+- Adventurer Armor - My Version SE by Xtudo
+- Adventurer Armor - SE by Xtudo - 3BA patch
+- Adventurer Armor - SE by Xtudo - HIMBO patch
+- Age of Beasts - SkyPatcher
+- Ancient Atmoran Remains - My optimized textures SE
+- Ancient Atmoran Remains- Mihail's Shards of Immersion (SE-AE version)
+- Ancient Imperial Septims
+- Animals Report No Crime - SkyPatcher
+- Apachii Divine Elegance 3BA Bodyslides
+- Apachii_DivineElegance_Iris_Dress_Textures_Fix_v_2
+- Aroused KID Patch - COCO Caress of Venus
+- Aroused KID Patch - COCO Goddess of War
+- Aroused KID Patch - COCO Scarlet Rose
+- Aroused KID Patch - Dovakini Armor
+- Aroused KID Patch - Sovngarde Steel Armor
+- Aroused KID Patch - The Amazing World of Bikini Armors REMASTERED
+- Artifact of Might
+- Artifact of Might ( ESL )
+- Artificer - MoonChild
+- Artificer - Praedy's Staves AIO (Official)
+- Astrid - Chooey's Choice
+- Atronach Forge Fix
+- Axarien's Animations - Auri
+- Ayasato Animations for Ostim Standalone
+- Ayleid Piercings - CBBE 3BA - SoS - Slot 60
+- BG3 Minthara HPH Racemenu Preset for DarkElf
+- BNP-TRX Futa addon patch
+- BWB - Lux
+- Backpack Repositioner
+- Backported Extended ESL Support
+- BakaFactory's Animations for Ostim Standalone
+- BakaFactory's Animations for Ostim Standalone - Config Fix
+- Bandit Hounds Overhaul - Patch for Water for ENB
+- Bashed Patch 0 Output
+- Bashed Patch 1 Output
+- Battle worn creatures
+- Battlestaves
+- Beautiful Artistic and Lorefriendly Loading Screens - Chapter 1 - Dawn and Gods
+- Better Argonian Horns
+- Better Argonian Horns for High Poly Heads
+- Better Skyrim Parties
+- Better Skyrim Parties - Author Patches
+- Better Two-Handed Axe Position - IED-OAR
+- Beyond Reach CBBE 3BA and HIMBO Patch
+- Billyy MFF Pack for OStim Standalone
+- Blended Shorelines - No more jagged water edges
+- Blind People Animations in the Dark
+- Blood and Ash - Ash
+- Blood and Ash - Blood
+- Blood and Ash - RSV Exclusions
+- BnP - Female Skin - RSV
+- BnP - Female Skin - RSV Patch
+- BnP - Male Skin - RSV
+- BnP - RSV patch hotfix
+- BnP - Teeth Overhaul - RSV Patch
+- BnP No frostnip leg fix (CBBE only)
+- BnP Sk fix
+- BnP male extra specular for SOS full and RBT
+- Bone Colossi and Gravelords - My optimized textures SE by Xtudo
+- Breton NPCs Have Elven Ears - BnP RSV Patch
+- Bright Waterfall Fix for ENB
+- Buxom Wench RSV Exclusion Patch
+- Buxom Wench Yuriana
+- CBBE 3BA
+- CBBE 3BA Vanilla Outfits Redone
+- CBBE Vanilla Female Gloves Fixed
+- CBPC Equipment physics - Real Tight config
+- CID-Various Mod Patches
+- CL's Lord Harkons Blade Replacer
+- COCO Ahri Uniforms
+- COTN Falkreath - Gate Texture Tweak
+- CS' Campfire Item Descriptions
+- Caenarvon Aroused Patches
+- Campfire Inventory Injector (I4) Icons
+- Cannibalism Expanded - Eating Animations and Sounds SE - PATCH
+- Cathedral - 3D Tundra Shrubs
+- Chest HD (broken snowy chests fix)
+- Chest HD - Model Replacer
+- Chest Variants - Base Object Swapper
+- Chicks - My textures SE by Xtudo - Fluffy patch 1K
+- Children of the Hist - An Argonian NPC Overhaul
+- Children of the Hist - An Argonian NPC Overhaul - CBBE
+- Children of the Hist - An Argonian NPC Overhaul - Fishing
+- Children of the Hist - An Argonian NPC Overhaul - HIMBO
+- Children of the Hist - An Argonian NPC Overhaul - SOS
+- Children of the Hist - An Argonian NPC Overhaul - USSEP
+- Chooey's Choice Requirements
+- Cities of the North - Falkreath - Water for ENB
+- Clanbringer
+- Clean KillCam
+- Conditional Dog Barking (OAR)
+- CotH - IW - Patch
+- Crone - Hagraven SFX Replacer
+- DD - FVO Cloth CBBE 3ba
+- DD Emerald Cloth 3BA - CBBE
+- DDP - Talkative Dragon Priests ESL Version Patch
+- Dangerous Gladiator 3BA SMP Conversion
+- Dark Hierophant Magic
+- Darkend - Enemy Rebalance
+- Darkend - Item Descriptions
+- Daughters of Malacath - RSV Exclusions
+- Daymarr Aroused Patches 1
+- Description Framework
+- Description Framework for Camfpire
+- Description Framework for Headhunter
+- Descriptions for Various Mods
+- Dibella's Blessing - RSV Exclusions
+- Dibella's mommy CBBE 3BA bodyslide preset
+- Dirt and Blood - Merchants Sell Soap
+- Dirt and Blood Inventory Injector (I4) Icons
+- Disable Vanilla Screenshot
+- Diverse Campfires - Base Object Swapper
+- Diverse Campfires - FLM patch
+- Diverse Dog Textures - SPID
+- Diverse Dog Textures - SPID - Hotfix
+- Diverse Dragon Priests - Fathom's Creature Series
+- Diverse Dragon Priests - My optimized textures SE
+- Divines Prayer Animations
+- Dogma's Animations for Ostim Standalone
+- Dominion Body (3BA preset)
+- Draugr Weaponry REPLACER Fishing CCFIX ENGLISH
+- Dummy Animation SCAR - OAR
+- Dwarven Devious Device Cuirass BHUNP CBBE3BA
+- Dynamic Enhance Enemy Attributes - Config
+- Dynamic Enhance Enemy Attributes - Vigilant Patch
+- Dynamic Feminine Female Modesty Animations OAR
+- Dynamic Feminine Female Modesty Animations OAR - Nexus Modesty KID
+- Dynamic Sprint
+- Dynamic Sprint Stop
+- EGIL Aroused Patches
+- ELLE - Dangerous Gladiator 3BA-BHUNPV4
+- ELLE - Xmas Special 3BA-BHUNP
+- ELLE Aroused Patches
+- ENB Light Detection Fix
+- EVGAT - Dynamic Climb-able Ladder Doors
+- Eastern Brassplate Set
+- Eating Animations - Sweets and Such or Xelzaz
+- Ebonscale CBBE 3BA
+- Ebonscale CBBE 3BA - Heavy Armor Patch
+- ElSopa - Animated Celtic Icons For SkyUI SE
+- ElSopa - Animated Colored SkyUI Widgets SE
+- ElSopa - Potions Redone - My patches SE by Xtudo - Update
+- ElSopa - Safe And Strongbox Redone
+- ElSopa Quivers Redone - More lights for ENB patch
+- Eld-beri II - The first full particle light lantern mod (including first person view)
+- Elden Sprint
+- Elder Creed - Valhalla Axe Moveset AIO For PS
+- Ellxe Tavern Maid
+- Ellxe Wicked Corruption
+- Elmlock Armor - Color Variants
+- Elmlock Armor - Color Variants 2K
+- Elmlock Armor and Blade (CBBE - HIMBO)
+- Elmlock Armor and Blade (CBBE - HIMBO) - ESP Update
+- Elven Enforcer Armor
+- Elven Enforcer Armor - 3BA
+- Elven Enforcer Armor - Dark Color Recolor
+- Essiental BlackSnith Vendors - SkyPatcher
+- Expressive Facegen Morphs SE
+- Expressive Facial Animation -Female Edition-
+- Expressive Facial Animation -Male Edition-
+- Extended Guard Dialogue
+- FB - Witch Slayer Armor 3BA-BHUNP
+- FB - Witch Slayer Armor 3BA-BHUNP - ESP Fix
+- FB - Witch Slayer Armor 3BA-BHUNP - Update
+- FYX - Water Mesh Optimization
+- FYX - Water Splash
+- Fallen - Falmer SFX
+- Faster Werewolf Movement - 25 percent Run - 50 percent Sprint
+- Feminine Khajiit Textures (Grey Cat and Leopard) [CBBE]
+- Fishing Outfit 2k-4k
+- Fists of Fury - Skyrim - Hotfix
+- Fix NPC Permablock
+- Flame VFX Edit
+- Flames of Coldharbour - Custom I4 Icons - BOOBIES
+- Flask Inventory Size Hotfix
+- Flawn's Vanilla Argonians Redux
+- Flawn's Vanilla Argonians Redux - CBBE
+- Fluffy Spiders
+- Fluffy Spiders - 2k Textures
+- Fluffy Wall Mounted Animal Trophies - BoTN
+- Fluffy Wall Mounted Animal Trophies 2k
+- Fluted Armor - My patches SE by Xtudo - ESL
+- Fluted Armor - SE by Xtudo - 3BA Gauntlets patch
+- Fluted Armor - SE by Xtudo - 3BA patch
+- Fluted Armor - SE by Xtudo - HIMBO Gauntlets patch
+- Fluted Armor - SE by Xtudo - HIMBO patch
+- Fluted Armor - SE by Xtudo - Lydia Outfit SPID
+- Fluted Armor 3BA SE
+- Fluted Armor SE
+- Fluted Armor SE - HIMBO
+- Follower Distance Tweaks - Glenmoril
+- Follower Distance Tweaks - Sa'chil
+- Follower Distance Tweaks - Val Serano
+- For Honor in SKYRIM I Aramusha condition File For PS
+- For Honor in SKYRIM I Conqueror - Mace and Axe Animation Replace For PS
+- For Honor in SKYRIM I Peacekeeper I Sword and Dagger condition File For PS
+- Forgotten Containers (CID)
+- Frostbitten Dreams Magic
+- GLENMORIL CBBE 3BA Patch
+- Giant flame wall brightness Fix
+- Glazed Pottery 2K-8K by iimlenny
+- Glazed Pottery HD - My optimized textures and extras SE by Xtudo
+- Gore - Paarthurnax Quest Expansion Patch
+- Gourmet - 3DNPC
+- Gourmet - A Cooking Overhaul
+- Gourmet - Alit
+- Gourmet - Arclight
+- Gourmet - Auri
+- Gourmet - EAS - Sweets and Such patch
+- Gourmet - ECSS Patch
+- Gourmet - Eating Animations And Sounds Patch Combination Bundle
+- Gourmet - Eating Animations and Sounds Patch
+- Gourmet - Fishing Patch
+- Gourmet - Glenmoril
+- Gourmet - Lunaris
+- Gourmet - Remiel
+- Gourmet - Riften Docks Overhaul
+- Gourmet - Shalks
+- Gourmet - Survival Patch
+- Gourmet - USSEP Patch
+- Gourmet - Vigilant
+- Gourmet - Vulcano
+- Gourmet - Vvardvarks
+- Gourmet - Wyrmstooth
+- Gourmet - Xelzaz
+- GourmetTable - 3DNPC
+- GourmetTable - Remiel
+- Growl - Werebeasts of Skyrim
+- Growl Features Fixed
+- Gryphonknight Regalia - Breton Noble Armor (optional SMP)
+- Gryphonknight Regalia - Breton Noble Armor (optional SMP) - Dynamic ENB Cubemaps
+- Gryphonknight Regalia - Breton Noble Armor (optional SMP) - SMP Patch
+- Gryphonknight Regalia - Breton Noble Armor (optional SMP) - textures
+- Guards Armor Replacer - IW - Patch
+- Guards Found Your Sweet Roll
+- Guards Pose with Weapons
+- HD Remastered Northern Roads - Complex Parallax - 2K Textures
+- HD Werewolf Retexture (2023 Update)
+- HDT-SMP Fluted Armor Patch
+- HDT-SMP Fluted Armor Patch - CBBE 3BA
+- Haladoon's Hunter Gear
+- Happy Little Trees - Disable Flying Behive
+- Happy Little Trees - Hotfix
+- Headhunter Missives - SRC-Radiant Patch
+- HeadpartWhitelist
+- High Heels Condition Spell
+- High Hrothgar Snowy Chest 2K
+- Hiraya Beastie Eyes
+- House Cats - Behaviour Tweaks
+- House Cats - Behaviour Tweaks - Immersive Interactions Patch
+- House Cats - Behaviour Tweaks - Pigeons
+- House Cats - Behaviour Tweaks - Pigeons - Ai Overhaul Patch
+- House Cats - Dialogue Tweaks
+- Hravna - Dagger of the North (v1.0.1 ESL)
+- Hunter Gear - Master Clubs Missing Texture FIX
+- I4 Shout Icons Overhaul
+- I4 Weapon Icons Overhaul
+- I4 Weapon Icons Overhaul - BOOBIES Patch
+- IKC Mare and Mule - Immersive Khajiit Caravan with Fluff
+- Ideal NPC Bumping
+- Illusive Infiltrator Armor
+- Illusive Infiltrator Armor - Tighter 3BA Bodyslide
+- Immersive Armours - SSE CBBE 3BA BodySlide
+- Immersive Equipment Displays - Hotkey Fix
+- Immersive Sounds Compendium - SkyPatched
+- Improved Camera OStim SA configuration
+- Improved Wall Baskets - Meshes and Textures
+- Infinite Stamina Out of Combat
+- Invisible Troll Fix
+- J3 Darkness SMP 3BA
+- J3 Darkness Vanilla mage ESP by Neumeria
+- J3 Darkness Vanilla mage look
+- J3 Fishnet Wench SMP 3BA
+- J3 Okita SMP3BA
+- JK Body Collection - 3BA Bodyslide presets
+- JKs Ragged Flagon Water Fix
+- Kaidan - Water
+- Kanjs - Books All In One
+- Kanjs - Deathless Sword from the hobbit
+- Kellan HDT-SMP Additions
+- Koemia - Custom Voiced Vampire Follower
+- Koemia - Custom Voiced Vampire Follower - Hotfix
+- Koemia - Custom Voiced Vampire Follower - non-AVX2 DLL
+- Kreiste's Archer Outfit (BHUNP - CBBE - HIMBO)
+- Kreiste's Christmas Fantasy Outfit (CBBE 3BA - HIMBO - BHUNP)
+- LamasTinyHUD - A Quick Slot Mod with Elden Souls Option
+- LamasTinyHUD - Untarnished UI Skin
+- Lawless - ChildrenOfTheHist Patch
+- LawlessExpanded - AdditionalDremoraFaces Patch
+- LawlessExpanded - ChildrenOfTheHist Patch
+- LawlessExpanded - SonsOfSkyrim Patch
+- Legacy of The Dragonborn - Item Descriptions
+- Legacy of Ysgramor
+- Legacy of Ysgramor - HIMBO Conversion
+- Legacy of the Dragonborn - Sweets and Such Patch (Unofficial)
+- Legacy of the Dragonborn CBBE 3BA and HIMBO Patch
+- Legacy of the Dragonborn Private Armory
+- Lindenblatts Elven Elegance 3BA Body Preset
+- Lindenblatts Shadowheart Racemenu Preset
+- Location Aware Container Loot - SkyPatched
+- Lux COTN Dawnstar patch update
+- Lux COTN Morthal patch update
+- Lux Orbis - COTN Falkreath - GIRTH Patch
+- Lux main plugin small update
+- Lydia - SDA
+- Lyssia - SSA patch
+- Main Menu Customizer
+- Main Menu Customizer - Example
+- Markarth Murder Prevention
+- Masculine Khajiit Textures (Grey Cat and Leopard) [SOS-FULL]
+- Medieval Chests 2K-8K by iimlenny
+- Melodia The Golden Saint (Project Skyrim) Breton Female Preset
+- Memorable Dragons - Initially Disabled
+- Mikaela The Unbound Spirit (Project Skyrim) Imperial Female Preset
+- Milky's Animations for Ostim Standalone
+- Mistborn
+- Modular SMP Hairstyles
+- Mofu EldenRing Attack Animations Dual wield SE MCO For PS
+- MoonChild Collection ESL Edition
+- MoonChild Collection ESL Edtiion - Patches
+- Moonlight Tales Mini - Highly Compatible Werewolf and Werebear Addon
+- Moonlight Tales Mini - MCM
+- Mortal Enemies - SkyPatched
+- MuJointFix
+- My Majestic Body - CBBE 3BA Bodyslide Preset
+- My Unslaad NPCs
+- Mysticism_poison_crash_fix_test_v2
+- Mythos of Skyrim - Immersive Artifact Descriptions
+- NPCs React To Frenzy
+- NR - Water for ENB
+- Narrative Gameplay Consistent Dialogue Tweaks - Brawl Lines Expansion
+- Native EditorID Fix
+- Natura - Custom I4 Icons - BOOBIES Patch
+- Natural Waterfalls
+- Natural Waterfalls - Dawnguard
+- Natural Waterfalls - Dragonborn
+- Natural Waterfalls - Majestic Mountains Patch
+- Natural Waterfalls - SLaWF Patch
+- NecDaz Feet
+- NecDaz Feet clothing adaptation
+- New Vampire Lord Replacer by Renzobich - Unofficial SSE Port
+- Nightshade Armor for CBBE 3BA and HIMBO
+- No Level Up Menu - DLL
+- No Level Up Menu - ESL
+- Nordic Ruins Shaft Cap Mesh Fix
+- Northern God Armor by Xtudo OWL Patch
+- Northern Roads Tents - Animated
+- OBody Next Generation ORefit JSON Master List
+- OBottom - Futanari and Gay Addon for OCum Ascended
+- OSL Aroused
+- OSL Aroused - Arousal Reborn - Settings Loader
+- OSL Keywords (KID) - COCO Ahri Uniforms
+- OSL Keywords (KID) - COCO Caress of Venus
+- OSL Keywords (KID) - COCO Scarlet Rose
+- OSL Keywords (KID) - COCO Witchiness
+- OSL Keywords (KID) - Dovakini Armor
+- OSL Keywords (KID) - Fleet Knight Set
+- OSL Keywords (KID) - Mysterious Knight
+- OSL Keywords (KID) - Mysterious Mage
+- OSL Keywords (KID) - Sharkish Piercings
+- OSL Keywords (KID) - The Amazing World of Bikini Armor
+- OSL Keywords (KID) - The Expanded World of Bikini Armor
+- OSmp - Automatic SMP physics toggle for OStim
+- OSta Sounds VMVE
+- OStim Community Resource
+- OStim Community Resource 3BA Textures
+- OStim Romance
+- OStim Romance - No Time Skip
+- OSweat - Futanari and OStim Standalone Patch for Wet Function Redux
+- OTracker - Thread Actors Recordkeeping
+- Obi Aroused Patches
+- Obi's Forest Attire 3BA SMP
+- Obscure's College of Winterhold - Midden Door Fix
+- Obsidian Weathers - Vigilant Integration
+- Onyx Knight Armor
+- Onyx Knight Armor - HIMBO
+- Onyx Lancer Armor - CBBE 3BA Bodyslides
+- Onyx Lancer Armor - HIMBO Bodyslides
+- Open Animation Replacer - Dialogue Plugin
+- Open Animations Romance and Erotica - Improved Camera
+- Paraglider Replacers 2k-4k
+- Paraphernalia VRAMr v8.21 All In One
+- Pigeons - Cities and Towns
+- Pigeons- Mihail Monsters and Animals (SE-AE version) (''bird'')
+- Plug-And-Play Heels Sound
+- Potion Of Obtainable Progress - Update
+- Precision - Enchanted Weapon Trails
+- Precision Trail Replacer - Simple
+- Project Skyrim LevelList Addon
+- Pubic Hair Overlays SE
+- Pubic Haris - 3BA Bodyslide for 3BA Body
+- QAPP - 3DNPC
+- QAPP - LOTD
+- RSV - Teeth Variance (Standalone)
+- RSV - Zim's Improved Dremora
+- Racial Skin Variance - SPID
+- Racial Skin Variance - SPID - Patches
+- Rainbows over Waterfalls
+- Rally's Water Foam
+- Random Tawoba Realistic and Squeeze Bodyslides
+- Reanimated NPC Detector for Underdog Animations
+- Redcap the Riekling - A Fully Voice-Acted Immersive Follower and Quest - Description Framework
+- Reduced Glow FX SE
+- Relationship Change Notifications
+- Remove Ugly Torch Glow Special Edition
+- Royal Vampire
+- S.E.X.Y (SLAroused Entirely eXciting for You) B.O.O.B.I.E.S Integration
+- S.P.I.G.O.T
+- SDA IFD Lydia Patch
+- SDA Patch Hub SE
+- SHINI Physics Config
+- SIRENROOT CBBE 3BA and HIMBO Patch
+- SMIM Snowy Chest Patch 2K
+- SOS NPC Female Pubics
+- SOS V2.0 - SE by Xtudo - CA Falkreath - Destd
+- SOS V2.0 - SE by Xtudo - CA Markarth - Destd
+- SOS V2.0 - SE by Xtudo - CA SCOfficer - Destd
+- SOS V2.0 - SE by Xtudo - CA Winterhold - Destd
+- SOS V2.0 - SE by Xtudo - Desaturated textures 2K
+- SOS V2.0 - SE by Xtudo - Fixes - RMB SPIDified
+- SOS V2.0 - SE by Xtudo - LOTD patch
+- SOS V2.0 - SE by Xtudo - Sentinel patch
+- SOS V2.0 - SE by Xtudo - Smaller Shields on Back
+- SRC - AIO - Lux Orbis Patch
+- SRC - Missives
+- Sa'chil - Custom Voiced Khajiit Follower
+- Sa'chil Addon - Fluffy Tails
+- Sa'chil Follower - Civil War Fix
+- Sa'chil Official Patch Hub
+- Sacrosanct - Vampire Seduction Lesser Power
+- Sacrosanct Rebalanced and Tweaked (ESL)
+- Sacrosanct Rebalanced and Tweaked (ESL) - Healing Nerf
+- Sandwiches of Skyrim - Eating Animation and Sounds (EAS) Patch
+- Save the Icerunner - Lights Out Alternate Routes
+- Script Override for PapyrusUtil SOS and Female Pubics mod
+- Scrolls Have Descriptions
+- Secunda - Chooey's Choice
+- Selective SOS Physics Manager for OStim Standalone and SexLab
+- Sensual Scenes Adapter - OStim SexLab Flower Girls unified wrapper
+- Sentinel - Adamant Patch
+- Sentinel - An Equipment Overhaul
+- Sentinel - Dremora Markynaz Armor
+- Sentinel - Dwemer Armor
+- Sentinel - ISC
+- Sentinel - Infantry
+- Sentinel - JS Armored Circlets
+- Sentinel - Lawless Patch
+- Sentinel - Lux Orbis Patch
+- Sentinel - Northern God
+- Sentinel - Open World Loot Patch
+- Sentinel - Wind Ruler
+- Shadelight - The Treasure Sea
+- Shadowmere - Return to Sanctuary
+- Shooting Stars SE - Remove Leaflet
+- Siege at Icemoth
+- Simple Hunting Overhaul - Eating Animations and Sounds Patch
+- Simpliticy of Snow - Unslaad Patch
+- Skogarfjell SE
+- SkyPatcher
+- SkyValor
+- Skyrim Organized Sorting - Gourmet
+- Skyrim Realistic Conquering - All In One - Hotfix
+- Sleeping NPCs Detector
+- Smaller Bigger - 3BA BodySlide Preset
+- Snazzy Interiors - Morthal Falion's House
+- Snazzy Mesh Fixes - Windhelm Interiors
+- Snazzy Silver Inkwells - Base Object Swapper (BOS)
+- Snow Chest Fixed - SMIM Patch
+- Snowmen of Skyrim
+- Snowmen of Skyrim - Patch Hub
+- Sole Purpose for OStim Standalone
+- Somewhere in Between - More Zap Sliders
+- Song of the Green Auri's fancy pod - Optimized Meshes
+- Sons of Skyrim 3BA Unibody Conversion ESL Plugin and Wrye Bash Tags
+- Sons of Skyrim v2.0 - 3BA
+- Sorcerer - COTN Winterhold Patch
+- Sorcerer - Midden Expanded Patch
+- Sorcerer - OCW Patch
+- Spell Perk Item Distributor
+- Spirit of Saturalia - A Christmas Quest - Snow Globe House
+- Spirit of Saturalia - Immersive Start Tweak
+- Stamina of Shooting - SPID
+- Stamina of Shooting - drawing bow costs stamina
+- Stand still in RaceMenu (OAR)
+- Striding Silt Strider
+- Sweeping Organizes Stuff - Use Broom to Clean Mess
+- Sweets and Such - Baking Expanded SE
+- Sweets and Such - Base Object Swapper
+- Sweets and Such Recipe Fix
+- TRX - Futanari Addon
+- Talkative Dragon Priests- Mihail Monsters and Animals (SE-AE version)
+- Tavern AI fix
+- The Chain of Time - Bugs of the Purple Invasion
+- The Eyes of Beauty Vampire Eyes SE AI
+- The Gift Of Saturalia
+- The Gift Of Saturalia - Addons
+- The Knight of the Void (Sidekicks of Tamriel - A Fully Custom Voice Acted Follower and Quests)
+- The Serpent Pit
+- The Whispering Door - Quest Expansion - Fianna Lives
+- Trap Needs to be Real Trap
+- Traveling Mage HDT-SMP 3BA
+- Traveling Mage HDT-SMP HIMBO
+- True True Teacher Durnehviir (Unlock Soul Tear Without Dragon Souls)
+- Trueblood Serana
+- UNDERDOG - Death Animations OAR
+- UNSLAAD - Simplicity of Snow CTD FIx
+- UVCPC - Umgak's Vokrii Compatibility Patch Compendium
+- Ulfgrim The Handsome - Male Nord High Poly Preset
+- Unique Armors and Weapons Retexture SE
+- Unique Border Gates Fixes - EVGAT
+- Unique Border Gates Fixes - Lux Orbis
+- Unmarked Locations Pack - Solstheim
+- Unmarked Locations Pack - Solstheim - Description Addon
+- Unmasking Sybille
+- Usable Unlit Campfires - A Campfire Addon
+- VAE 2 Thaumaturgy patch for Skypatcher
+- VRAMrOutput
+- Val Serano
+- Val Serano USEEP hotfix
+- Vampire King's Armor
+- Vanilla Item Descriptions
+- Vanilla Warpaints Absolution
+- Viridian Knight Armor (Skimpy Version - CBBE - 3BA - BHUNP - HIMBO)
+- Viridian Knight Armor (Skimpy Version - CBBE - 3BA - BHUNP - HIMBO) - HIMBO V5
+- Viridian Knight Armor - Color Variations (hdt-SMP - CBBE - 3BA - UUNP - BHUNP - HIMBO) - Dynamic Cubemaps
+- Viridian Knight Armor - HIMBO V5
+- Visual Animated Enchants - VAE
+- Water for ENB
+- Welkynar Hussar Armor - HIMBO V5
+- Werebear Moonlight Tales Spruce-up
+- Wet Function Redux SE - OSweat FS- Settings Loader
+- Wet Function Redux SE - Settings Loader
+- WetFunctionRedux SE OStim
+- WiZkiD Forgotten Potions and Poisons
+- Wild Witch - HIMBO V5
+- Windruler SMP for HIMBO
+- Witchy - The Horniest Mod Ever
+- Wolves of Cyrodiil - Mihail Monsters and Animals (SE-AE version)
+- Wolves of Cyrodiil - My optimized textures SE by Xtudo
+- Wyrmstooth CBBE 3BA and HIMBO Patch
+- XP32 XPMSSE Double body 1st person fix
+- Xavbio Dragon Armors - 3BA
+- Xavbio Dragon Armors - HIMBO
+- Xelzaz - Custom Fully Voiced Argonian Telvanni Follower - Description Framework Patch
+- Xocco3's Mead Replacer (Animated)
+- Xocco3's Mead Replacer (Animated) - SkyPatched
+- Yaldabaoth 3BA HDT-SMP
+- You Got Caught - Cheating reactions for OStim SexLab and Flower Girls
+- Zyra The Lust (Project Skyrim) Goth Vampire Imperial Preset
+- [Ashtoreth] Black Hellebore
+- [Ashtoreth] Nekopara Maid
+- [Dint999] Forgotten Princess
+- [RMB SPIDified] Sons of Skyrim - Base Plugin Replacer
+- aljos Apothecary Patches
+
+
+# Removed
+
+- 3BA 3BBB CBPC Realistic Firm Breasts Butt Belly and Thighs (3BA RFBBBT)
+- 3BA Vanilla Clothes and Armor
+- Artificer - Praedy's Staves AIO
+- Artificer - Praedy's Staves AIO and USSEP
+- Artificer - VAE2
+- BNP-TRX Futa addon patch
+- Backpack Repositioner
+- Bandit Hounds Overhaul - Patch for Water for ENB
+- Bashed Patch Output
+- Beast HHBB - Lawless patch
+- BeastHHBB - Khajiit and Argonian content - player character and NPC replacer Addons
+- BeastHHBB - Khajiit and Argonian content - player character and NPC replacer Base
+- Blended Shorelines - No more jagged water edges
+- Blood and Ash
+- Blood and Ash - RSV Exclusions
+- BnP - Male Skin
+- BnP - RSV Patch by Owlessa
+- BnP CBBE 2k Wetfunction patch
+- BnP Complexion female update
+- BnP Dremora fix for SOS full replacer
+- BnP female DVA patch
+- BnP female skin
+- BnP female skin (RSV patch)
+- BnP male DVA patch
+- BnP teeth RSV patch
+- Bright Waterfall Fix for ENB
+- CBBE 3BA
+- Cities of the North - Falkreath - Water for ENB
+- Daughters of Malacath - RSV Exclusions
+- Dibella's Blessing - RSV Exclusions
+- Dodgeable Concentration Spells And Dragon Shouts
+- Dragons Use Thu'um - No Disarm Shout UPDATE
+- Dragons Use Thu'um - Patch for Unofficial Skyrim Modder's Patch
+- Dragons Use Thu'um - Patch for Unofficial Skyrim Special Edition Patch
+- Dynamic Feminine Female Modesty Animations OAR
+- Dynamic Feminine Female Modesty Animations OAR - Nexus Modesty KID
+- Elden Equip
+- Expressive Facegen Morphs SE
+- Expressive Facial Animation -Female Edition-
+- Expressive Facial Animation -Male Edition-
+- FYX - Water Mesh Optimization
+- FYX - Water Splash
+- Feminine Khajiit Textures (Grey Cat and Leopard) [CBBE]
+- Flawn's Vanilla Argonians Redux
+- Flawn's Vanilla Argonians Redux - CBBE
+- GORE - COTN Dawnstar Patch
+- GORE - Fishing (CC) Patch
+- GORE - Miscellaneous Patches
+- GORE - Navigator - Navmesh Fixes Patch
+- GORE - Serana Dialogue Add-On Patch
+- GORE - USMP Patch
+- Gore - Vigilant - COTN Dawnstar Patch
+- Gore - Vigilant - USSEP Patch
+- HIMBO PAU - Powerful Aesthetics United - Male Bodyslide Presets
+- High Poly Gore Head
+- Immersive Hunting Overhaul
+- Improved Camera OStim SA configuration
+- Informed Mail Delivery - Your Own Thoughts
+- JK's The Bards College
+- Kaidan - Water
+- Kanjs - Black Book Animated - up to 8k
+- Kanjs - Mythic Dawn Commentaries Animated
+- Kanjs - Oghma Infinium Animated - up to 4k
+- Kanjs - Strongbox
+- Kanjs - The Aetherium Wars Book Animated
+- Kanjs - The Boethiah's Proving Book Animated
+- Kanjs - The Dreamstride Book
+- Koemia - Custom Voiced Vampire Follower
+- Koemia - Custom Voiced Vampire Follower - Hotfix
+- Koemia - Custom Voiced Vampire Follower - non-AVX2 DLL
+- Legacy of the Dragonborn Patches (Official) - VAE2
+- Legacy of the Dragonborn Private Armory
+- Let Your Hair Down
+- Lux Orbis - COTN Falkreath - GIRTH Patch
+- Lydia - SDA
+- Manbeast - A Werewolf Overhaul
+- Masculine Khajiit Textures (Grey Cat and Leopard) [SOS-FULL]
+- Memorable Dragons
+- Moonlight Tales - Drop The Ring
+- Moonlight Tales - Well Escape Fix
+- Moonlight Tales - Werebear Form Bug Fix Patch
+- Moonlight Tales MCM Updated
+- Moonlight Tales SE - Howl and Revert Form Animation Fix
+- Moonlight Tales Special Edition - Werewolf and Werebear Overhaul
+- MuJointFix
+- NARC Remade - No Animals Report Crimes
+- NITHI NPCs - Serana
+- NITHI NPCs - Serana - Spell Toggle Expanded
+- NR - Water for ENB
+- Native EditorID Fix
+- Natural Waterfalls
+- Natural Waterfalls - Dawnguard
+- Natural Waterfalls - Dragonborn
+- Natural Waterfalls - Majestic Mountains Patch
+- Natural Waterfalls - SLaWF Patch
+- NecDaz Feet
+- New Vampire Lord Replacer by Renzobich - Unofficial SSE Port
+- Nightshade Armor - SSE CBBE BodySlide (with Immersive Physics)
+- Nilheim - Misc Quest Expansion
+- No Popup for Moonlight Tales
+- Nordic Northern Roads - Retexture - 2K - 4K
+- Northern Roads - Crates - No Rim Lighting
+- Northern Roads - Higher Poly Stockade
+- OBody Next Generation ORefit JSON Master List
+- OProstitution NG for OStim Standalone
+- ORomance
+- ORomance Plus
+- ORomance Plus Open Animations Standalone Patch
+- OSmp - Automatic SMP physics toggle for OStim
+- Open World Loot patches for various small armor mods
+- Optimised Scripts for Read the Room
+- Ostim Standalone Male Sound Pack Ehehe edition
+- Pubic Hair Overlays SE
+- Pubic Haris - 3BA Bodyslide for 3BA Body
+- Quick Save and Load Disabler
+- RSV - Addons
+- RSV - Teeth Variance (Standalone)
+- RSV SPID Patches for Consistency
+- RaceMenu Poser
+- Racial Skin Variance - SPID
+- Rally's Water Foam
+- Read the Room - Immersive and Animated Helmet Management
+- Read the Room - Immersive and Animated Helmet Management - Settings Loader
+- SDA Patch Hub
+- SHD and 2HM parry animation (Design for Elden Parry)
+- SHINI Physics Config
+- SOS NPC Female Pubics
+- Save the Icerunner - Lights Out Alternate Routes
+- Script Override for PapyrusUtil SOS and Female Pubics mod
+- Skyrim Platform
+- Skyrim Reputation - Manbeast - A Werewolf Overhaul patch
+- Sons of Skyrim 3BA Unibody Conversion ESL Plugin and Wrye Bash Tags
+- Starlit Lakes Loading Screens
+- TRX - Futanari Addon
+- The Beast - Jorrvaskr Companion Werewolf Transformation
+- The Elder Scrolls Legends - Loading Screens - Complete Ultrawide Fix by Stormhand
+- The Eyes of Beauty Vampire Eyes SE AI
+- The Knight of the Void (Sidekicks of Tamriel - A Fully Custom Voice Acted Follower and Quests)
+- UNDERDOG Animations
+- Vanilla Warpaints Absolution
+- Water for ENB
+- Wet Function Redux SE - Settings Loader
+- WetFunctionRedux SE OStim
+- Zim's Improved Dremora -- NARC patch
+- aljos Apothecary Patches
+- iBeasts - Argonian and Khajiit hairs and replacer for Interesting Npcs (3dNPCs)
+
+
 
 ## 0.8.2 BETA 5 - Save Compatible.
 
