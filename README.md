@@ -132,24 +132,24 @@ Start the game and exit once you're in the main menu. This will ensure any setti
 PS. Skyrim received an update in 5-12-2023, so the latest verion is 1.6.1130 now. Current version of Prokectject(0.8.2) only applied to those have 1.6.640 version(disable Auto-update).
 
 
-NOT NEEDED ANYMORE ~~You will need to downgrade the game to 1.6.640 and SE Creation Kit to 1.6.438 for the installation.
+NO NEED TO DOWNGRADE ANYMORE ~~You will need to downgrade the game to 1.6.640 and SE Creation Kit to 1.6.438 for the installation.~~
 
-How to Downgrade:
+~~How to Downgrade:~~
 
-SSE Creation Kit 1.6.438:
-download_depot 1946180 1946182 5099162879680505807
-download_depot 1946180 1946183 1633303557398589581
+~~SSE Creation Kit 1.6.438:~~
+~~download_depot 1946180 1946182 5099162879680505807~~
+~~download_depot 1946180 1946183 1633303557398589581~~
 
-Skyrim SSE 1.6.640:
-download_depot 489830 489831 3660787314279169352
-download_depot 489830 489832 2756691988703496654
-download_depot 489830 489833 5291801952219815735
+~~Skyrim SSE 1.6.640:~~
+~~download_depot 489830 489831 3660787314279169352~~
+~~download_depot 489830 489832 2756691988703496654~~
+~~download_depot 489830 489833 5291801952219815735~~
 
-1.Open a command window "Run" by pressing «Win + R» and then enter the command: steam://open/console, and then press Enter. This will open the console tab in Steam.
+~~1.Open a command window "Run" by pressing «Win + R» and then enter the command: steam://open/console, and then press Enter. This will open the console tab in Steam.~~
 
-2.The bottom will have a space for you to enter the above codes. Copy the code as written, one line at a time. It will download the files to your "steam/common/content" folder, wherever the Steam manager was installed to (eg. C:\Steam\steamapps\common\content). If you cannot find it, just search for the steam folder: "depot_1946180" and "depot_489830" after the downloads have completed.
+~~2.The bottom will have a space for you to enter the above codes. Copy the code as written, one line at a time. It will download the files to your "steam/common/content" folder, wherever the Steam manager was installed to (eg. C:\Steam\steamapps\common\content). If you cannot find it, just search for the steam folder: "depot_1946180" and "depot_489830" after the downloads have completed.~~
 
-3.Replace your "steamapps/commom/Skyrim Special Edition" files (or wherever your Creation Kit/Skyrim files are) with the ones in "depot_1946180" and "Skyrim Special Edition" files with the files in "depot_489830".~~
+~~3.Replace your "steamapps/commom/Skyrim Special Edition" files (or wherever your Creation Kit/Skyrim files are) with the ones in "depot_1946180" and "Skyrim Special Edition" files with the files in "depot_489830".~~
 
 
 ### Steam Library
