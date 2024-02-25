@@ -132,7 +132,9 @@ Start the game and exit once you're in the main menu. This will ensure any setti
 PS. Skyrim received an update in 5-12-2023, so the latest verion is 1.6.1130 now. Current version of Prokectject(0.8.2) only applied to those have 1.6.640 version(disable Auto-update).
 
 
-NO NEED TO DOWNGRADE ANYMORE ~~You will need to downgrade the game to 1.6.640 and SE Creation Kit to 1.6.438 for the installation.~~
+**NO NEED TO DOWNGRADE ANYMORE**
+
+~~You will need to downgrade the game to 1.6.640 and SE Creation Kit to 1.6.438 for the installation.~~
 
 ~~How to Downgrade:~~
 
