@@ -1,5 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
-- #### [0.8.3.1---save-compatible) - `09/03/2024`
+- #### [0.8.3.1---save-compatible] - `09/03/2024`
 - #### [0.8.3](#083---not-save-compatible) - `19/02/2024`
 - #### [0.8.2BETA5](#082---save-compatible) - `02/12/2023`
 - #### [0.8.2](#082---not-save-compatible) - `26/11/2023`
