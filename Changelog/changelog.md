@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.8.3.1---save-compatible) - `09/03/2024`
 - #### [0.8.3](#083---not-save-compatible) - `19/02/2024`
 - #### [0.8.2BETA5](#082---save-compatible) - `02/12/2023`
 - #### [0.8.2](#082---not-save-compatible) - `26/11/2023`
@@ -33,6 +34,19 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.8.3.1 - Save Compatible
+
+-  updated some mods including OSL scene to prevent the array
+- fixed JK Dragonsreach door
+- attempt to fix falion house (didnt check) 
+- applied community fixes given, texture for staff of Magnus, a test for clavicus vile mask, draugr battleaxe, rsv patches
+- updated oar thingy (removed weird animation from guards and companions) 
+- rebuild vampire armor and clothes expansion with the right bodyslide
+- repatched the ebony warrior
+- fixed male textures
+- redid some bodysides and updated the main body slide mod
+- reinstalled map to avoid texture problem
 
 ## 0.8.3 - Not Save Compatible
 
