@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.8.4](#084---not-save-compatible) - `10/05/2024`
 - #### [0.8.3.1](#0831---save-compatible) - `09/03/2024`
 - #### [0.8.3](#083---not-save-compatible) - `19/02/2024`
 - #### [0.8.2BETA5](#082---save-compatible) - `02/12/2023`
@@ -34,6 +35,1336 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.8.4 - Not Save Compatible (big update).
+
+A lot of things were touched on in this update, we reworked some aspects of the game, including combat and some visuals. Some mods were reintegrated, such as Sunhelm and Fertility Mode (yes it can be disabled in MCM). There were some changes to the adult content. VRAM Output was removed. Some content was removed to avoid reference limit issues.
+
+# Added
+
+ - (DAR)More Ritho-ish Giant Animations SE
+- 3D Coin Piles - SE by Xtudo - AIM - Classic Gold
+- 3rd Person Camera Stagger Remover
+- 4thUnknown's Flame Atronach SE - Ember XD Flames - Patch
+- A0D789patch_v1_1
+- ADXP I MCO BDO Guardian
+- ADXP I MCO Dragons Dogma Fighter moveset sword and shield
+- ADXP I MCO ER Spear Basic Animation (SCAR)
+- ADXP I MCO elden rim moveset collection (SCAR)
+- Abhorrent Behemoths - Attacko's Daedra Integration and Rebalance
+- Abhorrent Behemoths - Optimized Textures
+- Active Effects Menu Declutter
+- Additional Dev Aveza locations for Legacy of the Dragonborn
+- Ai Voiced - The Erotic Adventures of Misty Skye
+- Alchemy XP Fix
+- All Keys Descriptions
+- All_Key - SPID Keyword Framework
+- Am Curvaceous - Bodyslide Preset 3ba V2
+- Ambient Warfare
+- Amulets and Ears Show on Everything with SkyPatcher
+- Ancient Blood Magic II
+- Animated Armoury - Precision Whips Patch
+- Animated Carriage
+- Animated Carriage Additional Route
+- Animated Ships
+- Animated Ships - Finer Sails
+- Animated Ships Patches - Less Ships BOS
+- Anong Nyr - High Poly Character Preset - RaceMenu
+- Anthropoid Daedroth - Attacko's Daedra Integration and Rebalance
+- Anthropoid Daedroths - Optimized Textures
+- Anub's animations for Ostim Standalone - Squirt Fix
+- Aphrodite Ambrosia - BodySlide Preset for CBBE 3BA and BHUNP
+- Apothecary Universal Ingredient SkyPatcher
+- Arc's Kettle REDUX 2k - 4k
+- Arcano - Curse Magic
+- Arcs Kitchen Redux 2k - 4k
+- Arcs Razor Redux
+- Arcs WispMother Redux 2k - 4k
+- Arctic - Frost Effects Redux
+- Arena - An Encounter Zone Overhaul
+- Argonian Creation Extended - A.C.E
+- Armor of Mehrunes Dagon
+- Artifact of Might
+- Artifact of Might ( ESL )
+- Artificer - Modpocalypse
+- Ashley Graham Hair (Physics)
+- Ashtoreth - Barbarian Armor - 3BA - SMP - ESPFE
+- Ashtoreth - Mystica Outfit - 3BA
+- Ashtoreth Duskrogue Armor - My patches and tweaks SE by Xtudo
+- Atronach Armors - CBBE 3BA - HIMBO
+- Attack MCO-DXP
+- BDO Guardian - Tweaked Conditions
+- BDO Guardian Battle Axe
+- BHUNP Egil's Demon Hunter
+- Base Object Swapper - Master Occlusion
+- Battle Scythe
+- BattleWornCreatures - SkyPatched
+- Bernila Nyr - High Poly Character Preset - RaceMenu
+- Better Blended Mushrooms
+- Better Butterflies
+- Better Butterflies Monarch in a TMD Jar
+- Better Chests
+- Better Optimized and Fixed Riften Meshes
+- Bewitching Heart Succubus Outfit - CBBE 3BA - TBD - BHUNP
+- Beyond Reach - Expanded Map Markers
+- Bipedal Charyboids - Attacko's Daedra Integration and Rebalance
+- Bipedal Charyboids - Optimized Textures
+- Blackreach Eerie Ambience
+- Bleak Falls Tower
+- Bleeding Edge - Audio Overhaul Daggers Skypatched
+- Blood and Silver - Cidhna Mine Expanded
+- Bloodskal Blade - Tweaks and Enhancements
+- Bloodskal Tweaks and Enhancements - Horizontal Strike for MCO and SkySA
+- BnP RSV patch update
+- BnP RSV sk fix
+- BnP female small update
+- Boats - Operational Animated Travel
+- Brelyna - Lucien Patch
+- Brelyna Expansion Synergy
+- Britte Nyr - High Poly Character Preset - RaceMenu
+- Bust of Tiber Septim - Expanded
+- Bust of Tiber Septim - LoTD - Patch
+- Butterflies Land True
+- CAEKD - Clothing and Armor Exposure Keyword Distribution
+- CBBE 3BA Vanilla Outfits Redone - Beyond Reach
+- CBBE 3BA Vanilla Outfits Redone - HIMBO
+- CBBE 3BA Vanilla Outfits Redone - Shiny Amulets
+- COTN Falkreath Lite
+- CSBE - Certified Swaggiest Bodyslide Ever - CBBE - 3BA
+- Calliope The Shadow Voice (Project Skyrim) Imperial Female Preset
+- Campfire Animations
+- Campfire Animations - No animated camera
+- Campfire Spooning
+- Cannibalism Expanded - Eating Animations and Sounds SE - PATCH
+- Canyon Wind - Tundra Ambience Track
+- Cathedral - 3D Nightshade
+- Cathedral - 3D Stonecrop
+- Cathedral - 3D Thicket and Dead Shrub
+- Cathedral - 3D Tundra Shrubs
+- Cathedral 3D Deathbell - ENB Particle Light
+- Celine the Talking Fox Follower - Fully Voiced
+- Centurion I Sword moveset for NPCs (MCO I SCAR)
+- Champion of Azura Revisit 3BA - BHUNP
+- Cheeky Kids
+- Children of the Hist - Patch Collection
+- Cholya - Racemenu Character Preset
+- Chooey's Modular SMP Hairstyles Edit
+- Cities of the North - Falkreath - Water for ENB - Hotfix
+- Claudia - Racemenu Preset (HP included)
+- CoTN Falkreath - Optimised and eFPS Fix
+- Combat Music Fix NG Updated
+- Conditional Expressions - Subtle Face Animations - Settings Loader
+- Corrupted Warpaints - RaceMenu Overlays
+- Craftable Version of Ghaans Revealing CBBE 3BBB Outfits
+- Crown Plate - SE by Xtudo - 2K Textures
+- Crown Plate Set
+- Crown Plate Set - My patches SE by Xtudo
+- Custom Skills Framework for 1.5.97
+- Custom Skills Menu - Custom Icons
+- DPF - Dynamic Persistent Forms
+- DS3 Black Knight - Tweaked Conditions
+- DS3 Uchigatana I Katana moveset for NPCs (MCO I SCAR)
+- Dae's Titanaxe - Standalone Battleaxe and Boss Fight
+- Dae's Titanblade - Standalone Dwarven Greatsword
+- Dae's Titanhammer - Standalone Warhammer and Quest
+- Dark Nova - Standalone Daedric Greatsword
+- Dark Witch Armor BHUNP 3BA SMP
+- Dark Witch Armor BHUNP 3BA SMP - 3BA
+- Dark Witch Armor Physical Fix Patch
+- Dark Witch Armor for HIMBO
+- Dawn Warrior Armor - Official Uniform of the Heartbow Rangers - 3BA
+- Dawnguard Arsenal - Immersive Sounds Compendium - Audio Overhaul - Combo Patch
+- Dawnguard Bikini Armor B.O.O.B.I.E.S Support
+- Dawnguard Bikini armor 3BA HDT-SMP - Tawoba add-on
+- Dawnguard VA Fix
+- Dawnguard Weapons Are Silver (KID or SkyPatcher)
+- Deadly Bear Trap Base Object Swapper
+- Deadly Dragons Safe Zone Keyword Distributor (KID)
+- DesertRace Combat Animations for Redguard and Khajiit
+- Dialogue Expansion - Brelyna Maryon
+- Dialogue Expansion - Imperial Soldiers
+- Dialogue Expansion - Windhelm
+- Dialogue History
+- Dialogue History - Untarnished UI Patch
+- Dibell-ass CBBE 3BA BHUNP bodyslide preset
+- Dinya Balu and Maramal have a child
+- Dirt and Blood - (Mostly) Seamless Dirt
+- Dirt and Blood - Soap to Vendors Skypatched
+- Dirt and Blood Expanded (Interim Update)
+- Disable Turn Animation SE I AE
+- Disable Vanilla Killmoves
+- Distant Dragon Roars
+- Diverse Burial Cairns Ivy for Falkreath MX Para
+- Diverse Magic Casting Animations
+- Diverse Winery - TMD
+- Diverse and Lootable Firewood - Base Object Swapper
+- Divide and Conquer - A Noble Divider Replacer
+- Don't Cheat Your Pants Off Expanded and Enhanced
+- Dont Read Elder Scrolls While Swimming
+- Double Bed Spooning - DAR
+- Double Beds for spooning-SE
+- Dragon Breath VFX Edit
+- Dragon Mounds - Better Collision and Mesh Fixes
+- Dragons Dogma Fighter - Tweaked Conditions
+- Dragons Use Thu'um - Patches
+- Dragonwood Pugilist Outfit - Lunar New Year Special (hdtSMP - BHUNP - CBBE - HIMBO)
+- Draugr Battleaxe and Warhammer Attack Animation
+- Draugr Magic Loop Casting Animation
+- Draugr One-Handed Movement
+- Draugr One-handed Animation (DAR)
+- Dread Father Armor - 2K
+- Dripping When Wet (SPID)
+- Dungeon Sounds Overhaul
+- Duskrogue - SE by Xtudo - Optimized 2K textures
+- Dustman's Cairn Farkas Scene Fix
+- DynDOLOD Resources SE
+- Dynamic Animal Variants SPID (Updated Textures - Fixes - Improvements - And More)
+- Dynamic Animal Variants SPID (Updated Textures - Fixes - Improvements - And More) - Fluffy
+- Dynamic Block Hit
+- Dynamic Crafting Animations
+- Dynamic Dodge Animation
+- Dynamic Dodge Shot
+- Dynamic EVGAT SkyClimb and Parkour animations - Settings Loader
+- Dynamic Feminine Female Modesty Animations OAR
+- Dynamic Feminine Female Modesty Animations OAR - Hotfix
+- Dynamic Feminine Female Modesty Animations OAR - Nexus List
+- Dynamic Grip MCO
+- Dynamic Grip MCO Weapon Switch Animation Fix Patc
+- Dynamic Horse Petting - Integration Patch
+- Dynamic Horse Petting Animations for Immersive Interactions
+- Dynamic Looting and Harvesting Animations
+- Dynamic Random Spell Idle
+- Dynamic injured creature animations - Falmer
+- Dynamic_Grip_MCO_OAR_Folder
+- E) Ignoble Beds - Rally's Noble Furniture patch
+- ECE Sliders Addon for Racemenu
+- EMP - Face Masks for Bandits ESLFied (SPID)
+- EMP - Ritual Armor of Boethiah
+- EMP - Ritual Armor of Boethiah CBBE 3BA BodySlide patch
+- ER Scimitar - Tweaked Conditions
+- ER moveset collection(NPC)
+- ERM - Enhanced Rocks and Mountains
+- ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On
+- EVG Conditional Idles - OAR
+- EVG_Conditionals_extended_-_Tweaked_condition
+- Eating Animations - Fishing Patch
+- Eating Animations - Patch Collection
+- Eating Animations - Sweet and Such
+- Eating Animations - Xelzaz
+- Eating Animations and Sounds - NPC Follower - Patch
+- Eating Animations and Sounds - Sunhelm Patch
+- Eating Animations and Sounds SE
+- Eating animations - Halffaces - Dragonborn alcohol
+- Eating animations - High Poly Project Boiled Creme Treat version SE
+- Eating animations - My HD version SE by Xtudo
+- Eating animations - TMD Winery patch
+- Ebony Armors and Weapons Retexture SE - Greatsword Fix
+- Edla - High Poly Nord Preset
+- Egil's Demon Hunter 3BA
+- Egil's Demon Hunter 3BA Butt Clip Fix
+- ElSopa - Gem Holders Redone
+- Elden Parry
+- Elden Parry - Precision Compatibility
+- Elden Parry -- Ordinator Patch
+- Elden RIM I Unarmed claws moveset for beast races (MCO I SCAR)
+- Elden_Parry_Sound_Adjust
+- Elder Creed - Valhalla Axe Moveset AIO For PS
+- Elle - Tavern Maid Immersion Patch
+- Enhanced Blood Textures - Spider Blood Fix
+- Environs - Riften Warehouse - Patch Collection
+- Environs - The Shrines of Talos
+- Environs - The Shrines of Talos - Patch Collection
+- Eskyrim I Aggressive greatsword moveset for SKILLED NPCs (MCO I SCAR)
+- Eskyrim I Fancy sword moveset for SKILLED NPCs (MCO I SCAR)
+- EslifyEverythingOutput
+- Essential Supplies - Cure Potions
+- Essential Supplies - Drunken Pelts
+- Essential Supplies - Recovery Potions
+- Essential Supplies - Resistance Potions
+- Extended Bandit Dialogue
+- FB - Einherjr Armor 3BA-BHUNP
+- FB - Einherjr Armor 3BA-BHUNP - 3BA Belt Fix
+- FB - Einherjr Armor 3BA-BHUNP - esp fix
+- FRECKLES - Racemenu Overlay Collection ESL - Face and Body Features
+- FYX - Candlehearth Hall Chimney
+- FYX - Windhelm Castle Door
+- FYX - Windhelm Graveyard - Parallax
+- FYX - Windhelm Graveyard - Spaghetti - Parallax
+- FYX x Mihail - Crows and Ravens Windhelm Graveyard
+- Fabulous Makeup - Racemenu Overlays
+- Face Masks of Skyrim
+- Face Sculptor Expanded
+- Falmer 'Dialogue' Overhaul - Echolocation
+- Far Object LOD Improvement Project SSE
+- Fertility Adventures
+- Fertility Mode
+- Fertility Mode Ostim Standalone Patch
+- Fertility Mode v3 Fixes and Tweaks
+- Fertility Mode v3 Fixes and Tweaks - Settings Loader
+- Fettered Fragments
+- Fewer Forcegreets - Cleaner Quest Log
+- Figga Nyr - High Poly Character Preset - RaceMenu
+- Fire Ignites Arrows (and Bolts)
+- Fire Tounged Daedroths - Optimized Textures
+- Fire-Tounged Daedroths - Attacko's Daedra Integration and Rebalance
+- Fishing - Voiced Narrative
+- Fishing Voiced Narrative - Simple Fishing Overhaul Voice Patch
+- Fix blocking move
+- Flashy(JoeR) - Lydia Redefined - An Advanced Follower System
+- Fnar Combat - NPC Spells Cost More
+- Fnar Combat - NPCs Magicka No Regen During Casting
+- Follower Dialogue Expansion - Aela the Huntress
+- Follower Dialogue Expansion - Erik the Slayer
+- Follower Dialogue Expansion - Jordis the Sword-Maiden
+- Follower Dialogue Expansion - Mjoll the Lioness
+- Follower Dialogue Expansion - Mjoll the Lioness - Auri Patch
+- Follower Difficulty Balancer
+- For Honor in SKYRIM I Conqueror - Mace and Axe Animation Replace For PS
+- Frost VFX Edit
+- General NPC Health Regen (SPID and ESPFE)
+- Glasses Pack Vol.1
+- Glenmoril and Unslaad xVASynth Voiced - Unslaad
+- Glide
+- Glide - Spell Tome Integration
+- Go To Bed - DAR Sleeping Expanded - PLAYER NPCs
+- Go To Bed - DAR-OAR and Vanilla patch by Xtudo
+- Go to bed
+- Go to bed - Settings Loader
+- Go to bed - Settings Loader - Go to bed in lingerie
+- Go to bed in lingerie
+- Gods and Worship - Jayserpa Quest Expansion Patches
+- Gods and Worship - SunHelm Diseases Patch
+- Goetia Animations - Conditional Shouts
+- Goetia Animations - Enchanted Staves
+- Golden Nights - High Poly Male Racemenu Presets
+- Gourmet - EAS - Sweets and Such patch
+- Gourmet - Eating Animations and Sounds Patch
+- Gourmet - Eating Animations and Sounds Patch - Cheesemod
+- Gourmet - Eating Animations and Sounds Patch - Chocolate
+- Gourmet - Eating Animations and Sounds Patch - Fishing
+- Gourmet - Eating Animations and Sounds Patch - LOTD
+- Gourmet - Eating Animations and Sounds Patch - Survival
+- Gourmet - Eating Animations and Sounds Patch - USSEP
+- Gourmet Patches
+- Gryphon I Battleaxe moveset for NPCs (MCO I SCAR)
+- Guard Dialogue Overhaul MCM
+- GuardsTalk
+- HDT SMP Fluffy Beast Race Tail Replacer Tweaks
+- HDT-SMP Ysmir Armor Patch (for CBBE 3BA)
+- Haelga Toy - JK's Haelga's Bunkhouse
+- Halffaces - Breton delicacy
+- Halffaces - Dragonborn alcohol All-in-One
+- Hallowed Sword - Tweaked Conditions
+- Hallowed Sword Moveset - MCO and SCAR Patched
+- Hannah Nyr - High Poly Character Preset - RaceMenu
+- Heart's Day Baker - Valentine Special (CBBE - HIMBO)
+- Heart's Day Baker - Valentine Special (CBBE - HIMBO) - ESL
+- Heat shimmer fix for ENB
+- High Quality Ivy
+- HollowSlayer Greatsword - Tweaked Conditions
+- HollowSlayer Greatsword moveset I MCO ISCAR
+- Holmgang - ADXP I MCO Moveset for NPCs (OAR)
+- Holmgang - Tweaked Conditions
+- Holy Templar Magic
+- Honed Metal -NPC Crafting and Enchanting Services- - Ordinator Skill Boost Disable
+- Horse Behaviour Improvements
+- Horse Mount and Dismount Double Sound Fix
+- I4 Weapon Icons Overhaul
+- IFSBodySlide(3BAMoreNudeForVSU)
+- Ignoble Beds - A Noble and Upper Class Bed Replacer
+- Ignoble Beds - Use Those Blankets patch
+- ImGui Icons
+- ImGui Icons - Untarnished UI
+- Immersive Aggressive Opponents
+- Immersive Armors - Asdasfa Tweaks and Fixes - ISC
+- Immersive Barrels - Base Object Swapper
+- Immersive Fishing
+- Immersive Follower Stripping
+- Immersive Interactions - Eating ingredients and apply poison animations
+- Immersive Interactions - Integration Patch
+- Immersive Weapons - Silver Perk Disabler
+- Imperial Legion moveset
+- Imperial Legion moveset - Tweaked Conditions
+- Imperium Combat Animations for Breton and Imperial Races
+- Improved Camera - Sacrosanct patch
+- Improved Camera Patch Collection - Sacrosanct
+- Infiltration - Quest Expansion
+- Infiltration - Quest Expansion - Lawless
+- Infinite Horse Stamina Out of Combat
+- Interesting NPCs Honed Metal Patch for Isobel
+- Invisible Troll Fix
+- Items Stolen Bug Fix
+- Ivory Bow SE
+- J3 Noble Pervert 3BA
+- Jeremiah The Necrotic Master (Project Skyrim) Goth Male Dark Elf Preset
+- Junk It
+- Kanjs - AIO Soup and Stew Gourmet Patch
+- Kanjs - Beef and Human Flesh Animated and Beating Motion
+- Kanjs - Books AIO Animated (SkyPatched)
+- Kanjs - Briar Heart Beating and Animated
+- Kanjs - Chaurus Eggs Animated and Motion
+- Kanjs - Daedra Heart Animated and Beating Motion
+- Kanjs - Death Hound Animated
+- Kanjs - Draw Knife Animated
+- Kanjs - Ectoplasm Animated
+- Kanjs - Focusing Crystal Animated
+- Kanjs - Heart Animated and Beating Motion
+- Kanjs - Heart Stone Beating and Animated
+- Kanjs - Mace of Molag Bal Animated
+- Kanjs - Potion of Blood Animated
+- Kanjs - Sanguine Rose Animated
+- Kanjs - Soup and Stew AIO Animated (SkyPatched)
+- Kanjs - Soup and Stew All In One Animated
+- Kanjs - Spriggan Sap Animated
+- Kanjs - Taproot Animated and Beating Motion
+- Kanjs - The Watcher Series - Scythe and Sickle - 1k - 2k- 4k - Daedric Replacer - Standalone - Particle Lights ENB
+- Koralina's Aesthetics - Hair Collection - SMP
+- Lactis - OStim Lactation Addon
+- Lawbringer I Halberd moveset for NPCs (MCO I SCAR)
+- Lawless - CotH - Patch
+- Lawless - Modpocalypse - Patch
+- Legacy of Ysgramor - 3BA Bodyslide
+- Legacy of the Dragonborn - Markarth Snazzy Patch
+- Legacy of the Dragonborn - Xelzaz Follower Display Patch
+- Lepidoptera - More Butterflies and Moths
+- Leviathan Animations II - Greatsword MCO Moveset
+- Leviathan II Greatsword - Tweaked Conditions
+- Lightened Skyrim - Base Object Swapper edition
+- Liliane - Custom Follower Ysolda and Remiel Replacer (Racemenu Face Preset) (3ba)(High Poly Head)(Bijin Skin) ESL Flagged
+- Lion Guard Weapons and Armor Pack (CBBE - HIMBO)
+- Lion Guard Weapons and Armor Pack (CBBE - HIMBO) - SkyPatcher
+- Lion Guard Weapons and Armor Pack (CBBE - HIMBO) - Update
+- LoY - SE by Xtudo - Armor Just for Kodlak SPID
+- LoY - SE by Xtudo - Color - Desaturated 2K
+- LoY - SE by Xtudo - LOTD Wolf Armor Set
+- LoY - SE by Xtudo - LOTD Wuuthrad and Shield
+- LoY - SE by Xtudo - Smaller Shields
+- Lod Model Library for DynDOLOD
+- Lux
+- Lux (patch hub)
+- Lux - Via (patch hub)
+- Lux Orbis
+- Lux Orbis (patch hub)
+- Lux Orbis - COTN Falkreath - G.I.R.T.H
+- Lyssia - a visual replacer
+- M2M Animations by Tweens for OStim SA - GROUP
+- M2M Animations by Tweens for OStim Standalone
+- MAGECORE - Thaumaturgy Consistency
+- MAGECORE - VSU for OStim (NG) Support
+- MAGECORE - hdt SMP (CBBE 3BA)
+- MCO - First Person Patch
+- MCO Block Recovery
+- MCO Blocking Footstep Fix
+- MCO DS3 Black Knight
+- MCO Smooth Input - Attack Cancel
+- MCO Universal Support
+- MCO(ADXP) ER Scimitar animation
+- Mace Animation - Tweaked Conditions
+- Mace Animation MCO I SCAR
+- Madmen - DBM - Patch
+- Madmen EEC - Dibella's Blessing - Patch
+- Magicka Flow - A Magicka Regeneration Overhaul
+- MaxsuBlockOverhaul
+- Maya The Golden Sword (Project Skyrim) Female Imperial Preset
+- Medieval Chests 2K-8K by iimlenny
+- Megara Nyr - High Poly Character Preset - RaceMenu
+- Mercenary Armor - 3BA
+- Mercenary Armor - ESL ESP
+- Mercenary Armor - UNP
+- Meridia's Order - Vigilant Synergy Patch
+- Mesh patches for Lux and Lux Orbis
+- Metzger-High Poly Head Male Racemenu Preset
+- MfgFix NG
+- Miggyluv's HIMBO Presets - Mesomorph
+- Mineorescript Switch Hub
+- Missives - Beyond Reach
+- Missives - Solstheim Patch
+- Misty Skye - Framed Flyers and Drawings
+- Misty Skye CBBE 3BA Patch
+- Modern Combat AI
+- Modern Stagger Lock
+- Modular Mage - CBBE 3BA - HDT SMP
+- Monster Mash
+- Monster Mash - Update
+- More to do in the Soul Cairn
+- Mourning Souls- Mihail Monsters and Animals (SE-AE version) (''dark souls'')
+- Murder of Songbirds
+- Murmurs and Mead
+- Mute Level Up Sound - MLUS
+- Mysteries of the Dwemer - Quest Mod
+- NFF Moving Boats
+- NGArmor - My patches - Fixes ESL - SE-AE
+- NPC Infinite Block Fix
+- NPC Infinite Block Fix - SkyPatched
+- NPC No Block - Exhaustion
+- NPCs Take Cover - Smarter Anti-Cheese AI
+- Narrative Gameplay Consistent Dialogue Tweaks - Lovely Letter
+- Native EditorID Fix
+- Natural Beauty Makeup - Racemenu Overlays
+- Natural Waterfalls - LFFGM
+- Natural Waterfalls - Water for ENB Patch
+- Natural Waterfalls Water Addon - Flow Direction Edit
+- Navigator Patch Collection
+- Nefia - High Poly Head Imperial Racemenu Preset
+- Nemesis v0.84 Bugfixes
+- Nether's Ninara
+- Neutral Whiterun Guards
+- New Animation for Magic Casting (OAR version)
+- New Creature Animation - Falmer
+- New Creature Animation - Frost Atronach
+- New Creature Animation - Giant
+- New Creature Animation - Lurker
+- New Creature Animation - Troll
+- New Creature Animation - Werewolf
+- New Creature Attack Animation - Riekling and Goblin
+- New Draugr Unarmed Attack Animation
+- Nezzar's Ult Lingerie Collection 2.0 - CBBE-TBD-BHUNP SE
+- NezzarULC (3BAMoreNudeForVSU)
+- Ninara - Exterior Start Patch
+- No Daedric and Dragon items on Leveled List - SkyPatcher Patch
+- No Daedric and Dragon items on Leveled List - SkyPatcher Patch for Animated Armoury
+- No Large Recoil
+- No Numpad Hotkeys SE and AE
+- No Recoil
+- No Regen Delay
+- No Stagger Animations No Stagger Camera
+- Noble Furniture
+- Noble Furniture BOS Addon 2K
+- Noble Furniture Enhanced - Quality Addon
+- Nobushi I Spear moveset for NPCs (MCO I SCAR)
+- Nordic Combat Animations for Nord and Orc
+- Nordic Farmhouse Walls 2K
+- Nordic Stonewall Terraces
+- Nordic Stonewalls Version 2 BOS Update
+- Nordic Winds
+- Northern Roads - Floating Objects Fix
+- Northern Roads - Floating Objects Fix - Lux Via
+- Northern Roads - Floating Objects Fix - SLaWf
+- Northern Roads - Landscape Fix and Improvement
+- Northern Roads - Lux Via - LFFGM patch
+- Not too Big Not too Small - 3BA BodySlide Preset
+- O Skyrim Has Insane Traps
+- OBody Next Generation ORefit JSON Master List
+- OInflation
+- OLycanthrope - No Orgies in Jorrvaskr
+- OSL Keywords (KID) - Various Armor Patches
+- OStim Improved Camera Configuration
+- OStim Romance - NPCs Exclude Lists
+- OStim SA Official Icon Patch for OARE and OA3PP
+- OWL - Immersive Weapons - No Daedric and Dragon
+- OWL - Immersive Weapons - Skypatched
+- Obi's Common Outfit 3BA 2K
+- Obi's Eclipse Seductress 3BA 2K
+- Obi's HeadHunter Armor 2K
+- Obi's HeadHunter Armor 2K - HIMBO
+- Obi's HeadHunter Armor 2K - Update
+- Obi's Masquerade Outfit 3BA 2K
+- Object Categorization Framework
+- Obscure College of Winterhold and Sunhelm - Water Source Patch
+- Offset Movement Animation - Nemesis - Modders Resource
+- Ogres and Ettins- Mihail Monsters and Animals (SE-AE version)
+- Old People Sounds All In One
+- Olivier Magic Casting
+- OnMagicEffectApply Replacer - Ordinator Addon
+- One Click Power Attack NG
+- Open Animations 3PP
+- Open World Loot - SkyPatched by SICreef
+- Optimised Scripts for Enhanced Blood Textures
+- Ordinator - Settings Loader
+- Owls Patching Nest - Valhalla Combat - More Race Compatibility Patches
+- PBB Addons
+- POISE - Stagger Overhaul SKSE
+- Paraglider Fix
+- Paraglider Replacers 2k-4k
+- Paragliding Vampire Werewolf Patch
+- Paraphernalia VRAMr Engine (MO2)
+- Paraphernalia VRAMr v8.21 All In One
+- Parrying RPG
+- Patch_for_TREBoy_resqueeze
+- Paulicus Poison Block (PPB) Updated
+- Payload Interpreter - Nemesis Less Patch
+- Persistent Favorites
+- Petite to Plenty - 3BA Preset
+- Petite to Plenty - A CBPC Config for Realistic Collisions and Physics v8.3
+- Photo Mode - Untarnished UI Patch
+- Pickpocket bug fix
+- Piercings of the Divines - CBBE 3BA - Slot 60
+- Pinewood Tone - Forest Ambience Track (SRD)
+- Pirate-King - A Velehk Sain Overhaul and Expansion
+- Pirate-King - A Velehk Sain Overhaul and Expansion - Finding Velehk Sain Patch
+- Pirate-King - A Velehk Sain Overhaul and Expansion - Lawless
+- Player Character Gestures (OAR)
+- Poisebreaker - A Poise Mod Addon
+- Pretty Combat Animations - Spell Master (SE)
+- Pretty Combat Animations - Spell Master (SE) - Staff
+- Project ja-Kha'jay - Patch Collection
+- Quests Award Perk Points - Patches
+- Quieter and Ambient Otters for Otters SE
+- RDO - FDE Compatibility Patch
+- RSV_Exclusion_Patches
+- Rainbows Remade
+- Rainbows Remade - Hotfix
+- Rainbows Remade - No Notifications
+- Rainsong
+- Rally's Banners of Skyrim
+- Rally's Banners of Skyrim - LOTD
+- Rally's Banners of Skyrim - Northern Roads
+- Rally's Banners of Skyrim - Vigilant
+- Rally's Banners of Skyrim - Wyrmstooth
+- Rally's Barsets
+- Rally's Butterflies Moths and Torchbugs
+- Rally's Butterflies Moths and Torchbugs - ENB Light - Green Moth
+- Rally's Butterflies Moths and Torchbugs - ENB Light - Torchbug
+- Rally's Common Furniture
+- Rally's Common Furniture - Animated Coffins - Skeleton HD Replacer
+- Rally's Dark Elf Furniture (High Poly - ENB Light)
+- Rally's Handcarts
+- Rally's Jorrvaskr Carpetry 2K
+- Rally's Noble Furniture - Use Those Blankets
+- Rally's Noble Furniture 2K
+- Rally's Orc Furniture
+- Rally's Thrones
+- Rally's Upper Furniture
+- Random Tawoba Realistic and Squeeze Bodyslides
+- Random death animation
+- Randomized One Handed Block and Idle Animations - DAR - SE
+- ReSqueeze - TAWOBA Ebony CBBE 3BA
+- ReSqueeze - TAWOBA Elven CBBE 3BA
+- ReSqueeze - TAWOBA Falmer CBBE 3BA
+- ReSqueeze - TAWOBA Hide CBBE 3BA
+- ReSqueeze - TAWOBA Iron CBBE 3BA
+- ReSqueeze - TAWOBA Leather CBBE 3BA
+- ReSqueeze - TAWOBA Nordic Carved CBBE 3BA
+- ReSqueeze - TAWOBA Nordic Plate CBBE 3BA
+- ReSqueeze - TAWOBA Orcish CBBE 3BA
+- ReSqueeze - TAWOBA Steel CBBE 3BA
+- ReSqueeze - TAWOBA Wolf CBBE 3BA
+- Relaxed Sneak Animations
+- Relentless
+- Remarks of Dragonborn
+- Remove Hanging Moss From Trees
+- Remove Treasure from Creatures - SkyPatcher
+- Renthal311Art-wooden chest01
+- Revenant Spirits of the Soul Cairn
+- Ribbit Remix
+- Rich Skyrim Merchants - SkyPatched
+- Riften Docks Overhaul - Animated Ships
+- Riften Docks Overhaul - Diverse Catches Patch
+- Riften Docks Overhaul - High Poly Head
+- Riton Mountain
+- Roaring Words
+- Robes Retexture SE
+- S.M.C. - SKYRIM MOTION CONTROL - MCM
+- SCAR - Skyrim Combos AI Revolution
+- SDA OStim Standalone Patch
+- SRC - Embers XD Patch
+- SWAP - SkyKing Unique Signs
+- Sa'chil Follower - Interesting NPCs
+- Sa'chil Follower - Minor Fix
+- Sacrosanct - Fertility Mode Integration
+- Sacrosanct - USMP - Patch
+- Sanctified Steel - Keyword Tagger Only
+- Sandwiches of Skyrim - Eating Animation and Sounds (EAS) Patch
+- Sandwiches of Skyrim - Gourmet
+- Sanguinum - Vampire Magic SFX
+- Sanguinum - Vampire Magic SFX - Sacrosanct
+- Savior's Hide Replacer
+- Scaleform Translation Plus Plus NG
+- Scarlet - Racemenu Preset
+- Schlong and elder body normal fix
+- Schlongs of Skyrim SE - Settings Loader - FP
+- Sconces of Solitude - Unique Solitude Braziers - Base Object Swapper
+- Scythe Of The Crow Mother
+- Scythe of The Forsworn
+- Sekiro Bandit animations - Tweaked Conditions
+- Sekiro Combat S
+- Sekiro Combat S - POISE Compatibility Patch
+- Sekiro_Combat_S
+- Sentinel - Base Patch
+- Sentinel - Patch Collection
+- Serana Witcher Horse Expansion patch
+- Serpent's Pit - Crash Fix
+- Service Everywhere
+- Shadows Over Ilinalta
+- Shadows Over Ilinalta - Falkreath Tower Lite
+- Shadows Over Ilinalta - Ryn's Standing Stones Patch - Disable Ryn's Lady Stone
+- Sheriah - The Foxglove - High Poly Female Bosmer Preset
+- Sheriah - The Foxglove - Version 2
+- Ships on the Horizon - Animated Smaller Ships
+- Shouting Provokes Dragons
+- Shrubbry Symphony - Enhanced Greenery
+- Siblings of Sales - Quest Mod
+- Siege at Icemoth - Fishing and Survival
+- Simple Beheading - NG
+- Simple Body Cleaner
+- Simple NPC Dodge In Determined Level
+- Simple Npc Dodge
+- Simple Obvious Spell-Crafting 2 - craft forget relearn spells
+- Simple Single _ Double Bedrolls for all
+- Simplest Horses (and other mounts)
+- Simplest Horses - Animated Whistling Patch
+- Simplicity of Stalking - Automatically Follow NPCs
+- Simply Open Source Voice Pack
+- Skeleton Replacer HD - Trophy - Fix
+- Skill of Sneaking
+- Skimped - Vanilla Picks
+- Skimped - Vanilla Picks - Royal Vampire Robes SMP
+- Skoglendi - Fixed
+- Skoglendi - Fixes and Tweaks
+- Skoll - Werebeast SFX Overhaul
+- Skull Caves
+- Sky Reflection Fix
+- SkyPelt Better Hunting Items - SkyPatcher
+- SkyTitties Armor Standalone
+- SkyValor
+- SkyValor - 4thUnknown's Creatures
+- SkyValor - Animallica Lore Edition Redux
+- SkyValor - Beyond Reach
+- SkyValor - Darkend
+- SkyValor - Saints and Seducers
+- SkyValor - Unofficial Misc Race Patches - Attacko's Daedra 2
+- SkyValor - Vigilant
+- SkyValor Dead and Daedric Guardian Patchs
+- Skyfall's Sleeping Hist Tree Overhaul
+- Skyfall's Sleeping Hist Tree Overhaul - Embers XD
+- Skyfall's Sleeping Hist Tree Overhaul - Nocturnal Moths
+- Skyking Signs
+- Skyking Signs - Interesting NPCs
+- Skyking Signs - LotD Sign
+- Skyking Unique Signs
+- Skyrim 3D Furniture
+- Skyrim Ferries
+- Skyrim Ferries - Author Patches - Animated Ships
+- Skyrim Ferries - Author Patches - Lux Patch
+- Skyrim Ferries - Author Patches - Riften Patch
+- Skyrim Ferries - Siege at icemoth
+- Skyrim Food Expansion - 2K
+- Skyrim Food Expansion - Higher Patches
+- Skyrim Food Expansion - Patches Collection
+- Skyrim Landscape and Water Fixes
+- Skyrim Priority SE AE - skse plugin - Custom Value
+- Skyrim's Paraglider
+- SkyrimGuild Creatures - Preview
+- SkyrimUpscalerFGBuildAlpha
+- Sleep for me now
+- Slow Sprint Equip Bug Fix
+- Smaller Cathedral 3D Plants
+- Smart NPC Potions - Enemies Use Potions and Poisons
+- Smooth Moveset
+- Smooth Random Blocking Animation 3.0
+- Smooth Random Equip Animation - My DAR conditions SE
+- Smooth Random Equip Animation(1H)
+- Smooth Random Equip Animation(2H)
+- Smooth Random Equip Animation(Dagger)
+- Smooth Random Equip Animation(Unarmed)
+- Smooth Random Magic idle Animation
+- Smooth Staff Animation
+- Smooth Weapon Jump Animation
+- Smoothcam - Toggleable H.O.R.N.I Presets
+- Snow Hares
+- Snowdon's Chopper - Standalone Greatsword
+- Snowy Carts for Snowy Regions
+- Snowy Ships for Snowy Regions
+- Snozz's Resource Pack
+- Snuggly Laydown - Campfire Spooning Patch
+- Snuggly Vanilla Laydown Idles - (DAR - OAR Variance)
+- Sonderbain's Chevalier - Randomized One Handed Block Animations
+- Sons of Nirn - Guards Armor Replacer - IW - Patch
+- Sons of Nirn - Guards Armor Replacer - Patch
+- Sons of Nirn - IW - Patch
+- SoulCalibur VI Kilik I Quarterstaff moveset (MCO I SCAR)
+- Spell Knight Armors Retexture SE
+- Spell Level Automatic Adjusted Description (SLAAD) - SKSE
+- Spell Perk Item Distributor
+- Stacks of Septims - 3d Coin Piles
+- Stagger Effect Fix
+- Static Swaps Variety - AIO
+- Stay In The Fight - A Death Alternative
+- Stormcloak Officer Bikini Armor B.O.O.B.I.E.S Support
+- Stormcloak Officer Bikini armor 3BA HDT-SMP - Tawoba add-on
+- Stormcloak Officer Bikini armor 3BA HDT-SMP - Tawoba add-on - Bodyslide Groups
+- Stormcloak Officer Bikini armor 3BA HDT-SMP - Tawoba add-on - Crafting Book
+- Stormcloak Officer Bikini armor 3BA HDT-SMP - Tawoba add-on - SOS
+- Stormcloaks Bikini Armor B.O.O.B.I.E.S Support
+- Stormcloaks Bikini armor 3BA HDT-SMP - Bodyslide Groups
+- Stormcloaks Bikini armor 3BA HDT-SMP - Crafting Book BOS
+- Stormcloaks Bikini armor 3BA HDT-SMP - KID SOS
+- Stormcloaks Bikini armor 3BA HDT-SMP - Tawoba add-on
+- Strange Runes Compatibility - KID Mini-Update
+- Stress and Fear - A Dynamic Sanity System
+- Stress and Fear - A Dynamic Sanity System - Settings Loader
+- Su-yeon Nyr - High Poly Character Preset - RaceMenu
+- Subdivide and Smooth - Frost Atronachs
+- Subdivide and Smooth - Frost Atronachs - Ancient Atronachs
+- Subdivide and Smooth - Storm Atronachs
+- Subtitles
+- Sukuna (Yuji) Preset - Male - Breton - High Poly Head - RaceMenu
+- SunHelm Survival
+- SunHelm Survival - Compatibility Patches
+- SunHelm Survival and needs - Settings Loader
+- SunHelm_Food_Keyword_SkyPatcher_
+- Sunhelm - Experience Patch
+- Sunhelm - Simple weather icons
+- Sunhelm Magical Heat Sources
+- Sweets and Such - Sunhelm Patch
+- Swor's Valhalla Combat KillCam Patches
+- Sword of Kings
+- TK Dodge For RE
+- TK Dodge RE
+- TMD Epic Waterfalls
+- TMD The Rift Leaves
+- TMD Winery
+- TOBIRAMA movest (just scar)
+- Take a Nap - Sleep on Chairs
+- Talkative Falmers - Mihail Monsters and Animals (SE-AE version)
+- Tawoba 6.1 unofficial tweaks and fixes
+- The Amazing World of Bikini Armor (TAWOBA) - Ebony Guantlet and Boots Edit
+- The Beast - Jorrvaskr Companion Werewolf Transformation
+- The Books of Necromancy
+- The Erotic Adventures of Misty Skye
+- The Handy Icon Collection Collective
+- The New Stormcloaks (DAR MCO)
+- The Serpent's Covenant - Quest Mod
+- The Shivering Bestiary - Summonable ECSS Creatures for Mysticism
+- Thieves Guild - Accept All Radiant Quests Patch
+- Thieves Guild Alternative Endings
+- Thistlefoot Is Totally Stable (Actual Auri Mount Fix)
+- To Your Face SE - AE - VR
+- To tame a horse
+- Tobirama Dagger - Tweaked Conditions
+- Trap Needs to be Real Trap
+- Trophy - Rim Light Fix
+- Trophy - Rim Light Fix - Bears of the North
+- True Directional Movement - Modernized Third Person Gameplay
+- Tsetsa - kewt and realistic face preset
+- ULPS - Happy Little Trees Patch (BOS)
+- Ultimate Animated Potions NG
+- Ultimate Animated Potions NG - ElSopa - Potions Redone patch
+- Ultra Enemy
+- Ultra Weapons
+- Ultra Weapons - Balancements and tweaks
+- Unfaltered Virtue - A Penitus Oculatus Story
+- Unmarked Locations Pack
+- Unmarked Locations Pack - All In One
+- Unmarked Locations Pack - All In One - Description
+- Unmarked Locations Pack - Fixes
+- Unmarked Locations Pack - Forgotten Vale
+- Unmarked Locations Pack - G I R T H Patch
+- Unmarked Locations Pack - Lux Via Patch
+- Unmarked Locations Pack - Praedy's Soul Cairn - Soul Husks Patch
+- Unmarked Locations Pack - Solstheim
+- Unmarked Locations Pack - Solstheim - Description Addon
+- Unmarked Locations Pack - Soul Cairn
+- Unmarked Locations Pack - Soul Cairn - Custom Ruins patch
+- Unmarked Locations Pack - Sovngarde
+- Unmarked Locations Pack All In One - Patch Hub
+- Unplayable Faction Armor ENB
+- Unplayable Faction Armors - VIGILANT Voiced English Addon Patch
+- Untarnished UI - Casting Bar 3 Patch
+- Untarnished UI - Favorite Menu Consistency Fix
+- Untarnished UI - Oxygen Meter 2 Patch Updated
+- VSU for OStim (NG) - Enhanced Undressing
+- VSU for OStim (NG) - Enhanced Undressing - IFS Config
+- VSU for OStim (NG) - Enhanced Undressing - ULC Config
+- VSU-IFS-ULC-ConfigMoreNude
+- VSUI - Vampire Stage UI
+- VSUI - Vampire Stage UI ESL (plugin only)
+- Valandor (Altmer High Elf Male High Poly Preset)
+- Valhalla Combat
+- Valhalla Combat - Backstab Bug Fix
+- Valhalla Combat - Parry Sound Fix
+- Valhalla Combat - Race Addons
+- Valhalla Combat Execution Compatibility patches
+- Valhalla Combat Parry Sounds Replacer
+- Valkyrie I Sword and Shield moveset for NPCs (MCO I SCAR)
+- Valravn - Integrated Combat of Skyrim
+- Valravn SPID Uncloak
+- Valvalis Combat - Visceral Tactics
+- Vamilla Nyr - High Poly Character Preset - RaceMenu
+- Vampire Armor Expansion - SPID
+- Vampire Armor Expansion-3BA BodySlide
+- Vampire Claws I Unarmed moveset for vampires (MCO I SCAR)
+- Vampire Clothing Expansion
+- Vampire Clothing Expansion - SPID
+- Vampire Clothing Expansion-3BA BodySlide
+- Vanargand Animations II - Unarmed MCO Moveset
+- Vanargand Animations II - Unarmed Non Combat Locomotion
+- Vanargand II Unarmed - Tweaked Conditions
+- Vanguard - Bash Behaviours Updated
+- Vanilla Amulet textures Upscaled and added Env maps
+- Various States of Undress (VSU) Framework
+- Vendor Carts - Animated
+- Vigilant - re-enable beam strikes for MCO and SkySA
+- Viking Armor Collection
+- Viridian Knight (Skimpy Standalone) - Recolored
+- Viridian Knight - Recolored
+- Viridian Knight - Recolored - 2k Textures
+- Viridian Knight - Recolored - ENB Dynamic Cubemaps
+- Vorono's Bauernwehr
+- Wait Your Turn - Enemy Circling Behaviour
+- Wait Your Turn a la SOT patch only
+- Wandering Summoner outfit (3BA SMP)
+- Warden I Greatsword moveset for NPCs (MCO I SCAR)
+- Water for ENB - Lux
+- Water for ENB - Patch - Lux - JK's Ragged Flagon
+- Water for ENB Shades - Lux
+- Water in Wells - mesh-only animated wells
+- Water in Wells Downscale
+- Wayward Knight Set
+- Wayward Knight Set - Cubemap ENB
+- Wayward Knight Set - NecDazFeet Patch
+- Weapon Speed - IPM
+- Weathered Dark Elf Furniture Retexture - Brown - 2K
+- Weathered Furniture - Common and Upper Class - 4K - 2K
+- Wenches with a View
+- Wenches with a View - ULC
+- Werewolf Animation Extension (DAR)
+- Werewolf Transformation Timer - SkyUI Addon
+- Whales Off The Coast
+- Whispering Tomes of Apocrypha
+- WiZkiD Hunter's Camp Overhaul
+- Wildwood Echoes
+- Witcher Horse Expansion
+- Witcher Horse Expansion - Patches
+- Witchy - Lovely Valentine
+- Wolfcry Armor SE by Xtudo - Improved Camera patch
+- Xocco3's Mead Replacer (Animated)
+- Xocco3's Mead Replacer (Animated) - SkyPatched
+- Xocco3's Mead x EAS (Optional Gourmet)
+- Xocco3's Mead x EAS (Optional Gourmet) - Gourmet
+- YAR - Yuril's Additional Resources
+- YY Animation Replacer - Mystic Knight (OAR version)
+- You Got Caught - Skyrim Reputation patch
+- Ysmir Armor - SE by Xtudo - Atmoran Fix Craft ESL
+- Ysmir Armor - SE by Xtudo - Fixes Companions ESL
+- Ysmir Armor SE
+- Ysmir Armor SE - Battleaxe
+- Ysmir Armor SE - Textures
+- ZAP - ADXPMCO
+- ZAP - Tweaked Conditions
+- Zhang Fei Nyr - High Poly Character Preset - RaceMenu
+- [Ashtoreth] Duskrogue Armor
+- [COCO] Pinup Cheongsam
+- [Dint999] BDOR Hairs SSE 0.13
+- [Melodic] Assassin Sister
+- ahz Wayward Knight SMP Update
+- aljo's Artificer Patches
+- dTry Plugin Updates
+- hdt smp female amulets and necklaces vanilla replacer
+- sekiro NPC bandit animation (SCAR)
+- slightly Better EVIL Rock Cairns
+- slightly Better EVIL Rock Cairns - textures patch
+- slightly Better Hagraven Feathers
+- slightly Better Hagraven Feathers 1K textures
+- slightly Better Nordic Burial Cairns
+- slightly Better Rock Cairns Update 1.3 Parallax
+- slightly Better Sabre Cat Eyes
+- slightly Better Sabre Cat Eyes - 1K textures
+
+# Removed
+
+- - (DAR)More Ritho-ish Giant Animations SE
+- 3BA 3BBB CBPC Realistic Firm Breasts Butt Belly and Thighs (3BA RFBBBT)
+- 3BA Vanilla Clothes and Armor
+- 3rd Person Camera Stagger Remover
+- ADXP l MCO Desert Race Animation Complete Pack - Redguard and Khajiit Only
+- ADXP l MCO Imperium Animation Complete Pack - Breton and Imperial Only
+- ADXP l MCO Nordic Animation Complete Pack - Nord and Orc Only
+- Airgetlam - Shouts SFX -
+- Akasha The Cold Blooded Vampire (Project Skyrim) Goth Nord Female Preset
+- Anastasis the Necromage Project Skyrim preset
+- Animated Armoury - Precision Whips Patch
+- Apothecary - Wyrmstooth Patch
+- Arctic - Frost Effects Redux
+- Aroused KID Patch - COCO Caress of Venus
+- Aroused KID Patch - COCO Goddess of War
+- Aroused KID Patch - COCO Scarlet Rose
+- Aroused KID Patch - Dovakini Armor
+- Aroused KID Patch - Sovngarde Steel Armor
+- Aroused KID Patch - The Amazing World of Bikini Armors REMASTERED
+- Artifact of Might
+- Artifact of Might ( ESL )
+- Artifacts - The Ice Blade of the Monarch [SSE]
+- Artificer - Somewhere In Between
+- Attack MCO-DXP
+- Attacko's Daedra 2
+- Auri - Dismount AI fix
+- Axarien's Animations - Auri
+- Axarien's Animations - Lucien (DAR)
+- Azaelen The Demon Hunter (Project Skyrim) Goth Dark Elf Female Preset
+- Azazel the Rogue Project Skyrim preset
+- Backpack Repositioner
+- Beating Daedra Sound Mod (Plus Animated Heart Mesh - ENB Light)
+- Better Blended Mushrooms
+- Better Butterflies
+- Better SkyUI Config - Reading Fix
+- Blackreach Railroad
+- Blackreach Railroad - The Blackest Reaches Patch
+- Bloodskal Blade - Tweaks and Enhancements
+- Bloodskal Tweaks and Enhancements - Horizontal Strike for MCO and SkySA
+- BnP - RSV patch hotfix
+- BnP No frostnip leg fix (CBBE only)
+- BnP RSV sk fix
+- BnP male extra specular for SOS full and RBT
+- BnP missing files and fixes for RSV patch
+- Bob The Lizard (Project Skyrim) Argonian Male Preset
+- Body Slots - SkyUI and Immersive Jewelry Configuration patch
+- Book Covers Skyrim - Normal map FIX
+- Butterflies Land True
+- Buxom Wench RSV Exclusion Patch
+- Buxom Wench Yuriana
+- CC's UHD Stalhrim Weapons and Armor
+- Cannibalism Expanded - Eating Animations and Sounds SE - PATCH
+- Capeless Vampire Royal Robes
+- Cassia The Fel Vampire (Project Skyrim) Goth Breton Female Preset
+- Catalina The Lone Wolf (Project Skyrim) Wood Elf Female Preset
+- Cathedral - 3D Tundra Shrubs
+- Chicks - Mihail Animal Fluffy
+- Chocolate Poise
+- Chocolate Poise - Stoppage of Staggerlock
+- Chocolate Poise Plus - Addons and Rebalancing
+- Clean KillCam
+- Combat Music Fix SKSE
+- Comprehensive First Person Animation Overhaul - CFPAO
+- Craftable Horse Barding
+- Curated Bosses for True HUD
+- DAR - Dynamic Swimming
+- DBM iceBlade Replica
+- DX Faction Crossbows - Penitus Oculatus Patch
+- Darkend
+- Darkend - Enemy Rebalance
+- Disable Vanilla Screenshot
+- Dragons Use Thu'um - Patch for Deadly Dragons
+- Draugr MCO Animation Collection
+- Draugr MCO enabled
+- Dummy Animation SCAR - OAR
+- DynDOLOD Resources SE
+- Dynamic Block Hit
+- Dynamic Dodge Animation
+- Dynamic Enhance Enemy Attributes
+- Dynamic Enhance Enemy Attributes - Config
+- Dynamic Enhance Enemy Attributes - Vigilant Patch
+- Dynamic Feminine Female Modesty Animations OAR
+- Dynamic Feminine Female Modesty Animations OAR - Nexus Modesty KID
+- Dynamic Killmove - Pike
+- ESO The Breton Knight HDT-SMP
+- Eating Animations - Fishing - Apothecary Patch
+- Eating Animations - Patch Collection
+- Eating Animations - Sweets and Such or Xelzaz
+- Eating Animations and Sounds - NPC Follower - Patch
+- Eating Animations and Sounds SE
+- Eating animations - My HD version SE
+- Edgemaster Animations For MCO
+- Elden Sprint
+- Elder Creed - Valhalla Axe Moveset AIO For PS
+- Enemies Can't Block While Exhausted
+- Environs - Riften Warehouse - Lux Patch
+- Enya The Winter's Majesty (Project Skyrim) Breton Female Preset
+- FYX - Solitude Arch
+- FYX - Water Splash
+- Far Object LOD Improvement Project SSE
+- Farah The Ruthless (Project Skyrim) Goth Imperial Female Preset
+- Fishing - Voiced Narrative
+- Fix NPC Permablock
+- Fix Note icon for SkyUI (SKSE64 plugin)
+- Fix blocking move
+- Fixed Nordic Metal Grate
+- Fluted Armor - SE by Xtudo - 3BA Gauntlets patch
+- Fluted Armor - SE by Xtudo - HIMBO Gauntlets patch
+- For Honor in SKYRIM I Conqueror - Mace and Axe Animation Replace For PS
+- Frankly HD Dragonbone and Dragonscale - Armor and Weapons
+- Gloria The Holy Angel (Project Skyrim) Breton Female Preset
+- Goetia Animations - Conditional Shouts
+- Goetia Animations - Sneak Magic
+- Gourmet - EAS - Sweets and Such patch
+- Gourmet - Eating Animations And Sounds Patch Combination Bundle
+- Gourmet - Eating Animations and Sounds Patch
+- Gourmet - Wyrmstooth
+- Greatswords Kill Animations
+- Guards Pose with Weapons
+- Hanging Dead Chickens- Mihail's Shards of Immersion (SE-AE)
+- Hanging Dead Pheasants Replacer- Mihail's Shards of Immersion (SE-AE)
+- HeadpartWhitelist
+- Hecate The Blood Moon (Project Skyrim) Goth Imperial Female Preset
+- Hellia The Lava Blood Atronach (Project Skyrim) Imperial Female Preset
+- High Poly Wyrmstooth
+- Hokoron - Difficulty Addon
+- Horker by Pfuscher
+- I4 - SkyUI Weapons Pack
+- I4 Weapon Icons Overhaul
+- I4 Weapon Icons Overhaul - BOOBIES Patch
+- IA Asdasfa - Immersive Sounds Compendium Patch by Glanzer
+- Igniting animation for Campfire
+- Immersive Hunting Animations
+- Improved Camera OStim SA configuration
+- Improved Camera Patch Collection - Sacrosanct
+- Improved Follower Dialogue - Lydia
+- Improved River Sound
+- Infinite Stamina Out of Combat
+- Invisible Troll Fix
+- Irisuke - The Reaper Of Souls (Project Skyrim) Dunmer Female Preset
+- JK Body Collection - 3BA Bodyslide presets
+- Julia The Unknown (Project Skyrim) High Elf Female Preset
+- Kaputt - Melee Killmove Manager
+- Keep the Skeleton Key - Deceive Nocturnal (For Legacy of the Dragonborn)
+- Know Your Enemy 2 - Armors
+- Know Your Enemy 2 - Enemy Resistance and Intelligence Rework
+- Know Your Enemy 2 - Integration Patch
+- Know Your Enemy 2 - Integration Patch - Settings Loader
+- Know Your Enemy 2 - Unofficial Monster Patches
+- Large Stagger Animation
+- Lavia The Cute Dragonborn (Project Skyrim) Cute Breton Female Preset
+- Leather Armors Retexture CBBE 3BA Bodyslide Patch
+- Legacy of The Dragonborn - Cube Maps Fixed
+- Legacy of the Dragonborn - Blackreach Railroad unofficial patch
+- Legacy of the Dragonborn - Ryn's Snazzy Last Vigil - Ebony Warrior Overhaul Patch
+- Legacy of the Dragonborn Private Armory
+- Leisha The Defiler (Project Skyrim) Nord Female Preset
+- Lepidoptera - More Butterflies and Moths
+- Lerna The Hellish Warrior (Project Skyrim) Dark Elf Female Preset
+- Leviathan Animations II - Greatsword Sneak Locomotion And Attacks
+- Location Aware Container Loot
+- Lod Model Library for DynDOLOD
+- Lux
+- Lux Base ESP
+- Lux COTN Dawnstar patch update
+- Lux COTN Morthal patch update
+- Lux Orbis
+- Lux Orbis - COTN Falkreath - GIRTH Patch
+- Lux Orbis Base
+- Lux main plugin small update
+- Lydia - I'm Talkin Here
+- Lydia - SDA
+- Lydia - UnLux
+- Lydia Remake HDT Improved Follower Dialogue - Lydia Patch
+- MCO Block Recovery
+- MCO Universal Support
+- Main Menu Customizer
+- Main Menu Customizer - Example
+- Majestic Mountains - More Accurate Collision
+- Majestic Mountains - More Accurate Collision - AME Patch
+- Majestic Mountains - Simplicity of Snow Patch
+- Majestic Mountains LOD
+- Majestic Mountains Main
+- Male head sk seam fix
+- MaxsuBlockOverhaul
+- Medieval Chests 2K-8K by iimlenny
+- Mikan Eyes - Enhanced
+- MisterB's Skill Uncapper for Roleplayers
+- Mofu EldenRing Attack Animations Dual wield SE MCO For PS
+- Mortal Enemies - SkyPatched
+- Mysticism_poison_crash_fix_test_v2
+- NPC Parry Style Stagger animations(OAR)
+- NPC mage balance fix
+- Native EditorID Fix
+- Natural Waterfalls - Majestic Mountains Patch
+- New Creature Animation - Falmer
+- New Creature Animation - Frost Atronach
+- New Creature Animation - Giant
+- New Creature Animation - Lurker
+- New Creature Animation - Troll
+- New Creature Animation - Werewolf
+- New Creature Attack Animation - Riekling and Goblin
+- New Wispmother
+- No More Swimming In Air - Fixed Floating SwimIdle
+- No Recoil
+- No to Nocturnal
+- NordWarUA's ENB FIXED
+- Nordic Combat Locomotions Re standalone
+- Nordic Mountains
+- Nordic Non Combat Locomotions Re standalone
+- Northern God Armor - My patches - SE-AE
+- Northern God Armor by Xtudo OWL Patch
+- OBodies - 3BA Preset Collection
+- OBody NG Configuration Files
+- OBody Next Generation ORefit JSON Master List
+- OInflation
+- OSL Keywords (KID) - COCO Ahri Uniforms
+- OSL Keywords (KID) - COCO Caress of Venus
+- OSL Keywords (KID) - COCO Scarlet Rose
+- OSL Keywords (KID) - COCO Witchiness
+- OSL Keywords (KID) - Dovakini Armor
+- OSL Keywords (KID) - Fleet Knight Set
+- OSL Keywords (KID) - Mysterious Knight
+- OSL Keywords (KID) - Sharkish Piercings
+- OSL Keywords (KID) - The Amazing World of Bikini Armor
+- OSL Keywords (KID) - The Expanded World of Bikini Armor
+- OSmp - Automatic SMP physics toggle for OStim
+- Object Categorization Framework
+- One Click Power Attack NG
+- Open Animations Romance and Erotica - Improved Camera
+- Open World Loot - Encounter Zone and Loot Overhaul
+- Ophelia The Beggar Necromancer (Project Skyrim) Imperial Female Preset
+- Optimised Scripts for Enhanced Blood Textures
+- Opulent Robe Retexture 2K SE
+- Ordinator - No Timed Block
+- Owls Patching Nest - Valhalla Combat - More Race Compatibility Patches
+- PBB Addons
+- Paintings Remade - Legacy of The Dragonborn - Interesting NPCs - Wyrmstooth
+- Paraglider Fix
+- Paraglider Replacers 2k-4k
+- Paragliding Vampire Werewolf Patch
+- Paraphernalia VRAMr Engine (MO2)
+- Paraphernalia VRAMr v8.21 All In One
+- Paulicus Poison Block (PPB) Updated
+- Penitus Oculatus
+- Playable Draugr SSE
+- Plus Combat - A Modern Combat Overhaul
+- Practice Dummies - DTA Patch
+- QAPP - Wyrmstooth Patch SE
+- Quela The Exiled (Project Skyrim) Nord Female Preset
+- RSV - Teeth Variance (Standalone)
+- Rainbows 4K SE - Cleaned and Upscaled Textures
+- Rainbows SE
+- Rainbows over Waterfalls
+- Rally's Butterflies Moths and Torchbugs
+- Random Tawoba Realistic and Squeeze Bodyslides
+- Random death animation
+- Randomized One Handed Block and Idle Animations - DAR - SE
+- Ravens - Optimized textures SE-AE
+- Realistic Armor
+- Reina The Huntress of The Ocean (Project Skyrim) Wood elf Female Preset
+- Relaxed Sneak Animations
+- Remove All Ugly Dead Shrubs and Thickets
+- Remove Hanging Moss From Trees
+- Rich Skyrim Merchants
+- Ryn's Snazzy Last Vigil - An Ebony Warrior Overhaul - Warrior Overhaul
+- SC Horses - Mane Fix and CC Wild Horses Patch
+- SCAR - Skyrim Combos AI Revolution
+- SDA IFD Lydia Patch
+- SHINI Physics Config
+- Saints and Seducers - Mysticism Rebalance
+- Sandwiches of Skyrim - Eating Animation and Sounds (EAS) Patch
+- Sanguinum - Vampire Magic SFX (ALPHA)
+- Sania The Cold Flame Atronach (Project Skyrim) Goth Breton Female Preset
+- Saria The Living Curse (Project Skyrim) Goth Necromancer Female Dark Elf Preset
+- Scaleform Translation Plus Plus
+- Seamless Varied Masculine Idles OAR
+- Sentinel - Adamant Patch
+- Sentinel - Dremora Markynaz Armor
+- Sentinel - Dwemer Armor
+- Sentinel - ISC
+- Sentinel - Infantry
+- Sentinel - JS Armored Circlets
+- Sentinel - Lawless Patch
+- Sentinel - Lux Orbis Patch
+- Sentinel - Northern God
+- Sentinel - Open World Loot Patch
+- Sentinel - Wind Ruler
+- Serana Witcher Horse Expansion patch
+- Shadow of Skyrim - Nemesis Markers
+- Shadow of Skyrim - Nemesis and Alternative Death System
+- Shrubs Redone AIO
+- Silent Horizons 2 - Universal Core
+- Silver The Fallen Valkyrie
+- Simple Hunting Overhaul
+- Simple Hunting Overhaul - Eating Animations and Sounds Patch
+- Simple Npc Dodge
+- Simplest Horses (and other mounts)
+- Simplest Horses - Animated Whistling Patch
+- Simplest Witcher Horses
+- Simply Balanced
+- Simply Balanced - Settings Loader
+- SkyValor
+- Skyrim 3D Furniture
+- Skyrim Landscape and Water Fixes
+- Skyrim Motion Controk - My settings
+- Skyrim Objects SMIMed - Warmaiden's Holes
+- Skyrim Realistic Conquering - All In One - Hotfix
+- Skyrim's Paraglider
+- Slow Sprint Equip Bug Fix
+- Smaller Cathedral 3D Plants All In One - Version 1.4
+- Smart NPC Potions - Enemies Use Potions and Poisons
+- Smooth Moveset
+- Smooth Random Blocking Animation 3.0
+- Smooth Random Equip Animation - My DAR conditions SE
+- Smooth Random Equip Animation(1H)
+- Smooth Random Equip Animation(2H)
+- Smooth Random Equip Animation(Dagger)
+- Smooth Random Equip Animation(Unarmed)
+- Smooth Random Magic idle Animation
+- Smooth Staff Animation
+- Smooth Weapon Jump Animation
+- Snazzy Interiors - Morthal Falion's House
+- Somewhere in Between - 3BA Armor compilation replacer
+- Somewhere in Between - More Zap Sliders
+- Sonderbain's Chevalier - Randomized One Handed Block Animations
+- Song of the Green (Auri Follower) - VIGILANT
+- Sons of Skyrim 3BA Unibody Conversion ESL Plugin and Wrye Bash Tags
+- Sound For TK Dodge SE
+- Spell Organizer - Hide Remove Delete Erase Forget Spells
+- Spell Perk Item Distributor
+- Spell Perk Item Distributor 640
+- Stagger Direction Fix - SSE
+- Stamina of Shooting - SPID
+- Stamina of Shooting - drawing bow costs stamina
+- Static Swaps Variety - Practice Dummies
+- Statue of Mara
+- Swor's Valhalla Combat KillCam Patches
+- Swordsman's Assortment SE
+- TK Dodge For RE
+- TK Dodge RE
+- TK dodge firstperson 8 ways dodge
+- TK dodge firstperson 8 ways dodge (sound added)
+- Tales of Skyrim - Berserkyr
+- Taproot
+- The Handy Icon Collection Collective
+- Tiara The Vengeful Spirit (Project Skyrim) Goth Dark Elf Female Preset
+- To tame a horse
+- Trap Needs to be Real Trap
+- True Directional Movement - Modernized Third Person Gameplay
+- ULPS - Happy Little Trees Patch
+- Ultimate Animated Potions NG
+- Ultimate Animated Potions NG - ElSopa - Potions Redone patch
+- Unmarked Locations Pack
+- Unmarked Locations Pack - Fixes
+- Unmarked Locations Pack - Forgotten Vale
+- Unmarked Locations Pack - G I R T H Patch
+- Unmarked Locations Pack - Lux Via Patch
+- Unmarked Locations Pack - Praedy's Soul Cairn - Soul Husks Patch
+- Unmarked Locations Pack - Solstheim
+- Unmarked Locations Pack - Solstheim - Description Addon
+- Unmarked Locations Pack - Soul Cairn
+- Unmarked Locations Pack - Soul Cairn - Custom Ruins patch
+- Unmarked Locations Pack - Sovngarde
+- VRAMrOutput
+- Valerie Calvia The Pirate Spellsword (Project Skyrim) Breton Female Preset
+- Valhalla Combat
+- Valhalla Combat - Backstab Bug Fix
+- Valhalla Combat - Parry Sound Fix
+- Valhalla Combat - Race Addons
+- Valhalla Combat Execution Compatibility patches
+- Valhalla Combat Parry Sounds Replacer
+- Valhalla Combat RLE Patch
+- Vampire Clothing Expansion
+- Vampire Clothing Expansion - SPID
+- Vanargand Animations - Sneak Crossbows
+- Vanargand Animations II - Unarmed Non Combat Locomotion
+- Vanilla Hair Remake NPCs
+- Various Dialogue Tags - Immersive Wenches OStim Load Order Fix
+- Vigilant - re-enable beam strikes for MCO and SkySA
+- Vokriinator Black -- No Timed Blocking
+- Wait Your Turn - Enemy Circling Behaviour
+- Weapon Animation (Mace of Molag Bal)
+- Weapon Speed - IPM
+- Weapon Speed Effects Fix
+- Weapon Speed Mult Fix
+- Weapon Speed Mult Fix - Adamant
+- Werewolf Animation Extension (DAR)
+- Wet Function Redux SE - Settings Loader
+- WetFunctionRedux SE OStim
+- Witcher Horses - Patches
+- Witcher Horses - With no bloat
+- Wyrmstooth
+- Wyrmstooth - Brimstone and Wyrmstone Armory (and Legacy of the Dragonborn Display Patch)
+- Wyrmstooth CBBE 3BA and HIMBO Patch
+- Xelzaz - Custom Fully Voiced Argonian Telvanni Follower - Wyrmstooth
+- Xocco3's Mead Replacer (Animated)
+- Xocco3's Mead Replacer (Animated) - SkyPatched
+- Zaburg Malacath's Chosen (Project Skyrim) Orc Male Preset
+- [Dint999] BDOR Hairs SSE 0.13
+- slightly Better EVIL Rock Cairns
+
 
 ## 0.8.3.1 - Save Compatible
 
