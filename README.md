@@ -36,7 +36,7 @@
       - [Immersive & Survival Overhauls](immersive-survival-overhauls)
       - [Quests](#quests)
    
-### [Discord]([https://discord.gg/qEfeWVjDgJ](https://discord.gg/project-unleashed-869058032506667018)) | [Download](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+### [Discord](https://discord.gg/project-unleashed-869058032506667018) | [Download](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
 # Preamble
 
 **PROJECT SKYRIM** is a modlist that is content and gameplay oriented, ***focusing on expansions, overhauls, and healthy adjustments to the systems and features that exist in Skyrim***, while expanding to become the most diverse. It focuses on gameplay, world space add-ons, quests, etc. 
