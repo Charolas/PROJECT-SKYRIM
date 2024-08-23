@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.9.0.4](#0904---somewhat-save-compatible) - `23/08/2024`
 - #### [0.9.0](#090---not-save-compatible) - `21/08/2024`
 - #### [0.8.4](#084---not-save-compatible) - `10/05/2024`
 - #### [0.8.3.1](#0831---save-compatible) - `09/03/2024`
@@ -36,6 +37,24 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.9.0.4 - Various bugfixes. 
+
+ Warning: to update to this version, load an interior save, preferably a small, nonscripted one, when it loads, open the console as quickly as possible and wait a bit so that the game stabilizes, then hit the console again to make it collapse, wait a bit more (around 1 minute so that all the scripts load), then do a clean save procedure with Falrim Tools.
+
+ - Fixed bannered mare occlusion issues.
+ - Fixed crashes near water areas.
+ - Fixed crashes with mesh from a crate of East Empire Company (Skyland Bits and Bobs).
+ - Fixed Abhominations having TPOSE.
+ - Removed Tembra Thief plugin (was unused and it would lead to crashes).
+ - Attempt fix on perk trees.
+ - Enabled Quickloot IE hunting compatibility.
+ - Enabled Stay in the Fight - Settings Loader to ensure that the user has a better experience.
+ - Re-installed items from ORomance to ensure they appear as they should.
+ - Removed protected flag that would cause quests to sometimes not continue.
+ - Extracted Hearthfire Multiple Adoptions scripts to ensure that kids can get adopted.
+ - Built bodyslide to fix Hide Armors (specially female part).
+ - Removed Tamriel Extended from being active (it shouldn't be used in normal gameplay).
 
 ## 0.9.0 - Hugest update (probably).
 
