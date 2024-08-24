@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.9.0.5](#0905---save-compatible) - `24/08/2024`
 - #### [0.9.0.4](#0904---somewhat-save-compatible) - `23/08/2024`
 - #### [0.9.0](#090---not-save-compatible) - `21/08/2024`
 - #### [0.8.4](#084---not-save-compatible) - `10/05/2024`
@@ -37,6 +38,14 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.9.0.5 - Save compatible.
+
+Small bugfixes:
+
+- Rearranged load order to ensure that perk overhauls work as usual.
+- Added HS Interiors Breezehome made by 0xUltraHex to avoid occlusion bugs in breezehome.
+
 
 ## 0.9.0.4 - Various bugfixes. 
 
