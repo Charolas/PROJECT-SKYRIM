@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.9.0.6](#0906---save-compatiblle-recommended-clean-save-procedure) - `27/08/2024`
 - #### [0.9.0.5](#0905---save-compatible) - `24/08/2024`
 - #### [0.9.0.4](#0904---somewhat-save-compatible) - `23/08/2024`
 - #### [0.9.0](#090---not-save-compatible) - `21/08/2024`
@@ -38,6 +39,19 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.9.0.6 - Save Compatible, clean save procedure is recommended.
+
+Updated some mods. (LOTD new patch)
+
+Removed EVGAIO LOTD and Simplest Horses (was a suspect in carriage crashes).
+
+Fixed sprint attacks and dual wield/unarmed block not working.
+
+An attempt to fix Occlusion bugs on interiors.
+
+Added a fix (munkee) for artichokes being called leeks.
+
 
 ## 0.9.0.5 - Save compatible.
 
