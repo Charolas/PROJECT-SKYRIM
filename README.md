@@ -66,11 +66,13 @@ With the performance mode options being available, exact minimum requirements is
 ### **Recommended Specs**
 | CPU        | GPU   |  RAM  | Performance|
 | ------------- |:-------------:| :-----:| :-----:|
-| Ryzen 5 5600x      | RTX 3070 TI | 16GB RAM DDR4 | 60 FPS |
+| Ryzen 5 5600x      | RTX 3070 TI | 32GB RAM DDR4 | 60 FPS |
 
 **You also need**
-- ~350GB for Install 
+- ~410GB for Install 
 - ~250GB for Download
+- 40GB for pagefile
+- Around ~80GB of additional free space during the install (This will be freed up after installation haas completed)
 
 **Notes**
 - There is very low difference between High and Medium in terms of visuals, but you can get more FPS. 
@@ -94,6 +96,8 @@ With the performance mode options being available, exact minimum requirements is
 <br>
 
 ### THIS IS NOT OPTIONAL, YOU CANNOT SKIP THIS STEP EVEN IF YOU HAVE 256 GB OF RAM.
+### AS OF VERSION 9.1 MO2 WILL ASK TO DO THIS FOR YOU. HOWEVER ITS STILL RECOMMENED TO DO IT YOURSELF.
+
 
 
 # Installation
@@ -115,12 +119,12 @@ Please ensure you have .NET v5.0 installed (**EVEN IF YOU HAVE .NET 6.0 INSTALLE
 <a href="https://dotnet.microsoft.com/download/dotnet/5.0/runtime"><img alt="Microsoft" src="https://user-images.githubusercontent.com/27007797/198383090-15ce8391-fbc0-49a9-acb8-94b36ce3a811.png" width="555" height="294"></a>
 
 ### Websites & Programs
-- [Vector plexus Account](https://vectorplexis.com/)
+- [Vector plexus Account](https://vectorplexis.com/) No longer required as Vectorplexus website is down, please join the discord to acquire any missing mods from us
 - [Nexus Account (Premium recommended)](https://www.nexusmods.com/)
 - [Wabbajack](https://www.wabbajack.org/)
 - [Skyrim Special Edition (Steam)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)
 - [Skyrim Special Edition: Creation Kit (Steam)](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
-- [Loverslab Account](https://www.loverslab.com/) You nolonger need to login Loverslab in Wabbajack before the installation, Wabbajack will ask you to when needed during installation.
+- [Loverslab Account](https://www.loverslab.com/) You no longer need to login Loverslab in Wabbajack before the installation, Wabbajack will ask you to when needed during installation.
 
 
 ### Clean Skyrim
@@ -129,29 +133,21 @@ Start with a fresh install of [Skyrim Special Edition or Anniversary Edition](ht
 ### Start Skyrim
 Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
 
-PS. Skyrim received an update in 5-12-2023, so the latest verion is 1.6.1130 now. Current version of Prokectject(0.8.2) only applied to those have 1.6.640 version(disable Auto-update).
+### Manually Downgrade Creation Kit
 
+Creation Kit recently had an update, until Project Skyrim is updated to account for this you must manually downgrade Creation Kit yourself
 
-**NO NEED TO DOWNGRADE ANYMORE**
+How to Downgrade:
 
-~~You will need to downgrade the game to 1.6.640 and SE Creation Kit to 1.6.438 for the installation.~~
+Make sure that Creation Kit (Special Edition) is installed correctly. It *must* be instaled to the same drive that Skyrim is installed on
+Open the steam console by pressing "Windows + R" on your keyboard and type "steam://open/console" without the quotes
+Then, type in the following two commands, one at a time, allowing them both to download
 
-~~How to Downgrade:~~
+download_depot 1946180 1946183 2725999750516785042
+download_depot 1946180 1946182 926444740758492387
 
-~~SSE Creation Kit 1.6.438:~~
-~~download_depot 1946180 1946182 5099162879680505807~~
-~~download_depot 1946180 1946183 1633303557398589581~~
-
-~~Skyrim SSE 1.6.640:~~
-~~download_depot 489830 489831 3660787314279169352~~
-~~download_depot 489830 489832 2756691988703496654~~
-~~download_depot 489830 489833 5291801952219815735~~
-
-~~1.Open a command window "Run" by pressing «Win + R» and then enter the command: steam://open/console, and then press Enter. This will open the console tab in Steam.~~
-
-~~2.The bottom will have a space for you to enter the above codes. Copy the code as written, one line at a time. It will download the files to your "steam/common/content" folder, wherever the Steam manager was installed to (eg. C:\Steam\steamapps\common\content). If you cannot find it, just search for the steam folder: "depot_1946180" and "depot_489830" after the downloads have completed.~~
-
-~~3.Replace your "steamapps/commom/Skyrim Special Edition" files (or wherever your Creation Kit/Skyrim files are) with the ones in "depot_1946180" and "Skyrim Special Edition" files with the files in "depot_489830".~~
+Once completed, the console window will tell you where it has placed the two folders
+Navigate to them and open each folder, moving over *all* files from both of the folders to the location of your Steam Skyrim install location, overwriting the files when prompted
 
 
 ### Steam Library
@@ -234,19 +230,38 @@ Wabbajack will let you know which mods have issues in the log at the bottom left
 
 Follow these instructions whenever you start a new playthrough:
    
-   Start a new game, and wait around 3-5 minutes (depending on your specs and FPS) to allow the scripts to load, if you don't do this, things might break due to lack of time to configure itself, THIS IS VERY IMPORTANT, DON'T SKIP THE WAITING TIME, then proceed as usual.
-   
-   To start the game, open your MCM menu and go into the first mod 00.Skyrim Unbound, there you can configure everything you need for your journey, and then in the first page of it, press "begin adventure", that will spawn you in a room for character creation, after creating your character press enter (or select the "continue" option in the message box), this will spawn you in the world 
+   Start a new game, you will appear over Helgen, please wait at this screen for at least 5 minutes. This is to allow all scripts and other content to load. This is *not* optional. Failure to do so will result in problems. AGAIN THIS IS VERY IMPORTANT, DON'T SKIP THE WAITING TIME
+   Once you have waited 5+ minutes, to begin the game please press escape on your keyboard and navigate to the mod config menu (MCM) and click the first mod, Unbound. 
+   From here you can configure your starting situation (It is recommened you do not touch the dragon timer, however anything else can be changed to your liking)
+   Once you are finished, click "Begin Adventure", you will now be moved to character creation.
 
-   OR
+# Final things
 
-   Simply press enter to have everything random and automatically enter the character creation room.
-   
-   Open MCM / mod Configuration again, scroll down to My home is your home (MYHYH), open the menu and tick "Configuration Book".
-   
-   Open MCM / mod Configuration again, scroll down to Shadows of Skyrim (Optional), click it. Then click on general, and then on enable. Confirm the pop up to close and wait.
+To protect your saves from damage or corruption, or major gameplay issues please follow our advice on safe saving
 
-**#For more guides in game, like Keybinds and Controller Support, check out on Discord https://discord.com/channels/869058032506667018/1136301387693695038**
+- Never quicksave (Even if you have the ability to do so, and definitely don't turn it back on if its off)
+- Never reload while already in game. Quit to desktop if you want to reload (Main Menu is not good enough, full quit to desktop)
+- Never overwrite a save, new saves only
+- Do not save during, or immediately after combat
+- Do not save during script heavy moments
+- Do not save immediately after changing cells, better to save before changing cells
+- Do not change cells multiple times in quick succession, give the game chance to catch up with loading and scripts before changing again
+- Do not spam saves, something like every 10 minutes (while following everything else) is good
+- Keep Stay in the fight OR Soul Resurrection enabled to prevent reloads on death
+- Clear out your old saves regularly, no need to have 100's of saves
+
+DEATH ALTERNATIVES
+
+We currently have two death alternative mods availalbe that can be accessed in the MCM (as of version 9.1)
+Stay in the fight, and Soul Resurrection (Enable only one)
+These will prevent you from dying (And causing a reload) by temporarly ending combat and causing some sort of penality based on the setup
+ALWAYS HAVE ONE ENABLED
+
+For those using 0.9.0.6, Stay in the Fight is currently bugged and must be disabled, and then enabled again in the MCM on new saves
+Please remember to do this (9.1 users can ignore this)
+
+
+**#For more information on gameplay, keybind, support and more, Please check out our Discord https://discord.com/channels/869058032506667018/1136301387693695038**
 
 # For content and the "about" section of PROJECT Skyrim" Please refer to the Nexus page. https://www.nexusmods.com/skyrimspecialedition/mods/76466
 
