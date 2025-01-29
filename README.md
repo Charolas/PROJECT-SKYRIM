@@ -146,14 +146,14 @@ Creation Kit recently had an update, until Project Skyrim is updated to account 
 
 How to Downgrade:
 
-Make sure that Creation Kit (Special Edition) is installed correctly. It *must* be instaled to the same drive that Skyrim is installed on
-Open the steam console by pressing "Windows + R" on your keyboard and type "steam://open/console" without the quotes
+Make sure that Creation Kit (Special Edition) is installed correctly. It *must* be instaled to the same drive that Skyrim is installed on.
+Open the steam console by pressing "Windows + R" on your keyboard and type "steam://open/console" without the quotes.
 Then, type in the following two commands, one at a time, allowing them both to download
 
 download_depot 1946180 1946183 2725999750516785042
 download_depot 1946180 1946182 926444740758492387
 
-Once completed, the console window will tell you where it has placed the two folders
+Once completed, the console window will tell you where it has placed the two folders.
 Navigate to them and open each folder, moving over *all* files from both of the folders to the location of your Steam Skyrim install location (Steam\steamapps\common\Skyrim Special Edition) overwriting the files when prompted
 
 
