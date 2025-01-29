@@ -68,6 +68,8 @@ With the performance mode options being available, exact minimum requirements is
 | ------------- |:-------------:| :-----:| :-----:|
 | Ryzen 5 5600x      | RTX 3070 TI | 32GB RAM DDR4 | 60 FPS |
 
+Your Graphics Card (GPU) *MUST* have at least 8GB of VRAM to avoid any issues
+
 **You also need**
 - ~410GB for Install 
 - ~250GB for Download
@@ -126,6 +128,11 @@ Please ensure you have .NET v5.0 installed (**EVEN IF YOU HAVE .NET 6.0 INSTALLE
 - [Skyrim Special Edition: Creation Kit (Steam)](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
 - [Loverslab Account](https://www.loverslab.com/) You no longer need to login Loverslab in Wabbajack before the installation, Wabbajack will ask you to when needed during installation.
 
+### Steam Library
+
+If you have your Steam library in Program Files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
+I will not provide support to people with Skyrim in their Program Files folder.
+Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be `C:\SteamLibrary` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
 
 ### Clean Skyrim
 Start with a fresh install of [Skyrim Special Edition or Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition). You should also clean up the Skyrim Special Edition folder in Documents/My Games/ by deleting its contents. Installing on an SSD is recommended but an HDD will work as well.
@@ -147,14 +154,8 @@ download_depot 1946180 1946183 2725999750516785042
 download_depot 1946180 1946182 926444740758492387
 
 Once completed, the console window will tell you where it has placed the two folders
-Navigate to them and open each folder, moving over *all* files from both of the folders to the location of your Steam Skyrim install location, overwriting the files when prompted
+Navigate to them and open each folder, moving over *all* files from both of the folders to the location of your Steam Skyrim install location (Steam\steamapps\common\Skyrim Special Edition) overwriting the files when prompted
 
-
-### Steam Library
-
-If you have your Steam library in Program Files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
-I will not provide support to people with Skyrim in their Program Files folder.
-Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be `C:\SteamLibrary` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
 
 ### Set the Game language to English
 
