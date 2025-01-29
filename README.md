@@ -68,11 +68,13 @@ With the performance mode options being available, exact minimum requirements is
 | ------------- |:-------------:| :-----:| :-----:|
 | Ryzen 5 5600x      | RTX 3070 TI | 32GB RAM DDR4 | 60 FPS |
 
+An SSD is *REQUIRED*.  
+Project Skyrim must be installed to an SSD. You *cannot* use a HDD to play Project Skyrim. 
 Your Graphics Card (GPU) *MUST* have at least 8GB of VRAM to avoid any issues
 
 **You also need**
 - ~410GB for Install 
-- ~250GB for Download
+- ~250GB for Download (This can be on a seperate drive)
 - 40GB for pagefile
 - Around ~80GB of additional free space during the install (This will be freed up after installation haas completed)
 
@@ -135,7 +137,7 @@ I will not provide support to people with Skyrim in their Program Files folder.
 Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be `C:\SteamLibrary` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
 
 ### Clean Skyrim
-Start with a fresh install of [Skyrim Special Edition or Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition). You should also clean up the Skyrim Special Edition folder in Documents/My Games/ by deleting its contents. Installing on an SSD is recommended but an HDD will work as well.
+Start with a fresh install of [Skyrim Special Edition or Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition). You should also clean up the Skyrim Special Edition folder in Documents/My Games/ by deleting its contents.
 
 ### Start Skyrim
 Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
