@@ -69,8 +69,8 @@ With the performance mode options being available, exact minimum requirements is
 | Ryzen 5 5600x      | RTX 3070 TI | 32GB RAM DDR4 | 60 FPS |
 
 An SSD is *REQUIRED*.  
-Project Skyrim must be installed to an SSD. You *cannot* use a HDD to play Project Skyrim. 
-Your Graphics Card (GPU) *MUST* have at least 8GB of VRAM to avoid any issues
+Project Skyrim must be installed to an SSD. You *cannot* use a HDD to play Project Skyrim.  
+Your Graphics Card (GPU) *MUST* have at least 8GB of VRAM to avoid any issues.
 
 **You also need**
 - ~410GB for Install 
