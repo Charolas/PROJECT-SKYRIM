@@ -154,7 +154,7 @@ Make sure that Creation Kit (Special Edition) is installed correctly. It *must* 
 Open the steam console by pressing "Windows + R" on your keyboard and type "steam://open/console" without the quotes.
 Then, type in the following two commands, one at a time, allowing them both to download
 
-download_depot 1946180 1946183 2725999750516785042
+download_depot 1946180 1946183 2725999750516785042  
 download_depot 1946180 1946182 926444740758492387
 
 Once completed, the console window will tell you where it has placed the two folders.
