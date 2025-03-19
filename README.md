@@ -1,259 +1,245 @@
-# PROJECT SKYRIM
+# PROJECT Skyrim
 ![image](https://user-images.githubusercontent.com/27007797/198385604-5258bfdf-76ec-449d-b196-ad4fffab9410.png)
 
 ---
 
 <h3 align="center">
-   <a href="https://discord.gg/qEfeWVjDgJ/](https://discord.gg/hBMst84gUp)><img alt="Discord"src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="50" height="50"></a> ︱
+<a href="https://discord.gg/hBMst84gUp"><img alt="Discord"src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="50" height="50"></a> ︱
 <a href="https://www.nexusmods.com/skyrimspecialedition/mods/76466"><img alt="Nexus" src="https://raw.githubusercontent.com/github/explore/781dbc058383a2ee8259ebbab057292f16172d5e/topics/nexus-mods/nexus-mods.png" width="50" height="50"></a> ︱
 <a href="https://www.patreon.com/charolas?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator"><img alt="Patreon" src="https://decentered.co.uk/wp-content/uploads/2019/12/patreon-logo-png-badge-7.png" width="50" height="50"></a>
 </h3>
 <hr>
-
-
-
-- [PROJECT SKYRIM](#project-skyrim)
-  - [Preamble](#preamble)
-  - [System Requirements](#system-requirements)
-    - [Minimum Specs](#minimum-specs)
-    - [Recommended Specs](#recommended-specs)
-    - [Pagefile Configuration](#pagefile-configuration)
-  - [Installation](#installation)
-     - [Pre-Installation](#pre-installation)
-       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
-       - [Installing Microsoft .NET 5.0](#installing-microsoft-net-50)
-       - [Websites & Programs](#websites--programs)
-       - [Clean Skyrim](#clean-skyrim)
-       - [Start Skyrim](#start-skyrim)
-       - [Steam Library](#steam-library)
-       - [Set the Game Language to English](#set-the-game-language-to-english)
-       - [Download & INIs](#download--inis)
-     - [Wabbajack Installation](#wabbajack-installation)
-  - [Starting The Game](#starting-the-game)
-  - [Noteworthy Mods](#noteworthy-mods)
-      - [Combat Overhauls](#combat-overhauls)
-      - [Playstyle Overhauls](#playstyle-overhauls)
-      - [Immersive & Survival Overhauls](immersive-survival-overhauls)
-      - [Quests](#quests)
    
-### [Discord](https://discord.gg/hBMst84gUp) | [Download](https://www.nexusmods.com/skyrimspecialedition/mods/76466)  
-You need a profile picture on your discord account to join the server  
+## Introduction
 
-# Preamble
+**PROJECT Skyrim** is a content-rich, <ins>gameplay-focused</ins> modlist that aims to enhance the Skyrim experience through expansions, overhauls, and thoughtful adjustments to existing systems and features.
 
-**PROJECT SKYRIM** is a modlist that is content and gameplay oriented, ***focusing on expansions, overhauls, and healthy adjustments to the systems and features that exist in Skyrim***, while expanding to become the most diverse. It focuses on gameplay, world space add-ons, quests, etc. 
+Additionally, **PROJECT Skyrim** includes <ins>optional, unintrusive adult content</ins>. No NSFW content will appear in your game unless you actively choose to engage with it.
 
-**PROJECT SKYRIM** also comes with an adult content addon, that is completely unintrusive.
+> However, this means you must be of legal age in your country of residence to play **PROJECT Skyrim**; it is your responsibility to be aware of your country's age requirements.
 
-**`Which means that nothing will appear on your face without you wishing for it to happen, you can completely ignore, however, you must be of legal age to play PROJECT Skyrim, that is 18 in some countries and 21 in others, is up to you to know your country age requirements.`**
+## System Requirements
+### 1. Recommended Hardware Specs
+* VRAM
+  * 8 GB 
+* RAM
+  * 32 GB
 
-**`You still need to download mods from Loverlabs for installation process`**
+### 2. **Performance Presets**
+There are three versions of the Skyrim `.ini` configuration files available on Nexus; *low*, *medium*, and *high*. There is only a small difference between them in terms of visuals (texture resolution remains the same), but choosing a more performance-friendly preset may yield more FPS.
 
+Settings will be adjusted dynamically depending on in-game conditions thanks to an SKSE plugin.
 
+You can set the game resolution in `SkyrimPrefs.ini`; if your system is struggling, you can decrease the resolution, the game will be scaled up to fullscreen by default. 
 
+> The **PROJECT Skyrim** `.ini` files are located at `%ProjectSkyrimLocation%\profiles\Default`. 
 
-# System Requirements
+### 3. Disk Space Requirements
+* Disk Space as of PS version [0.9.1.x]:
+   *  10 GB for the WJ PS file from Nexus
+   * 265 GB for the mod downloads
+   * 435 GB for the installation folder
+   *  40 GB for the page file
+*  ...**so a total of 750 GB**
+   * During the installation process, as archives get unpacked and files moved around, there will be some *temporary* overhead space needed.
 
-With the performance mode options being available, exact minimum requirements is hard to nail down, you may need to change INI files with lower systems.
-
-
-### **Minimum Specs**
-| CPU        | GPU   |  RAM  | Performance|
-| ------------- |:-------------:| :-----:| :-----:|
-| Ryzen 5 3600      | Nvidia GTX 1080 | 16GB RAM DDR4 | 40 FPS |
-
-
-
-
-### **Recommended Specs**
-| CPU        | GPU   |  RAM  | Performance|
-| ------------- |:-------------:| :-----:| :-----:|
-| Ryzen 5 5600x      | RTX 3070 TI | 32GB RAM DDR4 | 60 FPS |
-
-An Internal SSD is *REQUIRED*.
-Project Skyrim must be installed to an SSD. You *cannot* use a HDD or an external drive to play Project Skyrim.  
-Your Graphics Card (GPU) *MUST* have at least 8GB of VRAM to avoid any issues.
-
-**You also need**
-- ~410GB for Install 
-- ~250GB for Download (This can be on a seperate drive)
-- 40GB for pagefile
-- Around ~80GB of additional free space during the install (This will be freed up after installation haas completed)
-
-**Notes**
-- There is very low difference between High and Medium in terms of visuals, but you can get more FPS. 
-- All inis will change and vary depending on the specific area you are on game due to SKSE Plugins that will cover it for more FPS
-- You can change the resolution in the SkyrimPrefs.ini (make sure to use the ini used by the Mod Organizer that is installed during the Wabajack installation. It should be located at ProjectSkyrim\profiles\Default). If you need more frames you can always decrease the resolution, it will be scaled up to fullscreen by default.
+> **PROJECT Skyrim** must be installed on an <ins>**internal SSD**</ins>. You <ins>**cannot**</ins> use an HDD or an external drive of any kind.  
 
 ## Pagefile Configuration
-  1. Press **Windows + R** on your keyboard
-  2. Type **sysdm.cpl ,3**
-  3. press **Enter**
-  4. Under the Performance section, press **'Settings'**
-  5. Click the **Advanced** tab at the top
-  6. at the Virtual memory section press **'Change...'**
-  7. Disable **'Automatically manage paging file size for all drives'**
-  8. Click **"Custom size:"**
-  9. Set a custom size for the drive Skyrim is installed on with a mininum of at least **20480MB** (40960MB if higher)
-  10. Click Set
-  11. Click apply & OK
-  12. Press Yes to restart
-  13. Restart your computer.
-<br>
+### PROJEKT Skyrim version [0.9.0.x]
+* Press `Windows + R` to open the "*run*" prompt.
+* Type `sysdm.cpl ,3` and press `Enter`.
+* In the "*Performance*" section, press "*Settings*".
+* Select the "*Advanced*" tab at the top .
+* In the "*Virtual memory*" section, press "*Change...*".
+* Disable "*Automatically manage paging file size for all drives*".
+* Select the drive that PROJECT Skyrim is installed on, and select "*Custom size:*".
+* Set a mininum **and** maximum size of `40960 MB`.
+* Click "*Set*" and "*OK*".
+* Press "*Yes*" when prompted to reboot your computer.
+> This is <ins>NOT OPTIONAL</ins>, you cannot skip this step no matter how big your RAM is.
 
-### THIS IS NOT OPTIONAL, YOU CANNOT SKIP THIS STEP EVEN IF YOU HAVE 256 GB OF RAM.
-### AS OF VERSION 9.1 MO2 WILL ASK TO DO THIS FOR YOU. HOWEVER ITS STILL RECOMMENED TO DO IT YOURSELF.
+### PROJEKT Skyrim version [0.9.1.x]
+* As of version [0.9.1.x], the page file will be configured for you automatically towards the end of the installation process.
 
+## Pre-Installation Preparations
+### 1. Install SSE Creation Kit (Steam)
+Install the <a href="https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/">SSE Creation Kit</a> (free) into the same library/folder that your Steam Skyrim SE installation is located in.
 
+> For PS version [0.9.0.x], the Creation Kit must be <ins>downgraded</ins> as follows:
 
-# Installation
-This is a precise and easy-to-install tutorial about the mod list Project Skyrim. We aim to streamline the process and help you to remove any doubts about the installation.
-## Pre-Installation
+* Press `Windows key + R` to open the "*run*" prompt.
+* Paste `steam://open/console` and press `Enter` to open the Steam console.
+* There, paste `download_depot 1946180 1946183 2725999750516785042`  and press `Enter`.
+* Then, paste `download_depot 1946180 1946182 926444740758492387` and press `Enter`.
 
-### **Install SSE Creation Kit (Steam)**
+The console will tell you where it has placed the depot folders; open them and place all files <ins>from within</ins> into `%SteamLibraryLocation%\steamapps\common\Skyrim Special Edition\`, overwriting when prompted. If <ins>not</ins> prompted, you did it wrong...
 
-Please install SSE Creation Kit into your Skyrim installation (from steam), it's as simply as downloading a DLC, just search it in your steam library and download it.
+> For PS version [0.9.1.x], you do not need to downgrade the Creation Kit anymore. If you downgraded the CK previously:
 
-### **Installing Microsoft Visual C++ Redistributable Package**
+* Reinstall the SSE Creation Kit via Steam to restore it to the latest version.
 
-I doubt you need to do this since you likely already have this installed. The package is required for MO2, and you can download it from **[Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)**. Download the x64 version under "Visual Studio 2015, 2017 and 2019". **[Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe)** if you can't find it.
-### **Installing Microsoft .NET 5.0**
+### 2. Microsoft Visual C++ Redistributable Package
+Mod Organiser 2 (MO) and Wabbajack (WJ) require Visual Studio to be installed.
 
-Please ensure you have .NET v5.0 installed (**EVEN IF YOU HAVE .NET 6.0 INSTALLED**). The game will not launch if you do not have it installed. Download the **desktop app x64 AND console app x64 installers** from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
+Download and install the x64 version of "*Visual Studio 2015, 2017 and 2019*" from <a href="https://aka.ms/vs/16/release/vc_redist.x64.exe">here</a>.
 
+### 3. Microsoft .NET Framework
+Wabbajack (WJ) requires .NET versions 5 and 8, <ins>specifically</ins>.
 
-<a href="https://dotnet.microsoft.com/download/dotnet/5.0/runtime"><img alt="Microsoft" src="https://user-images.githubusercontent.com/27007797/198383090-15ce8391-fbc0-49a9-acb8-94b36ce3a811.png" width="555" height="294"></a>
+Get them <a href="https://dotnet.microsoft.com/download/dotnet/5.0/runtime">here</a> [<ins>both</ins> the **desktop app x64** and **console app x64**] and <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.4-windows-x64-installer">here</a> and install them if you do not have them already.
 
-### Websites & Programs
-- [Vector plexus Account](https://vectorplexis.com/) No longer required as Vectorplexus website is down, please join the discord to acquire any missing mods from us
-- [Nexus Account (Premium recommended)](https://www.nexusmods.com/)
-- [Wabbajack](https://www.wabbajack.org/)
-- [Skyrim Special Edition (Steam)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)
-- [Skyrim Special Edition: Creation Kit (Steam)](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
-- [Loverslab Account](https://www.loverslab.com/) You no longer need to login Loverslab in Wabbajack before the installation, Wabbajack will ask you to when needed during installation.
+### 4. Other
+* **Windows**
+  * Your operating system must be up-to-date.
+* **Antivirus/Firewall**
+  * Third-party AVs will interfere during the installation and often even during play. Creating exceptions is usually not sufficient, and not recommended for security reasons. Windows Defender is fine and all you need nowadays; uninstall anything else.
+* **~~[VectorPlexus Account](https://vectorplexis.com/)~~** 
+  * VectorPlexus is permanently down, please join the Discord to acquire any missing mods from the backup links.
+* **[Nexus Account](https://www.nexusmods.com/)**
+  * Premium recommended for automated downloads and higher download speed.
+* **[Skyrim Special Edition (Steam)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)**
+  * Wabbajack does not support pirated copies of the game, and neither do we.
+* **[LoversLab Account](https://www.loverslab.com/)**
+  * You no longer need to log into LoversLab in Wabbajack *before* the installation, you will be prompted *during*.
+* **[Wabbajack](https://www.wabbajack.org/)**
+  * [Wabbajack GitHub](https://github.com/wabbajack-tools/wabbajack/releases)
+  * A Wabbajack version containing a <ins>temporary workaround for the "*MEGA*" downloads</ins> has been made available [here](https://drive.proton.me/urls/VGXC151A7R#TKvDn21ga1gm). Make sure to extract the `.zip` first, then start `Wabbajack.exe`. Be aware that this version will NOT auto-update. The links will still fail to download automatically, but you will be able to use the manual links. Instead of getting stuck at the start of installing, MEGA downloads will fail at the end.
 
-### Steam Library
+### 5. Steam Library Location
 
-If you have your Steam library in Program Files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
-I will not provide support to people with Skyrim in their Program Files folder.
-Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be `C:\SteamLibrary` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
+Your Steam library <ins>must not be located</ins> in `Program Files`, this is a special folder protected by Windows UAC, which will cause issues down the line. Follow [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to move your library somewhere else.
 
-### Clean Skyrim
-Start with a fresh install of [Skyrim Special Edition or Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition). You should also clean up the Skyrim Special Edition folder in Documents/My Games/ by deleting its contents.
+> No support will be provided to people with Skyrim located in `Program Files`.
 
-### Start Skyrim
-Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
+### 6. Vanilla Skyrim Setup
+* Start with a fresh installation of [Skyrim Special Edition or Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition). 
+  * You should also clean out the "*Skyrim Special Edition*" folder in `Documents/My Games/` by deleting its contents.
+* Launch Skyrim via Steam once.
+  * Start the game and exit once in the main menu. This will ensure any settings files required by Wabbajack are created in the Skyrim directories.
+* Set the Game language to English.
+  * This is <ins>mandatory</ins> for installation. Open the Steam Skyrim "*Properties*" window, navigate to the "*Language*" tab and select "*English*" from the dropdown menu.
 
+### 7. Download the PS WJ file & INIs
+Download the **PROJECT Skyrim Wabbajack file** and the **ini files** [here](https://www.nexusmods.com/skyrimspecialedition/mods/76466/?tab=description).
 
-### Set the Game language to English
+## Installing the Modlist via Wabbajack
+Make sure you have performed all the steps above <ins>before</ins> continuing with the installation!
 
-Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
+### 1. Create three new folders at (or close to) the root of your drive.
+* `Project Skyrim`
+* `Wabbajack`
+* `Wabbajack Downloads`
 
-Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
-
-
-### Download & INIs
-[Download Project Skyrim and the INI files here](https://www.nexusmods.com/skyrimspecialedition/mods/76466/?tab=description)
-<br>
-# Wabbajack Installation
-
-Make sure you have performed all steps listed under Pre-Installation before continuing with the installation.
-
-1. Create three new folders in your drive: "Project Skyrim", "Wabbajack" and "Wabbajack Downloads" like so:
+> <ins>Do not</ins> put your downloads folder **inside** the installation folder, even if WJ suggests this automatically!
 
 ![unknown (1)](https://user-images.githubusercontent.com/116535023/197645646-cdc7d058-43c0-403f-80cb-038ea317f0cb.png)
 
-2. Open the downloaded Project Skyrim.rar file. To do that you can use a program like 7zip (https://www.7-zip.org/download.html). Extract the files inside to your "Wabbajack" folder.
+### 2. Extract the `Project Skyrim.zip` file you downloaded from Nexus to your "*Wabbajack*" folder.
+* It will contain:
+  * `PROJECT SKYRIM.wabbajack`
+  * `PROJECT SKYRIM.wabbajack.meta.json`
 
-3. Copy the Wabbajack files (https://github.com/wabbajack-tools/wabbajack/releases) to your folder "Wabbajack", it should include Wabbajack.exe and wabbajack-cli.bat
+### 3. Move the Wabbajack installation files you downloaded from the WJ Homepage or GitHub to your "*Wabbajack*" folder.
+* It should include:
+  * `Wabbajack.exe`
+  * `wabbajack-cli.bat`
 
-4. Open Wabbajack.exe in your "Wabbajack" folder. 
-   - a) Click the cog/settings button at the top right, and login to your accounts on Nexus Mods and Vector Plexus. Do NOT skip this mini-step.
-
-   - b) Click "Install From Disk" and go to your "Wabbajack" folder, select the "Project Skyrim.wabbajack" file.
-
-   Set your paths like so:
+### 4. Open `Wabbajack.exe` in your "*Wabbajack*" folder. 
+* Click the cog/settings button at the top right, and log into your Nexus account.
+* Select "*Install From Disk*", point it to your "*Wabbajack*" folder, select the `Project Skyrim.wabbajack` file.
+* Set your paths as follows:
 
 ![unknown (2)](https://user-images.githubusercontent.com/116535023/197653641-485bf04f-a8e1-48b1-853f-367baa510366.png)
 
-5. Some mods will have to be downloaded manually. It will pop up a window with the site to download the mod from. At the top, it will tell you which file exactly to download.
-
-   If you have downloaded the wrong one it will let you know at the end. Don't panic. 
-
-   If there is an error or it closes, you won't need to re-download mods you have already downloaded.
+### 5. Start the installation.
+* Some mods may have to be downloaded manually. A window will pop up with the site to download the mod from. 
+  * **Pay attention**: At the top of the window, it will tell you which file exactly to download. If you have downloaded the wrong file it will let you know at the end.
 
 ![unknown (3)](https://user-images.githubusercontent.com/116535023/197653934-0827c09e-a077-4d3d-b94d-a39a3a6c9004.png)
  
+### 6. When Wabbajack is done downloading the modlist:
+* There may be some missing mods, giving you an error. 
+  * Wabbajack will let you know which mods have issues in the log at the bottom left, and in the browser window that opens in the end.
+  * The WJ log can also be found at `%locationOfYourWabbajackFolder%\Wabbajack\%version#%\logs\Wabbajack.current.log`.
+* Our community has compiled a list of mods that often give users trouble. Join the Discord and find them in the *backup links channel*. 
+  * Download any that you have an issue with and put them in the "*Wabbajack downloads*" directory (<ins>do not unpack them</ins>), then restart WJ.
+  * If you are still having issues, come to our *installation support channel* in the Discord server.
 
-6. When Wabbajack is done downloading the Project Skyrim modlist, there may be some missing mods, giving you an error.
-Wabbajack will let you know which mods have issues in the log at the bottom left.
+> If Wabbajack is complaining about the "*Curios*":
+* Go to your Steam Skyrim SSE `Data` folder, and locate:
+  * `ccbgssse037-curios.bsa` and 
+  * `ccbgssse037-curios.esl` 
+* Note whether the file name is spelled lower-case-c "curios" or upper-case-C "Curios", then delete these two files.
+  * If the file name was <ins>lower-case-c "curios"</ins>:
+    * Open Steam, go to `Skyrim -> Properties -> Installed Files`.
+    * Click on "*Verify integrity of game files*".
+    * Once the files have been downloaded, rerun the Wabbajack installation.
+  * If the file name was <ins>upper-case-C "Curios"</ins>:
+    * Launch Skyrim SSE via Steam.
+    * Select "*Creations*" from the main menu.
+    * Search for `Rare Curios` and download them.
+    * DO NOT Alt+Tab out, leave the game window active until the download is finished.
+    * Exit the game, DO NOT verify game files.
+    * Rerun the Wabbajack installation.
 
-   Our community has compiled a list of certain mods that give our users trouble and have them within the links below.
-   Join the Discord and check https://discord.com/channels/869058032506667018/1022340915236446218 for the links
+> If you need to restart Wabbajack for any reason, you won't need to re-acquire any mods you have already downloaded.
 
-   Simply download any that you had an issue with and move them to the Wabbajack download directory and re-attempt installation.
+### 7. Once you have finished installing the modlist without errors:
+* Go to your "*Project Skyrim*" folder, find the Mod Organiser executable, and create a shortcut in a more convenient location, like your Desktop or Start Menu.
 
-   If you are still having issues, feel free to hit up our support channel in the discord server.
+> You must use the instance of Mod Organiser that comes with PROJECT Skyrim, easily recognizable by the dark mode UI.
 
-8. Once you have finished installing the modlist without errors, you can open your "Project Skyrim" folder, and create a shortcut for Mod Organizer.
+### 8. Now choose the correct `.ini` files for your setup:
+  * Extract the .zip archive with the `.ini` files you downloaded from Nexus; go to the subfolder with your screen's native resolution, and then choose a performance preset.
+  * Copy the three files contained within to `%ProjectSkyrimLocation%\profiles\Default`, overwriting the existing files:
+    * `Skyrim.ini`
+    * `SkyrimCustom.ini`
+    * `SkyrimPrefs.ini`
 
-9. You are now on the final steps!
+### 9. You can now launch PROJECT Skyrim from Mod Organizer by clicking the "*Run*" button at the top right.
+* Make sure the "*SKSE*" executable is selected from the dropdown menu. 
+* The first boot might take a while to get going, so be patient; 5+ minutes are normal.
 
-   Open your folders like so, "Project Skyrim" -> "profiles" -> "Default" 
-   The directory address should look like in the image below:
+## Starting a New Game
 
-   Open the INI files .RAR file you downloaded, and copy the files inside it into the folder. Overwrite the existing files.
+> You <ins>cannot</ins> reuse any old saves from vanilla Skyrim or other modlists, and even updated versions of the same modlist are often not "save safe".
 
-![unknown (4)](https://user-images.githubusercontent.com/116535023/197654286-85c3f5f4-63e3-4ede-adb3-080ce06e48c1.png)
+When starting a new game, you will first be stuck staring at Helgen for a while.
 
-9. You can now launch Project Skyrim from Mod Organizer by clicking the "Run" button at the top right. Make sure "SKSE" is selected. The first boot might take a while to get going, so be patient.
+> Be patient, you must wait here for about 5 minutes (until the "Museum" pop-up appears) in order to allow all scripts and other content to load. This is <ins>not</ins> optional.
 
-   If your downloads tab in MO2 looks like this, do not be alarmed.
+After closing the pop-up, to begin the game:
+* Press `escape` to open the System Menu, navigate to the Mod Configurtion Menu (MCM), and select the first mod, "*Skyrim Unbound*". 
+* From here you can configure your starting conditions.
+  * It is recommened you do not touch the dragon timer, however anything else can be changed to your liking.
 
-   Wabbajack does not download meta files (these files give you info about what you did to the mod). MO2 generates default meta files for each mod and looks at it. But yes, everything is fine.
+Once you are finished, click "*Begin Adventure*", you will now be moved to character creation.
 
-![unknown (5)](https://user-images.githubusercontent.com/116535023/197654365-cf1a1737-cd2a-4514-a19b-2dbdffe49bd2.png)
+## Final Things
+To avoid save game corruption, follow these guidelines for **safe saving practice**:
+ 
+* Never <ins>**quicksave**</ins> (even if you have the ability to do so, and definitely don't turn it back on if it's off).
+* Never <ins>**reload**</ins> in game - quit to desktop and boot up the game fresh if you want to load a different save.
+* Never <ins>**overwrite**</ins> a save, new saves only.
+* Do not save during <ins>**script-heavy**</ins> moments, such as:
+  * during or immediately after combat
+  * moving at high speeds
+  * immediately after changing cells (better *before* changing cells)
+  * during dialogue, crafting, photo mode
+  * during animations
 
+Skyrim's script engine struggles already dealing with a vanilla game - in a modded experience, any little instability becomes magnified. Therefore:
+* Do not change cells multiple times in quick succession, give scripts a chance to <ins>**catch up**</ins>.
+* Keep a <ins>**death alternative**</ins> enabled to prevent reloads on death:
+  * `Stay in the Fight` [v0.9.0.x]
+  * `Soul Resurrection` [v0.9.1.x]
 
-# Starting The Game
+> [PS version 0.9.0.6] "*Stay in the Fight*" is currently bugged and must be disabled and re-enabled via its MCM!
+* Go to its MCM, find "*Pact with the Gods*" and disable it.
+* Close the menu completely.
+* Go back to its MCM and re-enable "*Pact with the Gods*".
 
-Follow these instructions whenever you start a new playthrough:
-   
-   Start a new game, you will appear over Helgen, please wait at this screen for at least 5 minutes. This is to allow all scripts and other content to load. This is *not* optional. Failure to do so will result in problems. AGAIN THIS IS VERY IMPORTANT, DON'T SKIP THE WAITING TIME
-   Once you have waited 5+ minutes, to begin the game please press escape on your keyboard and navigate to the mod config menu (MCM) and click the first mod, Unbound. 
-   From here you can configure your starting situation (It is recommened you do not touch the dragon timer, however anything else can be changed to your liking)
-   Once you are finished, click "Begin Adventure", you will now be moved to character creation.
+## For more information and support, please check out our [Discord](https://discord.gg/hBMst84gUp).
 
-# Final things
-
-To protect your saves from damage or corruption, or major gameplay issues please follow our advice on safe saving
-
-- Never quicksave (Even if you have the ability to do so, and definitely don't turn it back on if its off)
-- Never reload while already in game. Quit to desktop if you want to reload (Main Menu is not good enough, full quit to desktop)
-- Never overwrite a save, new saves only
-- Do not save during, or immediately after combat
-- Do not save during script heavy moments
-- Do not save immediately after changing cells, better to save before changing cells
-- Do not change cells multiple times in quick succession, give the game chance to catch up with loading and scripts before changing again
-- Do not spam saves, something like every 10 minutes (while following everything else) is good
-- Keep Stay in the fight OR Soul Resurrection enabled to prevent reloads on death
-- Clear out your old saves regularly, no need to have 100's of saves
-
-DEATH ALTERNATIVES
-
-We currently have two death alternative mods availalbe that can be accessed in the MCM (as of version 9.1)
-Stay in the fight, and Soul Resurrection (Enable only one)
-These will prevent you from dying (And causing a reload) by temporarly ending combat and causing some sort of penality based on the setup
-ALWAYS HAVE ONE ENABLED
-
-For those using 0.9.0.6, Stay in the Fight is currently bugged and must be disabled, and then enabled again in the MCM on new saves
-Please remember to do this (9.1 users can ignore this)
-
-
-**#For more information on gameplay, keybind, support and more, Please check out our Discord https://discord.com/channels/869058032506667018/1136301387693695038**
-
-# For content and the "about" section of PROJECT Skyrim" Please refer to the Nexus page. https://www.nexusmods.com/skyrimspecialedition/mods/76466
-
-
-
-If anything happens to Charolas and he cannot continue PROJECT Skyrim, anyone is free to continue as long as they contact the team (or the team can continue if they wish to do so), any remaining funds that Charolas did not redeemed can be shared between the team members.
+If anything happens to Charolas and he cannot continue PROJECT Skyrim, anyone is free to continue as long as they contact the team first, or the team can continue if they wish to do so. Any remaining funds that Charolas did not redeemed can be shared between the team members.
