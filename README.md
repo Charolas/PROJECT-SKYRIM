@@ -14,13 +14,13 @@
    
 # 1 Introduction
 
-**PROJECT Skyrim** is a content-rich, <ins>gameplay-focused</ins> modlist that aims to enhance the Skyrim experience through expansions, overhauls, and thoughtful adjustments to existing systems and features.
+**PROJECT Skyrim** is a content-rich, <ins>gameplay-focused</ins> modlist that aims to enhance the Skyrim experience through expansions, overhauls, and thoughtful adjustments to existing systems and features. It is designed to be played in __3rd person POV__.
 
 Additionally, **PROJECT Skyrim** includes <ins>optional, unintrusive adult content</ins>. No NSFW content will appear in your game unless you actively choose to engage with it.
 
 > However, this means you must be of legal age in your country of residence to play **PROJECT Skyrim**; it is your responsibility to be aware of your country's age requirements.
 
-**PROJECT Skyrim** is designed to be played in __3rd person POV__.
+Project Skyrim requires the latest version of the **Special Edition (SE)**. You do not need - but *can* have - Anniversary Edition (AE). The **free Creation Club (CC) content** is required; it is no problem if you own/have installed paid CC content, as well, it will just not be used in this mod list.
 
 # 2 System Requirements
 ## 2.1 Recommended Hardware Specs
@@ -65,7 +65,7 @@ After the installation has finished, the downloads can technically be deleted, b
 > This is <ins>NOT OPTIONAL</ins>, you cannot skip this step no matter how big your RAM is.
 
 ### PROJEKT Skyrim version [0.9.1.x]
-* As of version [0.9.1.x], the page file will be configured for you automatically towards the end of the installation process.
+* As of version [0.9.1.x], the page file will be configured for you automatically towards the end of the installation process (40 GB).
 
 ## 3.2 Install SSE Creation Kit (Steam)
 Install the **[SSE Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)** (free) into the same library/folder that your Steam Skyrim SE installation is located in. You do not need to run it before installing the modlist.
@@ -105,7 +105,7 @@ Get them **[here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)** [<
 * **[Skyrim Special Edition (Steam)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)**
   * Wabbajack does not support pirated copies of the game, and neither do we.
 * **[Nexus Account](https://www.nexusmods.com/)**
-  * Premium recommended for automated downloads and higher download speed.
+  * Premium recommended for automated downloads and higher download speed. Otherwise, be prepared to click "*manual download*" almost 5,000 times.
 * **~~[VectorPlexus Account](https://vectorplexis.com/)~~** 
   * VectorPlexus is permanently down, please join the Discord to acquire any missing mods from the backup links.
 * **[Mega Account](https://mega.io/)**
@@ -114,7 +114,7 @@ Get them **[here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)** [<
   * You no longer need to log into LoversLab in Wabbajack *before* the installation, you will be prompted *during*.
 
 ## 3.6 Steam Library Location
-Your Steam library <ins>must not be located</ins> in `Program Files`, this is a special folder protected by Windows UAC, which will cause issues down the line. Follow [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to move your library somewhere else.
+Your Steam library <ins>must not be located</ins> in `Program Files`, this is a special folder protected by Windows UAC, which will cause issues down the line. Follow **[this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide)** to move your library somewhere else.
 
 > No support will be provided to people with Skyrim located in `Program Files`.
 
@@ -160,18 +160,23 @@ Then extract the `PROJECT Skyrim x.x.x.x.zip` file.
 Open `Wabbajack.exe` in your "*Wabbajack*" folder. 
 
 Click the cog/settings button at the bottom left, and log into your Nexus and Mega accounts.
+
 ![Nexus and Mega Login image](https://github.com/user-attachments/assets/49ad1c96-77aa-4e03-96a7-93fad2630b96)
 
 Select "*Browse Lists*" on the left side:
+
 ![Browse List image](https://github.com/user-attachments/assets/eca0b2eb-3f85-4414-ae8b-356411138dd4)
 
 Select "*Install From Disk*" at the top right...
+
 ![Install From Disk image](https://github.com/user-attachments/assets/e0fa014f-23ae-45c3-ae70-0aebf2b4572b)
 
 .... then point it to your "*Wabbajack*" folder and select the `Project Skyrim x.x.x.x.wabbajack` file:
+
 ![Wabbajack File image](https://github.com/user-attachments/assets/2dc646ef-b71b-4293-b0bb-614d5ef21dba)
 
-Set your paths as follows:
+Set your `Project Skyrim` folder as the installation location, and `Wabbajack Downloads` as the downloads location:
+
 ![Paths image](https://github.com/user-attachments/assets/808b3fd6-27f1-4f99-b5ad-811732f46b63)
 
 Then press the "*Install*" button in the bottom right.
@@ -180,12 +185,13 @@ Then press the "*Install*" button in the bottom right.
 
 ## 4.5 Installation Complete
 If the installation finished successfully - great! Press "*Create Shortcut*" to create a shortcut to the custom instance of Mod Organizer that you will be using to launch **PROJECT Skyrim**, and then close Wabbajack.
+
 ![Shortcut image](https://github.com/user-attachments/assets/d15c0a8e-07c6-492f-a344-f4616e84af01)
 
 > You must use the instance of Mod Organiser that comes with PROJECT Skyrim, easily recognizable by the dark mode UI.
 
 ### 4.5.1 Installation Failed?
-There may be some missing mods, giving you an error; Wabbajack will let you know which mods have issues in the log at the bottom left, and in the browser window that opens in the end.
+There may be some mods or files missing, giving you an error; Wabbajack will let you know which mods have issues.
 
 ![Faillure image](https://github.com/user-attachments/assets/fe5685e0-9250-42f7-a8f7-2673789ae6c4)
 
@@ -223,6 +229,17 @@ Copy the three files contained within to `%ProjectSkyrimLocation%\profiles\Defau
 * `SkyrimCustom.ini`
 * `SkyrimPrefs.ini`
 
+## 4.7 Optional Mods and Modifications
+In MO you will notice a separator called `Optional Packages`, under which you will find mods that are not enabled by default. If you want to use any of them: Enable them, and check for errors (triangle in top right of MO) in case you missed any that need to be activated together. Then go to `tools -> plugin tools -> sync plugins` to send the newly enabled plugins to the appropriate spot in the load order.
+
+> The mods pane should be ordered by the `Priority` column (far right).
+
+The list is structured so that mod order corresponds to plugin order. If you want to add any mods, yourself: <ins>**Group similar mods together**</ins>. You can use `RMB -> Send to... -> Separator` to quickly move your additions to the appropriate section. Then, sync the order using `tools -> plugin tools -> sync plugins`. It is good practice to prefix custom additions with [NoDelete] to prevent WJ from removing them if re-run, and to make them easy to find via the search filter.
+
+> **Never** use LOOT to rearrange the load order, __sync plugins__ only!
+
+For more details, visit the *modify support* channel on our Discord server. However, please note that modifying the list assumes a solid understanding of modding and the risks thereof, since general modding assistance is beyond the scope of support we can provide.
+
 # 5 Launching the Game
 You can now launch **PROJECT Skyrim** from Mod Organizer by clicking the "*Run*" button at the top right; make sure the `SKSE` executable is selected from the dropdown menu. 
 
@@ -244,6 +261,10 @@ After closing the pop-up, to begin the game:
 Once you are finished, click "*Begin Adventure*", you will now be moved to character creation.
 
 # 6 Final Things
+Skyrim's script engine struggles already when dealing with a vanilla game - in a modded experience, any little instability becomes magnified. Therefore: Do not change cells multiple times in quick succession, give scripts a chance to <ins>**catch up**</ins>.
+
+Additionally:
+
 ## 6.1 Safe Save Guidelines
 To avoid save game corruption, follow these guidelines for **safe saving practice**:
  
@@ -258,21 +279,19 @@ To avoid save game corruption, follow these guidelines for **safe saving practic
   * during animations
 
 ## 6.2 Death Alternatives
-Skyrim's script engine struggles already dealing with a vanilla game - in a modded experience, any little instability becomes magnified. Therefore:
-* Do not change cells multiple times in quick succession, give scripts a chance to <ins>**catch up**</ins>.
-* Keep a <ins>**death alternative**</ins> enabled to prevent reloads on death:
-  * `Stay in the Fight` [v0.9.0.x]
-  * `Soul Resurrection` [v0.9.1.x]
+Keep a <ins>**death alternative**</ins> enabled to prevent reloads on death:
+* `Stay in the Fight` [v0.9.0.x]
+* `Soul Resurrection` [v0.9.1.x]
 
 > PS version [0.9.0.6] "*Stay in the Fight*" is currently bugged and must be disabled and re-enabled via its MCM!
-* Go to its MCM, find "*Pact with the Gods*" and disable it.
+* Go to the "*Stay in the Fight*" MCM, find "*Pact with the Gods*" and disable it.
 * Close the menu completely.
-* Go back to its MCM and re-enable "*Pact with the Gods*".
+* Go back to the MCM and re-enable "*Pact with the Gods*".
 
-## 6.3 Discord
-For additional information and support, we invite you to join our **[Discord](https://discord.gg/hBMst84gUp)** server. There, you'll find FAQs addressing common questions, support channels for assistance with installation, gameplay, and modifications, as well as sticky posts with the latest important information.
+# 7 Discord
+For additional information and support, we invite you to join our **[Discord](https://discord.gg/hBMst84gUp)** server. There, you'll find <ins>FAQs</ins> addressing common questions, <ins>support</ins> channels for assistance with installation, gameplay, and modifications, as well as sticky posts with the <ins>latest important information</ins>.
 
-If you fail to join successfully, a bot will inform you of the reason, if your DMs are open. Your account must be at least 2 days old to join, and you will need to complete a verification step. 
+If you fail to join successfully, a bot will inform you of the reason (provided your DMs are open). Your account must be at least 2 days old to join, and you will need to complete a verification step within 10 minutes of joining. 
 
-## 6.4 Legal
-If anything happens to Charolas and he cannot continue PROJECT Skyrim, anyone is free to continue as long as they contact the team first, or the team can continue if they wish to do so. Any remaining funds that Charolas did not redeemed can be shared between the team members.
+# Legal
+If anything happens to Charolas and he cannot continue PROJECT Skyrim, anyone is free to continue as long as they contact the team first, or the team can continue if they wish to do so. Any remaining funds that Charolas did not redeem can be shared between the team members.
