@@ -245,6 +245,8 @@ You can now launch **PROJECT Skyrim** from Mod Organizer by clicking the "*Run*"
 
 The first boot might take a while to get going, so be patient; 5+ minutes are normal.
 
+> On your first launch, a pop-up may appear prompting you to log into Bethesda.net and download the creations - press `ok` and then `esc` to back out of it, no need to download anything.
+
 ## 5.1 Starting a New Game
 
 > You <ins>cannot</ins> reuse any old saves from vanilla Skyrim or other modlists, and even updated versions of the same modlist are often not "save safe".
