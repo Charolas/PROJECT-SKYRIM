@@ -42,12 +42,14 @@ There are three versions of the Skyrim `.ini` configuration files available on N
    *  40 GB for the page file
 *  ...**so a total of 750 GB**
    * During the installation process, as archives get unpacked and files moved around, there will be some *temporary* overhead space needed.
+ 
+Keep in mind that you should avoid filling your drives to full capacity. For optimal performance and system stability, it is generally recommended to maintain at least 10–15% of free space.
 
 > **PROJECT Skyrim** must be installed on an <ins>**internal SSD**</ins>, it <ins>**cannot**</ins> be installed on an HDD or an external drive of any kind.
 
-Your <ins>**downloads**</ins> can be on a different drive than the installation, even an HDD. Network and OneDrive locations will not work, however.
+Your <ins>**downloads**</ins> can be stored on a different drive than the installation—this can even be an HDD. However, network and OneDrive locations are not supported.
 
-After the installation has finished, the downloads can technically be deleted, but it is recommended to keep them on an external drive, instead, if you are short on space. You will need them again when updating to a new version. Repairing the installation (by re-running the installation via WJ) will require only the downloads of the mods that are broken, usually.
+Once installation is complete, the downloaded files can technically be deleted. Still, it is recommended to keep them on an external drive if you are low on space, as they will be needed again when updating to a new version. Repairing the installation (by re-running it via WJ) typically only requires the downloads for any broken mods.
 
 ## 2.3 Other
 * **Windows**
@@ -67,13 +69,15 @@ After the installation has finished, the downloads can technically be deleted, b
   * Wabbajack and Mod Organiser depend on the latest release of VS C++:
     * [Visual Studio C++](<https://aka.ms/vs/17/release/vc_redist.x64.exe>)
 * **Antivirus/Firewall**
-  * Third-party antivirus programs often interfere with installation and gameplay. Creating exceptions is usually ineffective and not recommended for security reasons. Windows Defender is sufficient and all you need—uninstall any other antivirus software.
+  * Third-party antivirus programs often interfere with installation and gameplay. Creating exceptions is usually ineffective and not recommended for security reasons. Windows Defender is sufficient and all you need — uninstall any other antivirus software.
+* **OneDrive**
+  * Ensure that none of the folders involved are OneDrive locations - if  your `My Documents` folder (where your save files are being stored) is synchronized with OneDrive, it will lead to memory access issues.
 * **Overlays**
   * Game overlays have been under suspicion to cause instability, so it is generally recommended to turn them off. That includes the Steam overlay.
 * **[Skyrim Special Edition (Steam)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)**
   * Wabbajack does not support pirated copies of the game, and neither do we.
 * **[Nexus Account](https://www.nexusmods.com/)**
-  * Premium recommended for automated downloads and higher download speed. Otherwise, be prepared to click "*manual download*" almost 5,000 times.
+  * Premium recommended for automated downloads and higher download speed. Otherwise, be prepared to click "*manual download*" 5k times.
 * **~~[VectorPlexus Account](https://vectorplexis.com/)~~** 
   * VectorPlexus is permanently down, please join the Discord to acquire any missing mods from the backup links.
 * **[Mega Account](https://mega.io/)**
@@ -82,16 +86,16 @@ After the installation has finished, the downloads can technically be deleted, b
   * You no longer need to log into LoversLab in Wabbajack *before* the installation, you will be prompted *during*, instead.
 
 ## 2.4 Steam Library Location
-Your Steam library <ins>must not be located</ins> in `Program Files`, this is a special folder protected by Windows UAC, which will cause issues down the line. Follow **[this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide)** to move your library somewhere else.
+Your Steam library <ins>must not be located</ins> in `Program Files`, it is a special folder protected by Windows UAC, which will cause issues down the line. Follow **[this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide)** to move your library somewhere else.
 
 > No support will be provided for Skyrim installations located in `Program Files`.
 
 ## 2.5 Vanilla Skyrim Setup
-Start with a fresh installation of **[Skyrim Special Edition or Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition)**. You should also clean out the "*Skyrim Special Edition*" folder in `Documents/My Games/` by deleting its contents.
+You will require an up-to-date and ideally freshly validated install of **[Skyrim Special Edition or Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition)**.
 
-Launch Skyrim via Steam once: Start the game and exit once in the main menu. This will ensure any settings files required by Wabbajack are created in the Skyrim directories.
+If starting from a fresh install: Launch the game, then exit once reaching the main menu. This will ensure any settings files required by Wabbajack are created in the Skyrim directories.
 
-Set the Game language to English - this is <ins>mandatory</ins> for installation. Open the Steam Skyrim "*Properties*" window, navigate to the "*Language*" tab and select "*English*" from the dropdown menu.
+Set the Game languting to English - this is <ins>mandatory</ins> for installation. Open the Steam Skyrim "*Properties*" window, navigate to the "*Language*" tab and select "*English*" from the dropdown menu.
 
 Once the modlist installation is complete, any changes to your Steam Skyrim installation will not affect **PROJECT Skyrim** — it is a self-contained instance. This also means you can have multiple WJ modlists installed simultaneously, though they __**cannot be merged**__.
 
