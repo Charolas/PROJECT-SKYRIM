@@ -2,14 +2,6 @@
 
 ## Hall of Honor — Eternal Gratitude to Our Supporters
 
-### Top 5 Supporters
-
- **Bryson Averett**  
- **Ayla**  
- **Sir Wyatt**  
- **Justin Richman**  
- **Ryan Mach**  
-
 This document is a heartfelt thank you to all the supporters who believed in this **PROJECT**.  
 It is because of **you** that the eternalization of **Skyrim** lives on.  
 And it is through our **shared passion** that we continue this journey — together, and forever.
@@ -21,6 +13,35 @@ Skyrim will never forget the faces of those who honored its beauty.
 
 ### The Warriors Who Walk Beside Us  
 _Each name below represents a brick on the road that leads PROJECT Skyrim ever onward._
+
+### Top 5 Supporters
+
+**Bryson Averett**  
+**Ayla**  
+**Sir Wyatt**  
+**Justin Richman**  
+**Ryan Mach**  
+
+### Active Supporters and Last 30 Days One-Offs
+
+**CORRUPTED KVNG**  
+**Connor**  
+**Eruntano**  
+**Exanima**  
+**Lozt**  
+**Munkee**  
+**Raccoon King**  
+**Retrodel65**  
+**rezthe0ne**  
+**Vapin Jason**  
+**Wing**  
+**Ja'Sharim**  
+**Bryson Averett**  
+**Justin Richman**  
+**Sir Wyatt**  
+**Notorious Oracle**
+
+### All Time Supporters (inactive or more than 30 days)
 
 5D Chess  
 A7X  
@@ -41,7 +62,7 @@ AttackOG
 Ayla  
 Ben  
 Blazerg  
-Bonhart  
+Blonhart  
 Boofle  
 Bryson Averett  
 Cameron-Lee Rothenburg  
