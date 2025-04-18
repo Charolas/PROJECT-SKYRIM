@@ -4,11 +4,11 @@
 
 ### Top 5 Supporters
 
-1. **Bryson Averett**  
-2. **Ayla**  
-3. **Sir Wyatt**  
-4. **Justin Richman**  
-5. **Ryan Mach**  
+ **Bryson Averett**  
+ **Ayla**  
+ **Sir Wyatt**  
+ **Justin Richman**  
+ **Ryan Mach**  
 
 This document is a heartfelt thank you to all the supporters who believed in this **PROJECT**.  
 It is because of **you** that the eternalization of **Skyrim** lives on.  
