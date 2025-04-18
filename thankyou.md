@@ -18,6 +18,8 @@ _Each name below represents a brick on the road that leads PROJECT Skyrim ever o
 A7X  
 Abba  
 aceanimations  
+Alabaa  
+Alaxouche  
 Alenaa  
 Alex  
 Alfredo Garcia  
@@ -26,6 +28,7 @@ Andr3x
 Anon007  
 Anzer  
 Apex  
+Artix  
 AttackOG  
 Ayla  
 Ben  
@@ -47,6 +50,7 @@ Dallihippo
 Daniel Christian Theroff  
 Danny  
 Danny Chiappetta  
+DeepVoicedMan  
 Desdicado  
 Desdicado Dog  
 DevZan  
@@ -69,6 +73,9 @@ Foereaver
 Frederikkmk  
 Gaby  
 Gale  
+Gian800  
+God Jebus  
+Grimsanta  
 Hakim3i  
 Halfbakedromeo  
 Havenbirch  
@@ -77,12 +84,10 @@ HyperX23
 Idrinth  
 Incariol  
 jacob disdain  
-Jared Bertrand  
+Jaynan  
+Jayserpa  
 Jason Oatts  
-Jaynan  
-Jaynan  
-jase350  
-jeff mac  
+Jet  
 Joachim Bartoll  
 John  
 Jonathan Yantis  
@@ -92,9 +97,6 @@ Justin Richman
 Kerach  
 KING TONP  
 kingjnl1  
-Ko-fi Supporter  
-Ko-fi Supporter  
-Ko-fi Supporter  
 Koko91  
 Krxon  
 Kyverdrade  
@@ -116,13 +118,18 @@ MrDILLOY
 MsRaven  
 Munkee  
 N7#8186  
+Night_Strike  
+Nightfallstorm  
 NotoriousOracle  
 Nydelarin  
 Ori  
-PapaMedaMacha  
+Pikisithlord  
+PhxFuryKnight  
 PhizzyWhizzy#5954  
 PRINCE TULIP  
+Psion  
 Primordial  
+Rakkakaze  
 Remzyrc  
 Retrodel65  
 rezthe0ne on Discord  
@@ -132,16 +139,24 @@ RisingSpud
 Rudd Sequoia  
 Ryan  
 sade  
+Sswaye  
 Sgtsnicker  
 SiiPArch  
 SIKguy  
 SlimePlort  
 SonglinTIAN (アギAgI_Official)  
+Styxx  
+Swagbrew  
 Thicc_Reap  
+TheSweetLuna  
 Tommi241SnC  
 Tyrael  
+Veil the Unliving  
 VillainousJ  
 Wasek  
+Wing  
+Wilderness  
+Xtremza  
 Zigfreid  
 
 </div>
