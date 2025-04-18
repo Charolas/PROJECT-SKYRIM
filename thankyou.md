@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
 ## Hall of Honor — Eternal Gratitude to Our Supporters
 
@@ -144,4 +144,4 @@ VillainousJ
 Wasek  
 Zigfreid  
 
-</p>
+</div>
