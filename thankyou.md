@@ -2,6 +2,14 @@
 
 ## Hall of Honor — Eternal Gratitude to Our Supporters
 
+### Top 5 Supporters
+
+1. **Bryson Averett**  
+2. **Ayla**  
+3. **Sir Wyatt**  
+4. **Justin Richman**  
+5. **Ryan Mach**  
+
 This document is a heartfelt thank you to all the supporters who believed in this **PROJECT**.  
 It is because of **you** that the eternalization of **Skyrim** lives on.  
 And it is through our **shared passion** that we continue this journey — together, and forever.
