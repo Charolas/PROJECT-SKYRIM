@@ -48,7 +48,6 @@ Added:
 player exclusive hdt smp armors - 1.1alpha
 player exclusive hdt smp armors 3ba - 1.0
 player exclusive hdt smp armors himbo - 1 .0
-Animated Interactions SKSE - 1.8.0
 Roaming Girl's Attire (3BA) - 1.2.1
 Follower Dialogue Expansion - Rayya
 Open Dress CBBE 3BA - 1.1
