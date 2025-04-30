@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.9.1.4](#0914---not-save-compatible) - `29/04/2025`
 - #### [0.9.0.6](#0906---save-compatiblle-recommended-clean-save-procedure) - `27/08/2024`
 - #### [0.9.0.5](#0905---save-compatible) - `24/08/2024`
 - #### [0.9.0.4](#0904---somewhat-save-compatible) - `23/08/2024`
@@ -39,6 +40,550 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## 0.9.1.4 - Not Save Compatible
+
+Added:
+
+player exclusive hdt smp armors - 1.1alpha
+player exclusive hdt smp armors 3ba - 1.0
+player exclusive hdt smp armors himbo - 1 .0
+Animated Interactions SKSE - 1.8.0
+Roaming Girl's Attire (3BA) - 1.2.1
+Follower Dialogue Expansion - Rayya
+Open Dress CBBE 3BA - 1.1
+ENB Frame Generation - 1.0.2
+Smarter Conjuration Minions - 1.01
+DisplayTweaks FrameGen Settings (so that we can use framgen at the same time with less latency)
+Skyforge Immersion Addon 1.0.0a
+Open Dress SPID & KID 1.0
+CBBE 3BA (3BBB) - Race Scale Fix 1.0
+Skyfixes - 1.0
+Bound hands - Helgen attack OAR or DAR animations - NPC Patch - 1.0.2
+Absorb Spell XP Fix - 1.1
+Tween Menu Overhaul - Untarnished UI Reskin - 1.0
+Favorites Menu Effects Description - 1.0
+Adventurer Mashup Compilation - CBBE 3BA - 1.0
+HAG - Occult Witchmist Grove - 1.0
+HAG - Occult Witchmist Grove - FPS Boost - 1.0
+HAG - Witchmist - Mihail's Crows and Ravens Patch - 1.0
+HAG - Occult Witchmist Grove - Deadly Dragon Lair - 1.0
+HAG - Occult Witchmist Grove - LOTD Patch - 1.0
+Bedroll Alternative - Campfire Addon - 1.0.1
+Heretical Haemars - Vampire Clans and Bloodlines - 1.5
+Put Out The Fires - Script Hotfix - 1.3.1
+Heart of Ice - Hotfix - 1.3.2
+HFs - small edit of Hagraven clutter - merged - 2.0
+HFs - Food remodels - merged - 2.0
+OISeeYouMasturbating - Sleeping NPCs Masturbate. Secretly Watch or Help in OStim Standalone - 1.1.1
+Contextual Crosshair - 1.3.1
+Jewelry Collection - 1.2
+Iron Rose Armor - 1.0
+Iron Rose Armor 4k Complex Material - 1.0
+Whiterun Objects SMIMed (and fixes too) - 0.5.1
+Naked Comments Overhaul - Revealing clothes Keyword - 1.01
+Amorous Adventures MCM for Alternative Start Users - 0.0.Evergreen
+Actually Slow Slowfall - Mysticism Addon - 1.0
+ELLE - Necromant - 1.0
+Windhelm Objects SMIMed - 1.7
+DD - Sigrin Silver Fox armor by Vergi CBBE 3BA SMP - 3.3
+Ornaments of the Dragon Cult - Dragon Priest Metal Expansion - 1.5.1
+Kanjs - Glowing Mushroom Animated - 1.1
+Fibbi - Designer Eyebags - Racemenu Overlays-Makeup-Warpaints - 2.0
+OStim - Futanari get their own colored bar - 1.0
+Ancient Blood Magic II - Nerfed Bosses - 1.0
+OBlush - Allows Characters to Blush in OStim Standalone - 1.1.0
+JS Vanilla Circlets SE - Artificer Patch - 1.0
+JS Vanilla Circlets SE - USSEP Patch - 1.1
+Dialogue Expansion - Brelyna Maryon - Auri - 1.0
+Dialogue Expansion - Brelyna Maryon - inigo - 1.0
+Dialogue Expansion - Brelyna Maryon - Lucien - 1.0
+Xelzaz - Custom Fully Voiced Argonian Telvanni Follower - JK's New Gnisis Cornerclub - 1.0
+The Dragonborn's Bestiary - I4 Consistency Tweaks - 1.1
+Amorous Adventures MCM - 0.2
+Simple Frostbite Spider animation - 1.0
+Dragon-Voiced Word Walls - 1.1
+Campfire Fixes - BOS - 1.0
+Animation Motion Fix - 1.14
+Runemaster Magic - 1.35
+RunemasterMagic - Activate With Power Attack - ANY
+A Stable Corner - Rustic Whiterun Home - 1.1
+Knight-Herald - HDT-SMP - Vanilla - CBBE 3BA - 1.2
+Knight-Herald - HDT-SMP - Vanilla - CBBE 3BA - Hotfix 1.0
+Sneak Vignette - 1.0.4
+Stealth Detection Fixes - 2.1
+Stealth Kill Fix - Nearby NPCs Tweak - tweak.n.1
+Kanjs - Stalhrim Deposit and Nordic Pickaxe Animated - 1.0
+Bad Moon Patch Collection - 1.1.1
+Storm Call No Friendly Fire - 1.0
+Shas' Chains and Silks (SMP-3BA) - 1.0
+Shas' Chains and Silks (SMP-3BA) - Craftable and Temperable - 1.0
+Pelagius's Wildlife AI - Skypatcher - 1.0.2
+Sound For TK Dodge SE Pandora - 1.0
+Animated Armoury - Rebalance - 8.1
+Animated Armoury Enchantments - Thaumaturgy Patch - 7.0
+DD - Vergi Fashion CBBE 3BA SMP - 3.4
+Legacy of the Dragonborn SSE V6 - Hotfix - 6.9.0
+Inconsequential Incantations - Minor Immersive Spells - 1.1
+JK's Sleeping Giant Inn - No More Creepy Delphine - 1.1
+Inconsequential Incantations - Minor Immersive Spells - Mysticism - 1.1
+Sir Rumple's Chains and Silks - 1.0
+Black Book Quest Tweaks - 1.0
+Black Book Quest Tweaks for Stormcrown - 1.0
+Roaming Girl's Attire - Customizable replacer - 0.95
+Atlas Map Markers Overhaul - 1.4
+Fabled Forest Intesting NPC Patch - 0.1beta
+HFs - Diverse (BOS) Inkwell and Quill - JK Patches - 1.03
+Reset Random Dialogue Scenes - 1.1.0
+Moonhowl - Wolf Mounts - 1.5
+Song of the Green (Auri Follower) - 2.2-12/04
+Legacy of the Dragonborn Patches (Official) V6 - 6.9
+Follower Dialogue Expansion - Aela the Huntress - Auri - 6.0
+Follower Dialogue Expansion - Aela the Huntress - Inigo - 5.0
+Follower Dialogue Expansion - Aela the Huntress - Lucien - 5.0
+Follower Dialogue Expansion - Aela the Huntress - Remiel - 5.0
+Follower Dialogue Expansion - Aela the Huntress - Thogra - 5.0
+Follower Dialogue Expansion - Aela the Huntress - Xelzaz - 5.0
+Apocrypha Paper Map for FWMF - 1.2.1
+Edmond's Nature Series - DEER - 2.0
+Diverse Grindstones - City Placements SWAP file - 1.2
+Quest Journal Overhaul - Untarnished UI Reskin - 1.01
+OTalkDuringSex - Allows you to talk to NPCs during scenes in OStim Standalone - 1.1
+Roaming Adventurer (A Himbo Conversion of Roaming Girl) - 1.1
+My personal preset for tween menu overhaul - 1.0A
+Stop Hit Grunt - 1.0
+NPC Blocking Enhanced - 1.0
+NPC No Block Exhaustion - MCM - 1.0ALPHA
+Precision - Thaumaturgy Patch - 1.0
+Diverse Grindstones - Base Object Swapper - 1.2
+FYX - Alpha Blood Blending Bug - 1.0
+Arch-Curate Vyrthur Revoiced - 1.0
+Horn Candle Variants - Base Object Swapper - 1.0
+Horn Candle Variants - BOS - ENB Light Patch - 
+ELLE - Necromant - My patches SE by Xtudo - 2K - 1.0
+Untarnished - moreHUD Icons - 1.0
+Ornaments of the Dragon Cult - Dragon Priest Metal Expansion - Base Object Swapper - 2.0 (Complex Material)
+Kanjs - Stalhrim Weapons Animated - 1.0
+Mountain LOD Helper - 1.0
+Mountain LOD Helper - Lux Via Patch - 1.0
+SSE FPS Stabilizer - 1.1.12
+SSE FPS Stabilizer - Optimized Settings - 1.0
+AoE Spell Infighting Fix - 1.0
+Fluffworks - Dismembering Framework Patch - 1.0
+FemDAZ Feet - Racial Footwear - 0.1alpha
+After the Civil War - Siege Damage Repairs - HS Solitude - Temple of the Divines patch - 1.0
+3dnpcs Fixes and Tweaks - 5.1
+Ethereal Skill Menu Overhaul - 1.2.1
+
+
+{ // (a small test, will remove all content of them and use them ONLY for VSU vanilla in OStim, all latest version)
+Skimped - Vanilla Picks
+Skimped - Vanilla Picks - Royal Vampire Robes SMP
+Skimped - Vanilla Picks - HDT-SMP Player-exclusive
+SkyTitties (BaseGame, Dawnguard, Dragonborn) Standalone
+Ghaan's Outfits Craftable Version
+Ghaan's Revealing CBBE 3BBB Outfits
+IFS Bodyslide (3BAMoreNudeForVSU)
+VSU IFS-ULC-NUDE-ConfigMoreNude
+VSU Vanilla Armor and Clothing Configs
+}
+
+Blue Palace Mini Outer Flora - 1.0
+Enhanced Rocks and Mountains - Addon - 2.0
+CBBE 3BA Vanilla Outfits Redone - HDT SMP - 4.1.8SMP
+3rd Era Ink - Morrowind Racemenu Face Paint Overlays - 1.0
+New Creature Animation - Giant - 2.1
+Falmer Overhaul - SE by Xtudo - Dawnguard DLC - 1.5
+Horse Animation Overhaul - HAO 1.0
+Simple TK Dodge - 1.0
+Song of the Green (Auri Follower) - Enhanced Voice Remastered - 2.2.1
+Ave's Interesting NPCs Jewelry Replacer - LOTD 3DNPC - 1.0.2
+Ave's Interesting NPCs Jewelry Replacer - LOTD 3DNPC - CBBE Bodyslide Files - 1.0
+VIGILANT Revised Scripts for MCO - 1.01
+Light in the Pockets - Thieves Guild NPC Overhaul - 1.1 (NOT LATEST VERSION BECAUSE I DONT WANT TO GET BLACK BRIARS IN THIS FILE);
+Misty Skye - 3BA Preset Pack - 1.0 (just bodyslide, because it is good)
+Auri Remastered Voice (and all  the patches because now it ddoesnt scare me anymore)
+All Thieves Guild Jobs Concurrently - 1.3
+HFs - Buttocks rest (BOS) - 1.17
+SkyValor - Start Me Up - 1.0
+Nordic Round Shields - 1.0
+Real Water for Volcanic Mineral Pools - Base Object Swapper - 0.6
+Hearthfire Multiple Adoptions Expanded - 1.07
+Sabre Cat Attack Animations - 1.0-0-1
+Convenient Carriages (will replace more carriages and more ferries)
+Prettier Decorated Roads - Lux Via (floating objects removed)
+Follower Dialogue Expansion - Sapphire (FDE) - 1.0
+Practical Necromancy - Memento Mori Spell - 1.0
+Toolsmithing - 1.0.2
+BTPS Filter for JS Rumpled Rugs - 1.01
+Speed of Strides - 0.9.1
+Dynamic Sprint Stop - 2.3 (again because i think it has been refined a bit)
+SkyParkour - A SkyClimb Addon - 360 and Hold to Climb - 2.0.3
+Overlooked Dungeon Objects Retextures - 2.0
+Snazzy - Retching Netch - 1.0
+coldsun vision frea (replacing frea with something non skimpy)
+Eyepart Alignment Sliders for Racemenu
+MLO - Puzzle Bazier Glow Fix - RC2
+Diverse 4thUnknown Dragons - 1.13 (and High Res, removed previous dragon variance)
+Core Impact Framework (CIF) - 1.1
+Dynamic Armor and Weapon Impacts - 1.0.1
+The Gildergreen Grows - 1.1
+The Gildergreen Grows - USSEP - 1.1
+The Gildergreen Grows - GDO - 1.1
+Attack Animation Fling Fix NG - 0.0.8
+Children of the North Wind - Nordic Ruin Diversity - 4.9.99
+Children of the North Wind - Nordic Ruin Diversity - Lux Patch - 1.0
+Children of the North Wind - Nordic Ruin Diversity - Lux Via Patch - 1.1
+Children of the North Wind - Nordic Ruin Diversity - Spaghetti's Towns AIO Patch - 1.0
+Children of the North Wind - Nordic Ruin Diversity - The Restless Dead Patch - 4.5.1
+Lumbermill Log Pile FIX - Base Object Swapper - 1.1
+Azura's Audio Array - 1.0
+Penelope 3BA - 1.0
+Stealing is For Thieves - 2.1
+Blade of Solstheim - Teldryn Sero NPC Overhaul - 1.0
+ELLE - Mageali - 1.0
+Animation Ledge Block NG - 0.1.8
+NPCs React To Fire - 1.03
+West Wind Combat Series - Assault Armor UNP - 1.0 (for 3BA)
+West Wind - Assault Armor CBBE 3BAv2 - 1.3
+Elegant Merchant Clothes 3BA-SMP - 1.7
+Elegant Merchant Clothes 3BA-SMP - Hands Redone - 1.7
+Elegant Merchant Clothes 3BA-SMP - SPID - 1.3
+Follower Dismissal - Immersive Relationship System - 0.3.1
+Vsu vanilla armor and clothing configs - Modded - 1.0
+Vsu vanilla armor and clothing configs - Elegant Merchant Clothes - 1.0
+Vsu vanilla armor and clothing configs - Ghaan - 1.0
+Heels - Sound Record Distributor (SRD) - Patch Hub - 1.05
+Praedy's Soul Cairn 2K - 3.2
+Potema Revoiced - 1.01
+Scriptless Stagger Limit - Prevent Staggerlock - 1.2
+NPCs React To Fire - 1.04
+Rustic Bell-Bottoms 3BA - 1.0
+Simple Object Stasis - Paralysis Prevents Physics Mess - 0.1
+HFs - StrongBox Diversification - 1.0
+Dragon mounds - Better Collision - FuzzBeed Patch
+HAG - Occult Cradle Stone Tower - 1.0
+HAG - Occult Cradle Stone Tower - Lux Orbis - 1.0
+HAG - Occult Cradle Stone Tower - 3DNPC - 1.0
+Children of the North Wind - Nordic Ruin Diversity - ESP Update - 4.5.1
+Diverse Woodchopping Blocks - Base Object Swapper - 1.2
+Mageali - SE by Xtudo - Tweaks and Edits 4K - 1.0
+Mageali - SE by Xtudo - COTN - Morthal patch - 1.0
+OBody Next Generation ORefit JSON Master List - 2025.02
+Dead Dwarven Explodes - CIF - 2.0
+Alt-Tab Stuck Key Fix NG - 1.0
+Logical Rope Bridges - 0.2
+Lovely Makeup 3 - Racemenu Overlays - 1.0
+A New Debt - Alternative Solutions - 1.0
+HAG - Occult Cradle Stone Tower - Corrupted Cradle Stone Tower - 1.0
+Vsu vanilla armor and clothing configs - Modded - 1.5
+Valhalla Combat Race Compatibility Patches - 2.0
+SkyValor - Creature Patches - 1.0
+Armor Rating Recalculator - SkyPatcher - 1.0
+JUNO - Dahlia 3BA Preset for OBody - 1.0
+OBody NG Configuration File with Base CBBE and HIMBO Presets Blacklisted - 1.1
+JUNO - Iris 3BA Preset for OBody - 1.0
+OBodies - 3BA Preset Collection for OBody NG - 1.5
+Wench Body Preset v2 - CBBE 3BA BodySlide Preset - 2.0
+YUYOU's BodySlide Preset (3BA) - 1.0
+Smaller Fantasy Body - 3BA Bodyslide Preset - 1.0
+Yui Body Preset v2 - CBBE 3BA BodySlide - 2.0
+Widow Body - CBBE 3BA PRESET 3BBB - 1.0
+NTZ's APPLE PIE - 3BA UBE BHUNP Bodyslide Preset - 1.1
+Delia's Nightfall - Viper's 3BA Bodyslide Preset - 1.0
+Felicia's body - CBBE 3BA BodySlide Preset - 1.01
+EMMA FROST's Ass CBBE 3BA Bodyslide preset (Marvel Rivals) - 1.0
+Eye-Catching - CBBE 3BA Bodyslide Preset - 1.0
+Black Widow's Ass CBBE Bodyslide preset for SKYRIM - 1.0
+Thicc and Strong - HIMBO Bodyslide Preset - 1.0
+The Common Guy - SerketHetyt's HIMBO Bodyslide Preset - 1.0
+HIMBO Frost bodyslide preset - 1.0
+AW True Warrior Bodyslide Preset for HIMBO - 1.0
+Strongman - HIMBO Bodyslide Preset - 1.1
+LDD - Zeus - A HIMBO BodySlide Preset - 1.0
+TheMale 1 - HIMBO Bodyslide Preset - 1.0
+Miggyluv's HIMBO Presets - Endomorph - 1.0
+Miggyluv's HIMBO Presets - Perfection - 1.4
+TRX TNG Male Addon SMP - 1.2
+TRX TNG Futa Addon SMP - 1.2
+You Got Caught for OStim SA - Cheating And Public Lewdness Reactions - 1.2
+Emotional Tears Effect - Animated Shedding Tears Overlay SE - 2.0
+You Got Caught for OStim SA - Cheating And Public Lewdness Reactions - Emotional Tears - 1.2
+fnar - no kilmove andd no kil cam
+adamant no open revived creatures (wasnt this already here?)
+simply order summons - no dialogue menu
+
+
+Updated
+
+Simple Body Cleaner - 2.1.1
+Modex - A Mod Explorer Menu - 1.2.2
+Diziet's Player Home Bath Undressing - 7.1.0.9
+Growl - 3.2.1
+Legacy of the Dragonborn - Follower Room Patches - 4.0.9
+Celestine - 2.6
+Bedroll Alternative - BOS Color Variance - Use those Blankets - 1.0.3
+OSL Keywords (KID) - Various Armor Patches - 1.36
+League of Assassins Armor - 1.8
+League of Assassins - 3BA BodySlides - 1.8
+Kanjs - Sanguine Rose Animated - 2.0
+Heart of Ice - Astrid - OStim Integration - 1.3.1Beta
+Khisartin Beards - Standalone - 1.1.0
+Khisartin Brows - Standalone - 1.1.0
+Wolf Armor and Weapons Retexture SE - 1.2
+Iron Armors and Weapons Retexture SE - 2.1
+Celestine - Chooey's Choice - 1.1.2
+OCF Keywords for Kittytail's Magic - 1.3
+NPC Spell Variance - Mysticism - 1.0.7
+Rotols More Icons - 1.0.7.2
+Simply Open Source Voice Pack - 4.1
+Leather Armors Retexture SE - 1.1
+Glass Armors and Weapons Retexture SE - 2.2
+Sleipnir Beds - An Upper Class Bed Replacer - 1.0.1
+SPID - NFF - Add Ignore Token to CustomAI Followers - 1.0.46
+Skyrim Organized Sorting - A sorting mod - 1.1
+Skyrim Organized Sorting - Apothecary - 1.1
+Skyrim Organized Sorting - Gourmet - 1.1
+Skyrim Autocorrect - Dialogue Grammar Fixes - 1.0.4
+Skyrim Autocorrect - Standalone Aesthetics Addon  1.0.4
+Siege at Icemoth - 1.3.8
+Lovemaking Compendium for OStim Standalone - 1.13
+Immersive Persuasion - 1.6.1
+Female Moan Voicesets For Ostim Standalone - 1.3.2
+Container Distribution Framework - 1.6.640 1.6.659 Backport - 3.0.2BETA
+Fantasia Landscape Complex Material - 1.0
+Shores of Skyrim - Base Object Swapper - Part I - 1.4
+Shores of Skyrim - Base Object Swapper - Part II - 1.4
+OStim Standalone - Advanced Adult Animation Framework - 7.3.4e
+Follower Dialogue Expansion - Aela the Huntress - 5.0
+Follower Dialogue Expansion - Aela the Huntress - Eris - 4.0
+Vampire Animations - 2.0.4
+Improved Table Transition Animations - 1.4
+Modern Female Sitting Animations Overhaul - 2.0
+AI Overhaul SSE SkyPatcher Patch - 1.2.1
+Snozz's Resource Pack - 1.10
+Ordinary People - NPC Overhaul - 1.031
+Swindlers Den - 1.03
+Brutish Boulderfall Cave - FuzzBeed's Dungeons - 2.0
+Skyland Complex Material - 1.0.1
+Snowman Secrets - 1.0.1
+TNG 3D Female Pubic Hair - 1.2
+Guards and Stormcloaks Armors Retexture SE - 1.1
+Ancient Nord Armors and Weapons Retexture SE - 1.1
+Deadly Dragon Lair Locations - FuzzBeed's Dragon Lairs AIO - 2.1.1
+Skyking Unique Signs - 1.5
+Skyking Signs - 1.7
+NPC Spell Variance - Spell Variety AI - 2.2.2
+Dragon Weapons and Armor Retexture SE - 2.2
+Forsworn Armors and Weapons Retexture SE - 1.1
+Halffaces - Giant Mortar - 2.0
+Remarks of Dragonborn - 1.5
+Various Dialogue Tags - 4.0
+Unmarked Locations Pack - Apocrypha - 1.1
+Miggyluv's HIMBO Galore (AIO) - 1.0.8
+Extended Bandit Dialogue - 1.0.2
+OHorny - NPCs will watch you and masturbate while you are in Ostim Standalone Scene - 1.1.2
+Diziet's Player Home Bath Undressing for SkyrimSE - 7.1.1.1
+Modex - A Mod Explorer Menu (AddItemMenu) - 1.2.3
+Engaging Combat - Keep Combat Dynamic at Higher Levels - 6.4beta
+FYX 3D Stockades - Compatibility Tweaks - 2.1
+Scrab's Papyrus Extender - 2.1.5
+Custom Console - 1.1.0
+Realistic Boat Bobbing SE - Row Boats - 3.6
+Steeds of Skyrim - 1.10
+Mesmer Magic - Illusory Clone Decoys Spell Pack - 1.6.1
+eeekie's Taliesin - 1.2
+Improved Barstool Exit Animation - 1.3
+The Thalmor's Shadow - Taliesin (Custom Voiced Follower) - 1.04
+Shadelight - The Treasure Sea - 5.0test
+Unmarked Locations Pack - All In One - 1.3
+Better Skyrim Parties - Interesting Npcs - 1.9.5
+Storm Lightning for SSE and VR (Minty Lightning 2019) - 1.4.22
+Reimagined Mountain Flowers - 1.08
+High Quality Ivy - 1.35
+Various Dialogue Tags - 4.0.1
+Roaming Girl's Attire - 1.1
+ChickenMike's Random Assortment of Patches (C.R.A.P.) - 3.9
+EVG Conditionals extended - 1.6
+Miggyluv's HIMBO Galore (AIO) - 1.0.9
+The Dragonborn's Bestiary - 1.5.2
+USMP - 1.3.33
+lilebonymace patches - 2.45
+SkyPatcher - 3.9.0
+PASH - Piercings Auto Hide and Show - 2.12
+Legacy of the Dragonborn SSE V6 - 6.10.0
+OSL Keyworsd (KID) - Various Armor Patches - 1.33
+Water for Enb - 2.05
+Holy Templar Magic - 1.42
+Animated Armoury - Fixes - 8.1
+Animated Armoury - Enchantments - 8.1
+Test HDT Earrings SMP - 1.5
+Kala's Beast Eyes - Improved - 2.0
+New Creature Animation - Falmer - 2.0
+Quest Journal Overhaul - 1.3
+Ingredients Have Description - 1.6
+Narrative Gameplay Consistent Dialogue Tweaks - 1.10.2
+AISO - Andrealphus Illusion Spells Overhaul - 0.2.1
+Skyrim Organized Sorting - A sorting mod - 1.2
+Miggyluv's HIMBO Galore (AIO) - 1.0.10
+Ocato's Recital Rebalanced - 1.0.1
+ERM - Complex Parallax Materials - 2.3
+Dylbills Papyrus Functions - 9.2
+Atlas Map Markers SE - Updated with MCM - 3.0.4
+Just Knock - Simply Knock DAK Patch - Mysticism - 1.0alpha
+Shadelight - The Treasure Sea - V5.0Final
+Legacy of the Dragonborn - Follower Room Patches - 4.0.10
+Olenveld - Fix - 1.1c
+JS Vanilla Circlets SE - 1.13
+Collectibles Helper - 1.0.3
+Simplicity of Seeding - Better Hearthfires Planter Scripts - 0.6.4
+Bards - Go the F to Sleep - 1.3.1
+AFDI - Aetherium Forge Destroys Items - 1.9
+Diverse Tanning Racks - Base Object Swapper - 1.3
+Open Animations Romance and Erotica - 1.52.1
+Denizens of Morthal - Dialogue and Character Expander (TAGS - Benor Erandur Valdimar Eisa Blackthorn Conversations) (SE-AE Port) - 1.5
+Simplicity of Snow - 0.24.1
+Practical Necromancy - 1.8.4
+Practical Necromancy - CSF - 1.8.4
+Practical Necromancy - KID - 1.8.4
+Practical Necromancy - SPID - 1.8.4
+Before the End - Quest Mod - 1.0.1
+Unofficial Material Fix - 1.18
+Usable Campfires - 1.4.1
+[RMB SPIDified] New Legion - 4.0.2
+Comprehensive Attack Speed Patch - SKSE - 1.1.2.14
+Sleep for me now - 211016.0
+Race Compatibility SKSE - 2.1
+Race Compatibility SKSE - Patch Hub - 2.1.1
+Ornaments of the Dragon Cult - Dragon Priest Metal Expansion - Base Object Swapper - 1.4
+JS Vanilla Circlets SE - 1.3.1
+CBBE 3BA Vanilla Outfits Redone - 4.1.7
+PhotoMode - 1.9.1
+Spells of Silly - 1.3
+Quest Dialogue Tags (Main, Skyrim and DLC) - 1.2.0b
+Read The Spell Incantation - 1.6
+Activation Animations NG - 2.3.2
+Sovngarde Light Font (for reducing bugs with Auto Grammar Fixes)
+Riding Animation Overhaul - RAO (OAR - DAR) - 1.4
+Dialogue History - 2.1.2
+Fire-Tounged Daedroths - Attacko's Daedra Integration and Rebalance
+Better Third Person Selection - BTPS - 0.8.3
+JK's Interior Patch Compilation - 5.26
+Particle Patch for ENB - 1.3.8
+Soul Resurrection - 1.1.4
+SkyValor - 3.5.1
+Einherjr 3BA - 2.2
+Ancient Imperial Armour SE 3BA - 0.3
+Embers XD  - 3.1.1
+Immersive Fishing - 1.4.1
+Follower Interact with Gestures - 1.0.4
+Assorted Mesh Fixes - 0.127
+Assorted Mesh Fixes - 0.127
+Simply Order Summons - 0.12.1
+Andrealphus' Papyrus Functions - 1.5.2
+Dragons Use Thu'um - Patches - 6.5Update
+Fine Fall Ferns - Base Object Swapper - 1.1
+Modern Lighting Overhaul (MLO) - 4.0Chronomancer Armor - 1.4
+West Wind Combat Series - Misfit Mage Restitched - CBBE 3BA - HDT-SMP - 1.2.2
+Hiraya Eyes - 1.2.1
+GG's Thieves Guild HQ Patch Collection - 1.8.1
+Skyrim Landscape and Water Fixes - 9.3
+S.T.A.R. (So This Aint Right) - 1.0.7
+AJO - Andrealphus' Jobs Overhaul - 1.4.1
+Mysteries of the Dwemer - Quest Mod - 1.0.3
+Memorable Bounties - Witcher Inspired Quests - 1.0.4
+Whispers of the Depths - Quest Mod - 1.0.3
+Final Farewell - Quest Mod - 1.0.4
+DD-Blood Oath 3BA CBBE - 4.1
+Vsu vanilla armor and clothing configs - 4.2
+A Dizzying Fall - Quest Mod - 1.0.3
+A Conversation - Quest Mod - 1.0.2
+The Serpent's Covenant - Quest Mod - 1.0.3
+Bark and Bite - Witcher Inspired Quest - 1.0.3
+The Breathing Abyss - Lovecraft Inspired Mod - 1.0.7
+Behind and Beyond - Quest Mod - 1.0.7
+Before the End - Quest Mod - 1.0.2
+Depths of the Soul - Elden Ring Inspired Quest Mod - 1.0.2
+The New Gentleman - Underwear.dll Patch - 2.0
+The Heart of Dibella - Quest Expansion - 1.07
+OSL Keywords (KID) - Various Armor Patches - 1.37
+Skyking Alchemy Ingredients - 1.1
+Draw Fix - Move Equip Animation Fix - 1.1
+Katana - Journey in the Shadows - 3.0.5
+Children of the North Wind - Nordic Ruin Diversity - Plugin Update - 4.0.1
+Children of the North Wind - Nordic Ruin Diversity - Lux Orbis Patch - 4.0
+Children of the North Wind - Nordic Ruin Diversity - Complex Material - 4.5.1
+Children of the North Wind - Nordic Ruin Diversity - Deadly Dragon Lair Locations Patch - 1.0
+Children of the North Wind - Nordic Ruin Diversity - Lux Patch - 3.1
+Distant Blur - 1.2
+Fishermen Fish - 1.4
+Fishermen Fish - Slay-Many-Beasts - 1.4
+Seagulls- Mihail Monsters and Animals (SE-AE version) - 1.1
+Highly Improved Male Body Overhaul - 5.5
+Highly Improved Male Body Overhaul - Refits - 5.5
+Highly Improved Male Body Overhaul - Physics Addon - 5.5
+Children of the North Wind - Nordic Ruin Diversity - Mandragorasprouts Draugr Patch - 3.1
+ORomance Plus - 2.05
+ORomance Plus - Official Patch Hub (FOMOD) - 1.02
+Terrain Helper for ENB - 0.3.3
+Herectical Haemar's Shame - FuzzBeed's Daedra Dens - 2.0
+Modern Lighting Overhaul (MLO) - Official Patch Hub - 2.2.2
+Follower Dialogue Expansion - Erik the Slayer - 2.0.1.1
+Bound Companions - OStim Summons - 2.0 (moved to intrusive)
+USE THIS OR OBLUSH - NOT BOTH - Ahegao Expressions - Customize Ahegao Reactions in Ostim Standalone - 1.2
+Legacy of the Dragonborn - Creation Club Patch Hub - 6.0.10
+JK's Castle Dour - 1.3.1
+DD - Elanor Timeless Elegance 3BA SMP - 1.3
+
+
+Removed
+
+Orpheus - because gargoyle spawn 
+eekie's orpheus - same as above
+heretical haemars shame - orpheus - same as above
+Fantasia Landscape Parallax (using complex material only now)
+Orc Stronghold - Nazulbur and Mor Khazgur - i think i required more patchees to it, decided to keep spaghetti and just go with snazzy clutter changes
+Ordinary People - NPC Overhaul - CTD fix (no longer needed)
+temporarily removed all kaidan because I'm really lazy to reinstall everything and check everything
+Capture Warmer - removed because it causes camera dance after loading screens
+Dang It's Mimic - Base Object Swapper - too horny (removed TNTR baka trap etc)
+Tavern AI fix https://www.nexusmods.com/skyrimspecialedition/mods/23107
+Mage Armor Script Fix https://www.nexusmods.com/skyrimspecialedition/mods/58862
+CritterSpawn Congestion Fix https://www.nexusmods.com/skyrimspecialedition/mods/67276
+Robber's Gorge Fixes https://www.nexusmods.com/skyrimspecialedition/mods/81495
+Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO https://www.nexusmods.com/skyrimspecialedition/mods/97155
+Dremora Combat Dialogue Tweak https://www.nexusmods.com/skyrimspecialedition/mods/93583
+Dustman's Cairn Farkas Scene Fix https://www.nexusmods.com/skyrimspecialedition/mods/116472
+Ultimate Optimized Scripts Compilation https://www.nexusmods.com/skyrimspecialedition/mods/122999 (want to keep the separate Simplicity of Seeding Patch though)
+Dragonactorscript infinite loop fix https://www.nexusmods.com/skyrimspecialedition/mods/87940
+Motionless Rocks Killing People Fix https://www.nexusmods.com/skyrimspecialedition/mods/87111
+Move it Dammit - for Skyrim Special Edition https://www.nexusmods.com/skyrimspecialedition/mods/752
+Chillwind Depths CTD Fix https://www.nexusmods.com/skyrimspecialedition/mods/44249
+Believable Crime Report Radius https://www.nexusmods.com/skyrimspecialedition/mods/2802
+Vanilla Script (micro)Optimizations https://www.nexusmods.com/skyrimspecialedition/mods/54061 (included in Ultimate Optimized Scripts Compilation, which in turn is included in USMP)
+this also makes Vanilla Script (micro)Optimization 1.16a - Adoption Bug Fix https://www.nexusmods.com/skyrimspecialedition/mods/97901 redundant
+OnMagicEffectApply Replacer https://www.nexusmods.com/skyrimspecialedition/mods/67968 (included in Ultimate Optimized Scripts Compilation, which in turn is included in USMP)
+and the paarturnx script from vanilla script optimized
+USMP - LOTD HOTFIX
+thuldor ivarstead (temporary)
+EEOS and EEOS ex (because npc spell ai variance should do the trick already)
+Diverse Tanning Racks - Base Object Swapper (the useless files)
+font types - for using sovngard to reduce issues
+frea thingy
+lotd immnersive dialogue
+heels sound 1.6
+bortder rock fix
+more carriagers more ferries
+shroom beetles
+simple beheading (never meant to be there lol)
+1000 bodyslides
+pubes opubes and addons
+obody hotswap
+dead and daedric (for practical necromancy)
+
+
+
+
 
 ## 0.9.0.6 - Save Compatible, clean save procedure is recommended.
 
