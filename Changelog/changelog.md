@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.9.1.5](#0915---save-compatible) - `02/05/2025`
 - #### [0.9.1.4](#0914---not-save-compatible) - `29/04/2025`
 - #### [0.9.0.6](#0906---save-compatiblle-recommended-clean-save-procedure) - `27/08/2024`
 - #### [0.9.0.5](#0905---save-compatible) - `24/08/2024`
@@ -40,6 +41,76 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## Changelog - 0.9.1.5 - Save Compatible
+
+# Added
+
+- Caryalind Thallery The Aldmeri Prince (Sidekicks of Tamriel - Custom Voice Follower) - 1.4.2
+- Caryalind Thallery Replacer by ArisuSachiko
+- DD - Vergi jewelry III - 5.0
+- Draugrs - SE by Xtudo - Olenveld 2K - 5.7
+- Forbidden Ebony Armor - 1.0
+- Phantom Horse Quest Integration - raziel - 1.0
+- Skyrim's Paraglider - 1.5 (forgot to add it for requirements for ONE)
+- Skyrim's Paraglider Anniversary Edition Update - 1.10
+
+
+# Updated
+
+- OStim Standalone - Advanced Adult Animation Framework - 7.3.5
+- Valhalla Combat Race Compatibility Patches - 3.0
+- Attack Animation Fling Fix NG - 0.1.3
+- Animation Ledge Block NG - 0.2.3
+- Shaders of Solstheim - Ash and Moss - 0.3
+- Simplicity of Snow - 0.25
+- Simply Open Source Voice Pack - 4.2
+- Adventurers Tunic - Vanilla HIMBO CBBE - 2.3
+- Praedy's Apocrypha - SE - Complex Material - 1.1
+- JK's Radiant Raiment - 1.0.3
+- Kaidan 2 - 2.1.1
+- Kaidan Extended All-In-One - Latest as of 01/05/25
+- Pep's Kaidan Makeover - 1.1
+- KR2's Kaidan NPC Overhaul - 1.2.4
+- Song of the Green (Auri Follower) - Kaidan - 0.2
+- Kaidan 2 - HD Retexture and Upscale - 2.0
+- SkyParkour v2 - Original Low Ledge Behavior Restored - 1.0
+- SkyParkour v2 - Invisible Markers - 1.0
+- Sepolcri - A Complete Burial Sites Overhaul - 2.2
+- HDT-SMP Armor scanning bug fix - 1.1
+- Valhalla Combat Race Compatibility Patches - 1.0.9
+- DD - Emerald Cloth 3BA - CBBE - 4.3
+- The New Gentleman - 4.2
+- ChickenMike's Random Assortment of Patches (C.R.A.P.) - 3.10
+- Follower Dismissal - Immersive Relationship System - 0.3.2
+- Draugrs - SE by Xtudo - LOTD Comp - 2K - 5.4
+- Animation Ledge Block NG - 0.2.6
+- DD - Elanor Timeless Elegance 3BA SMP - 1.4
+- Attack Animation Fling Fix NG - 0.1.5
+- Modular Mage - CBBE 3BA - HDT SMP - 1.4
+- Elden Rim - Stagger Only - 3.6.6
+- Elden Rim - Weapon Arts for Poise - 3.0.6
+- JS Vanilla Circlets SE - 1.15
+- Engaging Combat - Keep Combat Dynamic at Higher Levels - 6.5
+- OStim Standalone - Advanced Adult Animation Framework - 7.3.5a
+
+
+# Changed
+
+- redid widescreen patches according to street.bitch and ayla, to prevent issues and actually make it work, ty <3
+
+- deleted campfire meshes from parallax gen to avoidd purple textures
+- deleted base shrine mesh from MLO Patch Hub to avoid shrines with purple texture
+- removed quicklootIE settings loader to see if there is a change in the crash
+- copied skee64.ini to overwrite output to prevent wabbajack activating bodygen and causing crashes in bad installations
+- reinstalled SCAR with default animations and animations patched for combat pathing revolution - an attempt to fix the SCAR error of IdleAnimation not found
+
+# Removed
+
+- Body Slots (removed to provide a easier widescreen activation)
+- Bound Hands OAR - Possibly conflicting with SCAR current crash
+
+
 
 ## 0.9.1.4 - Not Save Compatible
 
