@@ -1,4 +1,6 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.9.1.7](#0917---save-compatible) - `03/05/2025`
+- #### [0.9.1.6](#0916---save-compatible) - `03/05/2025`
 - #### [0.9.1.5](#0915---save-compatible) - `02/05/2025`
 - #### [0.9.1.4](#0914---not-save-compatible) - `29/04/2025`
 - #### [0.9.0.6](#0906---save-compatiblle-recommended-clean-save-procedure) - `27/08/2024`
@@ -41,6 +43,55 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## Changelog - 0.9.1.7 - Save Compatible
+
+# Changed
+
+- rollback of true sons of skyrim refined because of a freeze in whiterun
+- disabled quickloot for chests
+
+
+## Changelog - 0.9.1.6 - Save Compatible
+
+# Added
+
+- Sanguine Symphony - 1.0
+- Obi's Druchii Armor 4K SMP 3BA UBE BHUNP - 1.31
+- Open Dress HIMBO - 1.1
+- Boulder in Skyrim - 1.2
+- Dangerous Dwemer Dungeon - New Trap Addition - 1.0
+- ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA - 1.2.3
+- VIGILANT - By Xtudo SE - and Lux - Bathing Room addon - 2.6
+- Vokriinator Black - Pilgrim patch - 6.15
+
+# Updated
+
+- Animation Ledge Block NG - 0.2.7
+- Attack Animation Fling Fix NG - 0.1.5
+- OStim Standalone - Advanced Adult Animation Framework - 7.3.5a
+- Lavatera Armor - 1.2
+- Billyy's animations for Ostim Standalone - 3.0.1
+- Companions Dialogue Bundle - 1.6
+- DD - Emerald Cloth 3BA - CBBE - 4.4
+- GG's Thieves Guild HQ Patch Collection - 1.8.2
+- HDT-SMP Vanilla Armors (Player Exclusive) - 3BA - 1.1alpha
+- Core Impact Framework (CIF) - 1.1.1
+- Sanguine Symphony - 1.0.1
+- DD - Vergi jewelry III - 5.1
+- Vokriinator - Choice Cuts - 6.15.3
+- True Sons Of Skyrim Refined - 5.2.0
+
+# Changed
+
+- deleted campfire meshes from parallax gen to avoidd purple textures
+- deleted base shrine mesh from MLO Patch Hub to avoid shrines with purple texture
+- changed falmer animation, removed SCAR version and added OAR version, this should fix SCAR error in falmer dungeons and prevent crashes
+
+# Removed
+
+- IFS and IFS config VSU - probably causing invisible bodies during OStim scenes
+
 
 ## Changelog - 0.9.1.5 - Save Compatible
 
