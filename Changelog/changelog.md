@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.9.1.8](#0918---not-save-compatible) - `05/05/2025`
 - #### [0.9.1.7](#0917---save-compatible) - `03/05/2025`
 - #### [0.9.1.6](#0916---save-compatible) - `03/05/2025`
 - #### [0.9.1.5](#0915---save-compatible) - `02/05/2025`
@@ -43,6 +44,50 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## Changelog - 0.9.1.8 - Not Save Compatible
+
+Unfortunately, due to VSU being removed, save games will break, I also took the opportunity to remove some mods that I think weren't good to be kept, tested all the major things, will close down the threads that are not relevant anymore.
+
+# Added
+
+- FYX - Alpha Blood Blending Bug - NG - 1.0
+- BloodMoon - Outfit Patch by Jumi985 ty <3
+- Billyy's animations for Ostim Standalone - ESLified - 3.0.2
+- Weapon Styles - IED animations (readded, hopefully it'll work now) - 3.0.1
+- The Royal Seat - JK Cow and Winking Skeever - 1.0.1
+
+
+# Updated
+
+- Settling of Squad - Set Follower Home - 0.5.1
+- Race Compatibility SKSE - 2.2
+- Race Compatibility SKSE - Patch Hub - 2.1.2
+- Legacy of the Dragonborn Patches (Official) V6 - 6.9.1
+- OSleep - 1.2
+- 3dnpcs Fixes and Tweaks - 5.5
+- Diziet's Player Home Bath Undressing for SkyrimSE - 7.1.1.2
+- Conditional Expressions Extended - 2.0.8
+- Vampire Feed Decals - 2.3
+- Vampire Animations - 2.0.5
+
+
+# Changed
+
+- Moved skypatcher.ini to overwrite output to avoid it resetting
+- Redid some textures for campfire, this should fix the purple textures for good
+- Added RSV patch for Ashe
+- Reactivated settings loader for quickloot with profile saved, this should disable it for chests, at least for unlocked
+
+
+# Removed
+
+- FYX - Alpha Blood Blending Bug (the old version)
+- Sleep for me now (annoying dialogue)
+- Relationship Immersive Dismissal (annoying dialogue)
+- VSU and all its dependencies (not working properly, not sure if even worth the trouble)
+- Shadow over Illinalta - Falkreath Lite (duplicate)
+
 
 ## Changelog - 0.9.1.7 - Save Compatible
 
