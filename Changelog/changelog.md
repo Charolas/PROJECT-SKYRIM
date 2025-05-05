@@ -1,4 +1,5 @@
 # Changelog | [Project Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/76466)
+- #### [0.9.1.9](#0919---not-save-compatible) - `05/05/2025`
 - #### [0.9.1.8](#0918---not-save-compatible) - `05/05/2025`
 - #### [0.9.1.7](#0917---save-compatible) - `03/05/2025`
 - #### [0.9.1.6](#0916---save-compatible) - `03/05/2025`
@@ -44,6 +45,12 @@
 - #### [0.6.0](#060---a-new-journey) - `10/24/2022`
 - #### [0.5.0.2](#0502) - `10/6/2022`
 - #### [0.5.0.1](#0501) - `10/4/2022`
+
+## Changelog - 0.9.1.9 - Not Save Compatible
+
+# Removed
+
+- Vampire Feeding Tweaks (incompatible with sacrosanct)
 
 ## Changelog - 0.9.1.8 - Not Save Compatible
 
