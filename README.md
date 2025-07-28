@@ -35,21 +35,31 @@ There are three versions of the Skyrim `.ini` configuration files available on N
 > The **PROJECT Skyrim** `.ini` files are located at `%ProjectSkyrimLocation%\profiles\Default`. 
 
 ## 2.3 Disk Space Requirements
-* Disk Space as of PS version [0.9.1.x]:
+### PROJEKT Skyrim version [0.9.0.x]
+* Disk Space as of PS version [0.9.0.7]:
    *  10 GB for the WJ PS file from Nexus
-   * 300 GB for the mod downloads
-   * 450 GB for the installation folder
+   * 220 GB for the mod downloads
+   * 350 GB for the installation folder
    *  40 GB for the page file
-*  ...**so a total of 800 GB**
-   * During the installation process, as archives get unpacked and files moved around, there will be some *temporary* overhead space needed.
- 
+*  ...**so a total of 620 GB**
+
+### PROJEKT Skyrim version [0.9.1.x]
+* Disk Space as of PS version [0.9.1.9]:
+   *  10 GB for the WJ PS file from Nexus
+   * 265 GB for the mod downloads
+   * 445 GB for the installation folder
+   *  40 GB for the page file
+*  ...**so a total of 760 GB**
+
+During the installation process, as archives get unpacked and files moved around, there will be some *temporary* overhead space needed. As much as 30GB has been reported.
+
 Keep in mind that you should avoid filling your drives to full capacity. For optimal performance and system stability, it is generally recommended to maintain at least 10–15% of free space.
 
 > **PROJECT Skyrim** must be installed on an <ins>**internal SSD**</ins>, it <ins>**cannot**</ins> be installed on an HDD or an external drive of any kind.
 
 Your <ins>**downloads**</ins> can be stored on a different drive than the installation — this can even be an HDD. However, network and OneDrive locations are not supported.
 
-Once installation is complete, the downloads folder can technically be deleted. However, it is recommended to keep them on an external drive if you are low on space, as they will be needed again when updating to a new version. Repairing the installation (by re-running it via WJ) typically only requires the downloads for any broken mods.
+Once installation is complete, the downloads folder can technically be deleted. However, it is recommended to keep them on an external drive if you are low on space, as they will be needed again when updating to a new version. Repairing the installation (by re-running it via WJ) only requires the downloads for any broken mods.
 
 ## 2.3 Other
 * **Windows**
@@ -73,7 +83,7 @@ Once installation is complete, the downloads folder can technically be deleted. 
 * **Antivirus/Firewall**
   * Third-party antivirus programs often interfere with installation and gameplay. Creating exceptions is usually ineffective and not recommended for security reasons. Windows Defender is sufficient and all you need — uninstall any other antivirus software.
 * **OneDrive**
-  * Ensure that none of the folders involved are OneDrive locations - if  your `My Documents` folder (where your save files are being stored) is synchronized with OneDrive, it will lead to memory access issues.
+  * Ensure that none of the folders involved are OneDrive locations - if  your `My Documents` folder (where your save files are being stored) is synchronized with OneDrive, it will lead to memory access issues and potential save corruption.
 * **Overlays**
   * Game overlays have been under suspicion to cause instability, so it is generally recommended to turn them off.
 * **[Skyrim Special Edition (Steam)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)**
@@ -83,21 +93,16 @@ Once installation is complete, the downloads folder can technically be deleted. 
 * **[LoversLab Account](https://www.loverslab.com/)**
   * You no longer need to log into LoversLab in Wabbajack *before* the installation, you will be prompted *during*, instead.
 * **~~[VectorPlexus Account](https://vectorplexis.com/)~~** 
-  * ~~VectorPlexus is permanently down, please join the Discord to acquire any missing mods from the backup links.~~ `no longer required for v0.9.1.x`
-* **~~[Mega Account](https://mega.io/)~~**
-  * ~~Required for some files not hosted on Nexus.~~ `no longer required for v0.9.1.x`
+  * ~~VectorPlexus is permanently down, please join the Discord to acquire any missing mods from the backup links.~~ `no longer required from v0.9.0.7 upwards, site is dead`
+* **[Mega Account](https://mega.io/)**
+  * Required for some files not hosted on Nexus. `no longer required for v0.9.1.x`
 
-## 2.4 Steam Library Location
-Your Steam library <ins>must not be located</ins> in `Program Files`, it is a special folder protected by Windows UAC, which will cause issues down the line. Use **[this tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide)** to move your library somewhere else - DO NOT simply drag-and-drop your files.
-
-> No support will be provided for Skyrim installations located in `Program Files`.
-
-## 2.5 Vanilla Skyrim Setup
+## 2.4 Vanilla Skyrim Setup
 You will require an up-to-date installation of **[Skyrim Special Edition or Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition)**.
 
 If starting from a fresh install: 
 * Launch the game from Steam.
-* Download the free Creation Club content:
+* Let it download the free Creation Club content:
   * Fishing
   * Rare Curios
   * Survival Mode
@@ -132,16 +137,7 @@ Once the modlist installation is complete, any changes to your Steam Skyrim inst
 
 ## 3.2 Install SSE Creation Kit (Steam)
 ### PROJEKT Skyrim version [0.9.0.x]
-Install the **[SSE Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)** (free) into the same library/folder that your Steam Skyrim SE installation is located in. You do not need to run it before installing the modlist.
-
-For PS version [0.9.0.x], the Creation Kit must be <ins>downgraded</ins> as follows:
-
-* Press `Windows key + R` to open the "*run*" prompt.
-* Paste `steam://open/console` and press `Enter` to open the Steam console.
-* There, paste `download_depot 1946180 1946183 2725999750516785042`  and press `Enter`.
-* Then, paste `download_depot 1946180 1946182 926444740758492387` and press `Enter`.
-
-The console will tell you where it has placed the depot folders; open them and place all files <ins>from within</ins> into `%SteamLibraryLocation%\steamapps\common\Skyrim Special Edition\`, overwriting when prompted. If you are <ins>not</ins> prompted, you did it wrong...
+For PS version [0.9.0.7], Creation Kit is <ins>no longer required</ins>.
 
 ### PROJEKT Skyrim version [0.9.1.x]
 For PS version [0.9.1.x], Creation Kit is <ins>no longer required</ins>.
@@ -233,8 +229,9 @@ Our community has compiled a list of mods that often give users trouble. Join th
     * Once the files have been downloaded, rerun the Wabbajack installation.
   * If the file name was <ins>upper-case-C "Curios"</ins>:
     * Launch Skyrim SSE via Steam.
-    * Select "*Creations*" from the main menu.
-    * Search for `Rare Curios` and download them.
+    * Click on `Creations` in the main menu.
+    * Select `Options` from the menu at the bottom.
+    * Select `Download all owned Creation Club Creations`.
     * DO NOT Alt+Tab out, leave the game window active until the download is finished.
     * Exit the game, DO NOT verify game files.
     * Rerun the Wabbajack installation.
@@ -280,7 +277,7 @@ Starting from version [0.9.1.x], ENB Frame Generation is active by default.
 ## 4.7 Optional Mods and Modifications
 In MO you will notice a separator called `Optional Packages`, under which you will find mods that are not enabled by default. If you want to use any of them: Enable them, and check for errors (triangle in top right of MO) in case you missed any that need to be activated together. Then go to `tools -> plugin tools -> sync plugins` to send the newly enabled plugins to the appropriate spot in the load order.
 
-> The mods pane should be ordered by the `Priority` column (far right).
+> The mods pane must be ordered by the `Priority` column (far right).
 
 The list is structured so that mod order corresponds to plugin order. If you want to add any mods, yourself: <ins>**Group similar mods together**</ins>. You can use `RMB -> Send to... -> Separator` to quickly move your additions to the appropriate section. Then, sync the order using `tools -> plugin tools -> sync plugins`. It is good practice to prefix custom additions with [NoDelete] to prevent WJ from removing them if re-run, and to make them easy to find via the search filter.
 
@@ -322,38 +319,4 @@ Additionally:
 ## 6.1 Safe Save Guidelines
 To avoid save game corruption, follow these guidelines for **safe saving practice**:
  
-* Never <ins>**quicksave**</ins> (even if you have the ability to do so, and definitely don't turn it back on if it's off).
-* Never <ins>**reload**</ins> in game - quit to desktop and boot up the game fresh if you want to load a different save.
-* Never <ins>**overwrite**</ins> a save, new saves only.
-* Do not save during <ins>**script-heavy**</ins> moments, such as:
-  * during or immediately after combat
-  * moving at high speeds
-  * immediately after changing cells (better *before* changing cells)
-  * during dialogue, crafting, photo mode
-  * during animations
-
-## 6.2 Death Alternatives
-Keep a <ins>**death alternative**</ins> enabled to prevent reloads on death.
-
-### PROJEKT Skyrim version [0.9.0.x]
-* `Stay in the Fight`
-
-"*Stay in the Fight*" is currently bugged and must be disabled and re-enabled via its MCM:
-* Go to the "*Stay in the Fight*" MCM, find "*Pact with the Gods*" and disable it.
-* Close the menu completely.
-* Go back to the MCM and re-enable "*Pact with the Gods*".
-
-> If you do not do this, your game will crash when you die, and/or your save will get corrupted!
-
-### PROJEKT Skyrim version [0.9.1.x]
-* `Soul Resurrection`
-
-Works as intended out of the box.
-
-# 7 Discord
-For additional information and support, we invite you to join our **[Discord](https://discord.gg/hBMst84gUp)** server. There, you will find <ins>FAQs</ins> addressing common questions, <ins>support</ins> channels for assistance with installation, gameplay, and modifications, as well as sticky posts with the <ins>latest important information</ins>.
-
-If you fail to join successfully, a bot will inform you of the reason (provided your DMs are open). Your account must be at least 2 days old to join, and you will need to complete a verification step within 10 minutes of joining. 
-
-# Legal
-If anything happens to Charolas and he cannot continue PROJECT Skyrim, anyone is free to continue as long as they contact the team first, or the team can continue if they wish to do so. Any remaining funds that Charolas did not redeem can be shared between the team members.
+* Never <ins>**quicksave**</ins> (even if you have the ability to do so, and definitely
