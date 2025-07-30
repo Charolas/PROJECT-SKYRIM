@@ -319,4 +319,38 @@ Additionally:
 ## 6.1 Safe Save Guidelines
 To avoid save game corruption, follow these guidelines for **safe saving practice**:
  
-* Never <ins>**quicksave**</ins> (even if you have the ability to do so, and definitely
+* Never <ins>**quicksave**</ins> (even if you have the ability to do so, and definitely don't turn it back on if it's off).
+* Never <ins>**reload**</ins> in game - quit to desktop and boot up the game fresh if you want to load a different save.
+* Never <ins>**overwrite**</ins> a save, new saves only.
+* Do not save during <ins>**script-heavy**</ins> moments, such as:
+  * during or immediately after combat
+  * moving at high speeds
+  * immediately after changing cells (better *before* changing cells)
+  * during dialogue, crafting, photo mode
+  * during animations
+
+## 6.2 Death Alternatives
+Keep a <ins>**death alternative**</ins> enabled to prevent reloads on death.
+
+### PROJEKT Skyrim version [0.9.0.x]
+* `Stay in the Fight`
+
+"*Stay in the Fight*" is currently bugged and must be disabled and re-enabled via its MCM:
+* Go to the "*Stay in the Fight*" MCM, find "*Pact with the Gods*" and disable it.
+* Close the menu completely.
+* Go back to the MCM and re-enable "*Pact with the Gods*".
+
+> If you do not do this, your game will crash when you die, and/or your save will get corrupted!
+
+### PROJEKT Skyrim version [0.9.1.x]
+* `Soul Resurrection`
+
+Works as intended out of the box.
+
+# 7 Discord
+For additional information and support, we invite you to join our **[Discord](https://discord.gg/hBMst84gUp)** server. There, you will find <ins>FAQs</ins> addressing common questions, <ins>support</ins> channels for assistance with installation, gameplay, and modifications, as well as sticky posts with the <ins>latest important information</ins>.
+
+If you fail to join successfully, a bot will inform you of the reason (provided your DMs are open). Your account must be at least 2 days old to join, and you will need to complete a verification step within 10 minutes of joining. 
+
+# Legal
+If anything happens to Charolas and he cannot continue PROJECT Skyrim, anyone is free to continue as long as they contact the team first, or the team can continue if they wish to do so. Any remaining funds that Charolas did not redeem can be shared between the team members.
