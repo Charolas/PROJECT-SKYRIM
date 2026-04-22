@@ -52,7 +52,7 @@ There are three versions of the Skyrim `.ini` configuration files available on N
 
 > While a USB 3.2 external SSD may match or exceed a slower internal SSD in throughput, the key difference is how Windows handles the device. An internal SSD is connected directly via SATA or NVMe and exposed as a local NTFS volume. This gives consistent, low-latency access that MO’s virtual filesystem and SKSE plugins require. An external SSD sits behind a USB controller, adding latency on every file operation and presenting the device differently to the operating system.
 
-Your <ins>**downloads**</ins> can be stored on a different drive than the installation — this can even be an HDD. Network and OneDrive locations are not supported for this purpose, either.
+Your <ins>**downloads**</ins> can be stored on a different drive than the installation - this can even be an HDD. Network and OneDrive locations are not supported for this purpose, either.
 
 > Once installation is complete, the downloads folder can technically be deleted. However, it is recommended to keep them on an external drive if you are low on space, as they will be needed again when updating to a new version. Repairing the installation (by re-running it via WJ) only requires the downloads for any broken mods.
 
@@ -61,7 +61,7 @@ Your <ins>**downloads**</ins> can be stored on a different drive than the instal
   * Your operating system must be up-to-date; at least:
     * **Windows 11**: Service pack 23H2 or 24H2 and no pending updates
     * **Windows 10** - Home/Pro: Service pack 22H2 build 19045.5198
-    * **Windows 10 LTSC, IoT Enterprise & custom ISOs** (including the use of debloaters): these do not support .NET 9 which Wabbajack depends on
+    * **Windows 10 LTSC, IoT Enterprise & custom ISOs** (including the use of debloaters): not supported
   * To find what version of Windows you are running: 
     * Press `Windows + R`
     * Type `Winver` and press `Enter`
@@ -76,21 +76,21 @@ Your <ins>**downloads**</ins> can be stored on a different drive than the instal
   * Wabbajack and Mod Organiser depend on the latest release of VS C++:
     * [Visual Studio C++](<https://aka.ms/vs/17/release/vc_redist.x64.exe>)
 * **Antivirus/Firewall**
-  * Third-party antivirus programs often interfere with installation and gameplay. Creating exceptions is usually ineffective and not recommended for security reasons. Windows Defender is sufficient and all you need — uninstall any other antivirus software.
+  * Third-party antivirus programs often interfere with installation and gameplay. Creating exceptions is usually ineffective and not recommended for security reasons. Windows Defender is sufficient and all you need - uninstall any other antivirus software.
 * **OneDrive**
-  * Ensure that none of the folders involved are OneDrive locations - if  your `My Documents` folder (where your save files are being stored) is synchronized with OneDrive, it will lead to memory access issues and potential save corruption.
+  * Ensure that none of the folders involved are OneDrive locations - if  your `My Documents` folder (where your save files are being stored) is synchronized with OneDrive, it will lead to memory access issues and save corruption.
 * **Overlays**
   * Game overlays have been under suspicion to cause instability, so it is generally recommended to turn them off.
 * **[Skyrim Special Edition (Steam)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)**
-  * Wabbajack does not support pirated copies of the game, and neither do we.
+  * Other store fronts and pirated copies not supported.
 * **[Nexus Account](https://www.nexusmods.com/)**
   * Premium recommended for automated downloads and higher download speed. Otherwise, be prepared to click "*manual download*" 5k times.
-* **~~[LoversLab Account](https://www.loverslab.com/)**~~
+* **~~[LoversLab Account](https://www.loverslab.com/)~~**
   * ~~You no longer need to log into LoversLab in Wabbajack *before* the installation, you will be prompted *during*, instead.~~
-  * `No longer required as of v0.9.0.8.`
+  * `No longer required as of PS version [0.9.0.8].`
 * **~~[VectorPlexus Account](https://vectorplexis.com/)~~** 
   * ~~VectorPlexus is permanently down, please join the Discord to acquire any missing mods from the backup links.~~
-  * `No longer required as of v0.9.0.7, site is dead.`
+  * `No longer required as of PS version [0.9.0.7], site is dead.`
 * ~~**[Mega Account](https://mega.io/)**~~
   * ~~Required for some files not hosted on Nexus.~~ 
   * `No longer required - can "log in" anonymously.`
@@ -138,23 +138,23 @@ As of PS version [0.9.0.7], Creation Kit is <ins>no longer required</ins>.
 # 4 Installing the Modlist via Wabbajack
 Make sure you have performed all the steps above <ins>before</ins> continuing with the installation! 
 
-> When **<ins>updating</ins>** the modlist, the steps are the same as for installing it the first time. Due to a rare bug with WJ, it is however recommended to start out with an <ins>empty</ins> installation folder (caveat: any manually made changes will be lost this way). You may retain your downloads folder - just keep in mind that unused downloads are not cleared out automatically, so eventually you will end up with a lot of wasted space.
+> When **<ins>updating</ins>** the modlist, the steps are the same as for installing it the first time. To save Wabbajack from wasting time hashing existing files, you may want to simply start with an empty folder instead of overwriting an existing installation. You may retain your downloads folder - just keep in mind that unused downloads are not cleared out automatically, so eventually you will end up with a lot of wasted space.
 
 ## 4.1 Create Folders
-Create three new folders at (or close to) the root of your drive:
+Create these new folders at (or close to) the root of your drive:
 * `Project Skyrim`
 * `Wabbajack`
-* `Wabbajack Downloads`
+* `Wabbajack downloads`
 
 WJ will delete <ins>everything</ins> in the installation folder - including itself - that it does not expect to be there! 
 
-> The downloads folder is theoretically exempt from this - but to be on the safe side, do **not** put it inside the installation folder, even if WJ suggests this automatically.
+> A folder named "downloads" is theoretically exempt from this.
 
 ![unknown (1)](https://user-images.githubusercontent.com/116535023/197645646-cdc7d058-43c0-403f-80cb-038ea317f0cb.png)
 
 ## 4.2 Download Wabbajack
 
-Get the `.zip` file of the latest release of Wabbajack **[here from the homepage](https://www.wabbajack.org/)** or from the **[GitHub page](https://github.com/wabbajack-tools/wabbajack/releases)**, put it into your "*Wabbajack*" folder and extract it.
+Get the `.zip` file of the latest release of Wabbajack **[here from the homepage](https://www.wabbajack.org/)** or from the **[GitHub page](https://github.com/wabbajack-tools/wabbajack/releases)**, put it into your `Wabbajack` folder and extract it.
 
 * It should include:
   * `Wabbajack.exe`
@@ -166,7 +166,7 @@ Download the **PROJECT Skyrim Wabbajack files** and the **ini files** **[here](h
 Then extract the `PROJECT Skyrim x.x.x.x.zip` file.
 * It will contain:
   * `PROJECT SKYRIM.wabbajack`
-  * `PROJECT SKYRIM.wabbajack.meta.json` (optional)
+  * `PROJECT SKYRIM.wabbajack.meta.json` (optional, just a log file)
 
 ## 4.4 Run Wabbajack
 Open `Wabbajack.exe` in your "*Wabbajack*" folder. 
@@ -183,17 +183,17 @@ Select "*Install From Disk*" at the top right...
 
 ![Install From Disk image](https://github.com/user-attachments/assets/a1f46da2-2581-4a25-aedf-ba56219b420c)
 
-.... then point it to your "*Wabbajack*" folder and select the `Project Skyrim x.x.x.x.wabbajack` file:
+.... then point it to your `Wabbajack` folder and select the `Project Skyrim x.x.x.x.wabbajack` file:
 
 ![Wabbajack File image](https://github.com/user-attachments/assets/a34872c8-5a65-476d-b5ad-677e0e749fa9)
 
-Set your `Project Skyrim` folder as the installation location, and `Wabbajack Downloads` as the downloads location:
+Set your `Project Skyrim` folder as the installation location, and `Wabbajack downloads` as the downloads location:
 
 ![Paths image](https://github.com/user-attachments/assets/e43f875b-bfa8-4d77-b36a-f57eb1993288)
 
 Then press the "*Install*" button in the bottom right.
 
-> Some mods may have to be downloaded manually. A window will pop up with the site to download the mod from. **Pay attention**: At the top of the window, it will tell you which file exactly to download. If you have downloaded the wrong file it will let you know at the end.
+> ~~Some mods may have to be downloaded manually. A window will pop up with the site to download the mod from. **Pay attention**: At the top of the window, it will tell you which file exactly to download. If you have downloaded the wrong file it will let you know at the end.~~ `No more manual downloads as of v0.9.0.8.`
 
 ## 4.5 Installation Complete
 If the installation finished successfully - great! Press "*Create Shortcut*" to create a shortcut to the custom instance of Mod Organizer that you will be using to launch **PROJECT Skyrim**, and then close Wabbajack.
@@ -203,13 +203,13 @@ If the installation finished successfully - great! Press "*Create Shortcut*" to 
 ![Shortcut image](https://github.com/user-attachments/assets/71ed7a94-dbc0-4409-b861-65734f16ab85)
 
 ### 4.5.1 Installation Failed?
-There may be some mods or files missing, giving you an error; Wabbajack will let you know which mods have issues.
+There may be some mods or files missing, giving you an error. Wabbajack will let you know which mods have issues, and on the "Show missing archives" page present you with links to manually download them. Put them in your `Wabbajack downloads` directory (<ins>do not unpack them</ins>), then resume the installation process by <ins>restarting WJ</ins> and repeating the steps under "*4.4 Run Wabbajack*".
 
 ![Faillure image](https://github.com/user-attachments/assets/a251d9f0-7066-450f-8164-eb2ad4ae0b7f)
 
 > The WJ log can also be found at `%locationOfYourWabbajackFolder%\Wabbajack\%version#%\logs\Wabbajack.current.log`.
 
-Our community has compiled a list of mods that often give users trouble. Join the Discord and find them in the *backup links channel*. Download any that you have an issue with and put them in the "*Wabbajack downloads*" directory (<ins>do not unpack them</ins>), then resume the installation process by <ins>restarting WJ</ins> and repeating the steps under "*4.4 Run Wabbajack*".
+If any files still give you trouble, join the Discord and check *support-installation* or the *backup-links* channels.
 
 > If you need to restart Wabbajack for any reason, you won't need to re-acquire any mods you have already downloaded, WJ will continue where it left off.
 
@@ -230,6 +230,8 @@ Our community has compiled a list of mods that often give users trouble. Join th
     * DO NOT Alt+Tab out, leave the game window active until the download is finished.
     * Exit the game, DO NOT verify game files.
     * Rerun the Wabbajack installation.
+
+> Project Skyrim v0.9.0.8 uses the "lower-case-c" version obtained via the in-game "Creations" menu, i.e. the second method listed here.
 
 ### 4.5.3 Other Installation Errors
 If you are still having issues, join our **[Discord](https://discord.gg/hBMst84gUp)** server and check out the <ins>*faq-installation*</ins> and the <ins>*installation support channel*</ins>.
